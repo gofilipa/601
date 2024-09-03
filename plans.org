@@ -1,0 +1,363 @@
+* class plans
+** week 1, introduction to the course
+Agenda:
+- Syllabus day
+- introductions, myself and you
+- overview of the course, assignments, readings
+- break
+- talk about reading for grad school
+- talk about information studies and unpack "information"
+
+Myself
+- Filipa Calado, call me Professor.
+- Background in Literature, Queer studies, Digital Studies
+- Using technology to study queer literature (dissertation)
+- Now interested in language broadly, how meaning changes across
+  different forms of language, how these are affected by technology
+  (recently things like AI) and how to use tech to study language.
+- Teaching for 8 years across NYC universities, NYU, New School,
+  CUNY; classes on writing, critical thinking, data science, creative
+  coding. So a wide range.
+- First semseter teaching at Pratt, am very excited.
+
+The course
+- INFO 601:
+  - Introduction to the field of "information studies"
+    - broad term, encompasses work by librarians, analysts, cultural
+      heritage curators, managers
+  - Exploring the question, what is information? How does form affect
+    meaning? Source, platform, speaker, audience, material substrate.
+  - Thinking critically about information production
+  - Different specializations and jobs available to info practitioners
+  - Also, an introduction to graduate school, to thinking, reading,
+    and writing critically.
+    - how to insert yourself into an academic/professional
+      conversation.
+  - Finally, we take a critical perspective that pays attention to
+    structures of power and how they affect all aspects of
+    information.
+- Assignments:
+  - readings every week
+  - posting on discussion board every week
+  - some 'fieldwork' (attending 2 events and writing about it)
+  - final project (book review) highly scaffolded
+  - class discussion major focus.
+
+Will go through the syllabus in more detail. But for now let's do
+introductions.
+
+Around the room, say your name, program, and best content you've
+consumed lately.
+- Professor Calado, I'm faculty, no program. But I would have been in
+  Data Analysis probably; and House of the Dragon. So good. Well
+  paced.
+
+Syllabus Review
+- Go over:
+  - Course Info
+  - Instructor Info
+  - Course Description
+  - Course Goals
+  - Learning Outcomes
+  - Sources, Canvas
+  - Format - discussion
+- Assignments
+  - Discussion posts on canvas, 3 times per week, 2-3 sentences per
+    post.
+  - Fieldwork
+    - 2x/semester, reports due on Nov 26 on Canvas, and you will also
+      share them in class the week that you do them. 5 minutes max, so
+      like 2 page report.
+    - gets you to experience the field in practice, attend events like
+      talks and lectures
+    - can be virtual
+    - one of them should be the Ethics and Technology forum end of
+      October, we will be reading the speaker's book anyway.
+    - ask me if you are not sure if something counts.
+    - by november 26
+  - AI activity
+    - due in 2 weeks, 1000 words, or 3 pages max (double spaced)
+    - options include
+      - talk to a chatbot
+      - analyze a TOS
+      - review a court case
+      - do an analysis of your chosen activity, submit online, and we
+        will spend an entire day sharing and discussing them.
+  - Book Review
+    - final project
+    - highly scaffolded, will work in parts, proposal, drafts.
+    - choose a book from the last 3 years and review it. Make a case
+      for older books
+    - summarize argument, significance, context.
+    - about 12 pages.
+    - last month of the semseter will be focused on this assignment.
+  - Course Schedule
+    - weeks are broken up into "themes" in bold
+    - example: next week is AI, the follwing is being online
+    - Also weeks that pertain to different programs in the dept, like
+      design and archives
+    - do not read ahead
+    - questions?
+
+BREAK
+
+How to read for grad school
+- how do you read longer things? More academic things?
+- what strategies (if any) do you use?
+- is there an order or way to go about it?
+- Now, read the article in 10 minutes, while thinking about:
+  - Do these seem like good strategies, why or why not?
+  - What have you done that works for you, and what do you think
+    wouldn't work?
+- share & discuss
+
+
+"Information" freewrite and discussion
+- 5 minutes
+  - Where do you get your information? Make a list.
+  - How do you determine if it's good or bad information? Credible?
+    How important is this step?
+  - What is the biggest challenge to consuming information in today's
+    world?
+- pair & share
+
+Wrap up
+- remember readings and discussion posts!
+
+** week 2, artificial intelligence
+
+Agenda
+- topic today: artificial intelligence
+- some writing about the readings
+- some talking about the readings
+- break
+- talking about AI, maybe going into depth about how it works
+- some prep for next week's AI activity
+
+*** introductions 10 min
+Name, program, one thing you want to learn how to do. 
+
+*** freewrite 10 min
+- What idea or detail from the reading was most interesting to you?
+  What do you find so compelling about it? Why is it important?
+
+*** share in groups of 2 or 3 people 10 minutes
+Each person shares what they wrote.
+
+Then, as a group, you decide one point to share with the class.
+
+*** reframe your chosen point as a question 5 minutes
+But, before you share, try to re-write your point as a question. You
+want to write a question that is open-ended (not a yes/no question),
+and that would inspire different kinds of responses.
+
+For example, if your interest is something like, "the difficulty of
+removing bias and discriminatory views from the data used to train AI
+chatbots," you might re-frame the question like, "what are actual ways
+that we can make AI training datasets less discriminatory and biased?"
+OR you might go deeper to ask something like, "if we cannot remove
+bias from datasets, is it possible to use AI tools in an ethical way?
+How could we do that?"
+
+Try to write questions that inspire curiosity and different points of
+view. This is actually hard to do, so just try your best!
+
+*** share 10 minutes
+Go around the room and share your questions, writing them down on the
+googledoc.
+
+Then, I (filipa) choose a question to start the conversation. We can
+take a minute or so to think about responding before discussion.
+
+*** discussion 45 min
+
+IFLA (2023). “Generative AI for Library and Information Professionals
+(draft), https://www.ifla.org/generative-ai
+- IFLA: Interational Federation of Library Associations and
+  Institutions
+- What is it about?
+  - Guide on what is Generative AI for people who work in information
+    professions and lack technical background.
+  - has excellent sources cited.
+  - emphasizes ethics and mis/dis-information issues:
+    - bias, hallucination
+    - overwhelming amounts of information
+    - lack of transparency of how they are made
+    - lack of privacy for users
+    - issue of copyright and stealing the training data
+    - can eliminate jobs, and put people w/o access at disadvantage
+    - capitalism, big tech runs it.
+
+- Discuss:
+  - how do the "good" qualities of AI compare with the "bad"?
+  - how can or should we use AI if it's not ethical?
+    - maybe we shouldn't?
+    - use it as part of a workflow, for summarizing, describing. Even
+      drafting. But as /part/ of work and not the whole.
+
+Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021,
+March). On the Dangers of Stochastic Parrots: Can Language Models Be
+Too Big?. In Proceedings of the 2021 ACM conference on fairness,
+accountability, and transparency (pp. 610-623).
+https://doi.org/10.1145/3442188.3445922
+- who?
+  - Bender, comp linguist scholar at UWash
+  - Gebru, former Google AI Ethics researcher, now helps to lead DAIR
+  - Smitchell, former Google AI Ethics researcher, now at Huggingface
+
+- published in 2021, way ahead of its time (ChatGPT came out Fall
+  2022).
+
+- What is the main argument?
+  - Ethical implications of one aspect about LLMs: SIZE
+    - environmental effects
+    - socialeconomic effects - marginalized people
+    - bias and discrimination - data
+    - human interpretation of text as meaningful leads to
+      misinformation/misinterpretation
+
+- "Unfathomable training data"
+  - "size doesn't gaurantee diversity"
+    - we assume large size means more representation, but that's not
+      the case.
+    - statistical methods amplify what is most frequent. They suppress
+      outliers.
+    - we get something that perpetuates a majority view: users who are
+      young, male, from developed countries.
+  - we cannot automate the removal of bias
+    - list of dirty, naughty, etc. words.
+    - removing whole pages containing bad words overlooks context,
+      nuance, reclamation, explanation.
+  - what is the solution?
+    - avoid "documentation debt" by budgeting to make high quality
+      datasets.
+      - document motivations behind data collection
+      - document process of cleaning
+      - "pre-mortem" - explore hypothetical failures
+      - "value sensitive design" - make sure stakeholder values are
+        supported from the outset.
+
+- "communicative intent"
+  - to communicate, we need to guess the intention of the speaker.
+  - humans see meaning in everything, we have to impose meaning. 
+
+
+Read Princeton University Library Libguide on Generative AI’s
+“Copyright” page,
+https://libguides.princeton.edu/c.php?g=1341922&p=10257371.
+- Authors Guild vs OpenAI & Microsoft
+  - plaintiffs allege that OpenAI stole content in a way that affects
+    creators' livelihoods.
+  - defendants say it's "Fair Use" due to highly transformative nature
+    of LLMs. That it goes beyond the jurisdiction of copyright law,
+    we need new ways of litigating these objects.
+
+- NYT vs OpenAi
+  - NYT says training on their content is stealing
+  - OpenAI says no, that it only trained to get a sense of language.
+    That NYT doesn't own language forms.
+
+
+Watch “What is AI? Part 1, with Meredith Whittaker | AI Now Salons” on
+youtube, https://www.youtube.com/watch?v=US8xKmD7G1s
+- Former google employee, now speaks out against Big Tech; CEO of
+  Signal messaging app
+- What is her argument?
+  - AI companies are not only concentrating power, but are also a
+    result of concentrated power. This is a structural problem.
+  - "how do you democratize something that was created by centralized
+    power?"
+    - the compute required means only a few can host the models.
+      Everyone else must rent it.
+- She's putting forth a certain narrative about how AI came to be.
+  - Privatization of the internet, was defense, academics, now
+    private.
+    - Surveillance business model, for advertizing
+    - Now big tech sells server space, because they have the
+      infrastructure for it. They also have the data. 
+- What got her started thinking about the dangers of AI?
+  - Harvard researcher came in talking about using AI to predict
+    genocide. What is genocide in data? 
+- What are the solutions?
+
+First two sections, “What is compute and why does it matter?” & “How
+is the demand for compute shaping AI development”, in Jai Vipra and
+Sarah Myers West, “Computational Power and AI,” AI Now Institute,
+September 27, 2023,
+https://ainowinstitute.org/publication/policy/compute-and-ai.
+- who is AI NOW?
+  - research group, institute, on AI and AI policy. Explores dangers
+    of AI and big tech on society, environment, economy.
+- what is the main message?
+  - compute is computational power
+  - how does the industry concentration in compute affect the way that
+    AI tech is being produced?
+    - companies act quickly to protect their dominance, racing to
+      release products before they are ready or safe.
+    - further expands power and reach
+    - money is bottom line
+  - "compute stack" of hardware and software and infrastructure. 
+
+*** break 15 min
+
+*** continue discussion 30 min
+
+*** how does chatgpt work? 20 min
+**** How does ChatGPT work?
+How does it know what to respond when someone asks it a question?
+
+More specifically, how does it know what language to generate, what
+words follow other words?
+- by prediction.
+- it learns by reading. Gains an understanding of language from
+  processing massive amounts of text, deriving patterns.
+
+It builds a kind of model for each word, what words tend to surround
+that word in a sentence.
+- key idea here is "context"
+
+This model for meaning is called a "word vector" '
+
+**** Word Vectors
+Word Vectors:
+- numerical representation of words. Words represented by numbers, a
+  list of numbers.
+- Each number represents that word's relation to another word, in the
+  form of a probability. How they are related.
+  - here we have a word, "Artificial" and related words, each with
+    similarity scores.
+  - the similarity scores together comprise the vector.
+
+Let's take the word "cat" and "dog" 
+- furry, milk, bone, lick
+  
+This is how we turn language, the semantics and expressivity of
+language, into something a computer can understand.
+
+Every word becomes a dot in graphical space, and is represented by a
+list of numbers, very long. 
+
+**** King - Man + Woman = Queen
+Not only do computers process language, but they can do math with it.
+- Each word is represented by a series of numbers,
+  with each of those numbers representing it's relationship to another
+  word. How closely they are related.
+
+Linear algebra, matrix algebra.
+
+Calculus.
+
+Cosine similarity and Euclidean distance. 
+
+Read more in the Word2Vec Paper.
+
+*** introduce AI activity
+System probe, privacy audit, or legal opinion.
+
+Review the requirements for each, and use the rest of class time to
+get started on the assignment. 
+
+
+
+
+
