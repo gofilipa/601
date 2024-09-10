@@ -381,12 +381,8 @@ Discuss AI Activity in Groups, 25 min
   with the class.
 
 Share out, 30 - 45 min
-- anybody want to share their experiences?
 - write down the questions on the board
-
-Continue last week's discussion, 20-30min
-- review the notes from last week's AI discussion
-- choose one to pick up dicussion
+- anybody want to share their experiences?
 - if nothing, point to the "can we ever really remove bias, and what
   would that look like?"
   - explain what happened with the list of dirty words.
@@ -395,7 +391,8 @@ Continue last week's discussion, 20-30min
 BREAK - 20 minutes
 
 Freewrite, 10 min
-- choose one of the questions
+- review the notes from last week's AI discussion
+- choose one to pick up dicussion
 
 Discuss freewrite, 30 min
 
