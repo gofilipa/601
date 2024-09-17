@@ -370,7 +370,7 @@ Introductions, 10 min
 - What was your dream job as a kid?
 - Favorite disney movie?
 
-Discuss AI Activity in Groups, 25 min
+Discuss AI Activity in Groups, 30 min
 - split up by area: probe, audit, legal
 - 20-25min: share what you did with your group, go into some detail
   about the questions you were asking or thinking about
@@ -390,12 +390,23 @@ Share out, 30 - 45 min
 
 BREAK - 20 minutes
 
-Freewrite, 10 min
+Freewrite, 15 min
 - review the notes from last week's AI discussion
 - choose one to pick up dicussion
 
-Discuss freewrite, 30 min
+Discuss freewrite, 45 min
 
+AT END
+- mention that next week we will start to do some work for the final
+  project in class.
+  - looking at sources where to find books. Where do we find books?
+    - book reviews
+    - spend a few minutes looking for books in book reviews, something
+      relevant to information studies. 
+- next week, we may have visitors in the class. They are here to see
+  me teach more than you.
+
+IF TIME:
 AI advertisement activity, 20 min (10/10):
 - go to website for:
   - claude, gemini, or chatgpt
@@ -409,22 +420,165 @@ AI advertisement activity, 20 min (10/10):
     there anything we can do as consumers? Or do we just not use
     products?
 
-AT END
-- mention that next week we will start to do some work for the final
-  project in class.
-  - looking at sources where to find books. Where do we find books?
-    - book reviews
-    - spend a few minutes looking for books in book reviews, something
-      relevant to information studies. 
-- next week, we may have visitors in the class. They are here to see
-  me teach more than you.
-
 ** week 4, being, online
 apple vision pro commercial
 https://www.youtube.com/watch?v=TX9qSaGXFyg
-
-
 mci TV add 1997: https://www.youtube.com/watch?v=ioVMoeCbrig
+
+*** Agenda
+- introductions
+- discuss readings
+- "preferences" persona activity
+- next week we will start working on the final projects in class,
+  doing some brainstorming about areas of interest
+
+*** introductions 10:
+- dream vacation spot
+
+*** think/pair/share: 30-40 minutes
+- what was one part of the reading that challenged or confused you: 2 minutes
+- what was one part of the reading that compelled you or made you
+  think about something differently: 2 minutes
+- groups of 3 or 4: share, choose one of each to share with the class:
+  5-10 minutes
+- share with the class: write down on the board: 15 minutes
+
+*** discuss as a class: 30-45 minutes
+
+*** IF TIME:
+- Let's try to sketch out the different views each of these writers
+  have on "being online". What are the main arguments for each? 
+
+*** Readings:
+
+Donna Haraway, “A Cyborg Manifesto: Science, Technology, and
+Socialist-Feminism in the Late Twentieth Century,” from Simians,
+Cyborgs, and Women: The Reinvention of Nature. 1989. pp. 149-181.
+- What does the *cyborg figure* enable Haraway to do? What does it
+  allow her to signify or represent?
+  - a mix of ideas, theories, even those taken from oppressive
+    paradigms like the "informatics of domination"
+  - "illegitimate offspring" (151).
+  - probably the most useful thing about the cyborg figure, is that it
+    is a pastiche, mixture, and allows us to take things that were
+    created to oppress or to exploit, to separate and partition, and
+    use them for creating new kinds of collectivities, communities,
+    affinity-based solidarities.
+- Critique of feminism: different feminisms have sought a kind of
+  unification of women, which in every case serves to leave some women
+  out. Identity politics is a problem, because any category
+  necessarily overlooks someone. 
+  - marxist feminism: women unified by an idea of labor.
+  - radical feminism: women unified by sexualization/objectificaiton.
+  - Haraway says that these unifications are totalizing, applying one
+    definition to account for all women, which leaves out those
+    already on the margins:
+    - second wave feminism left out working class women, largely women
+      of color, who were already in the workforce.
+- "Informatics of Domination"
+  - how power structures and paradigms are shifting over time, a
+    problem but also an opportunity. 
+  - new models for control in the networked age:
+    - eugenics -> population control
+    - race -> economic development
+  - women are now in the "integrated circuit", in the "homework
+    economy," poverty has been feminized.
+- Language: a "problem of coding"
+  - we do not want universal translation.
+    - we are already cyborgs, the question is will we harness our
+      partiality for resisiting domination, rather than submitting to
+      exploitative and consumptive power? 
+  - "irony", "blasphemy":
+    - saying things that are not expected,
+    - perverting something meant to be sacred. 
+
+Nakamura. “Syrian Lesbian Bloggers, Fake Geishas, and the Attractions
+of Identity Tourism,” Hyphen: Asian America Unabridged, July 2011
+- idea of "*identity tourism*" - trying on an exotic / unfamiliar
+  identity in online spaces.
+- Why did they impersonate lesbians?
+  - "Getting strangers to talk to you and give you attention is much
+    easier when you’re an attractive lesbian Asian girl with an
+    important story to tell than if you’re a frumpy white middle-aged
+    graduate student, as was MacMaster"
+  - "appropriating lesbian identities would give them readers and
+    afford them entry to a close-knit community that they could never
+    hope to penetrate in real life"
+  - He says he did it to save/ advocate for the culture, which is
+    often hated or denigrated for homophobia, misogeny.
+    - but he plays into a history of white men speaking for brown
+      women in the name of dignity, rights, equality. 
+
+“Prologue” from N. Katherine Hayles’ How We Became Posthuman: Virtual
+Bodies in Cybernetics, Literature, and Informatics, 1999:
+https://press.uchicago.edu/Misc/Chicago/321460.html
+- Hayles is saying that computation, technology performs the illusion
+  of the body splicing from the mind -- but the mind, our thoughts,
+  our intelligence, our gender, is embodied. We cannot forget that.  
+- "Your job is to pose questions that can distinguish verbal
+  performance from embodied reality."
+- "Here, at the inaugural moment of the computer age, the erasure of
+  embodiment is performed so that "intelligence" becomes a property of
+  the formal manipulation of symbols rather than enaction in the human
+  lifeworld."
+- "Why does gender appear in this primal scene of humans meeting their
+  evolutionary successors, intelligent machines? What do gendered
+  bodies have to do with the erasure of embodiment and the subsequent
+  merging of machine and human intelligence in the figure of the
+  cyborg?"
+- "The very existence of the test, however, implies that you may also
+  make the wrong choice. Thus the test functions to create the
+  possibility of a disjunction between the enacted and the represented
+  bodies, regardless which choice you make. What the Turing test
+  "proves" is that the overlay between the enacted and the represented
+  bodies is no longer a natural inevitability but a contingent
+  production, mediated by a technology that has become so entwined
+  with the production of identity that it can no longer meaningfully
+  be separated from the human subject."
+
+Tufekci, Zeynep. (2017). “We're Building a Dystopia Just to Make
+People Click on Ads.” TED. https://www.youtube.com/watch?v=iFTWM7HV2UI
+- Explains how AI can affect our online experience, from 2017
+  perspective.
+- Makes some great points:
+  - Youtube showing a vegan video after a vegetarian video. The
+    algorithm keeps you there by showing you more and more hardcore
+    things.
+    - Something here about human attention, what we pay attention to,
+      what we are drawn to.
+  - Curated feeds mean that we are not seeing what other people are seeing.
+    - /without a common basis of information, we cannot have real
+      debate/.
+    - "personalization" makes public debate impossible.
+      - as was on display last Tuesday night. 
+
+*** BREAK
+
+*** Activity on Online Ads (20/30):
+- visit two or more of the following:
+  - https://myadcenter.google.com/
+  - https://x.com/settings/your_twitter_data/twitter_interests
+  - https://www.facebook.com/ads/about/?entry_product=ad_preferences
+  - https://accountscenter.instagram.com/ad_preferences/
+- Explore the settings on those pages, looking for records of things
+  you like or things that the app thinks you will like.
+  - You may have to click on things like "customize ads" or "ad
+    preferences" to see your data.
+- After poking around a bit, spend 10 minutes reflecting on the
+  following: 
+  - how surprised are you by the infromation about your preferences?
+  - how accurate is the data?
+  - take note of the interface that these companies use to show your
+    data (what do they show, and how do they show it?). How do they
+    want you to engage with this data?  
+
+*** IF TIME: Freewrite:
+- which of the perspectives from the readings most closely aligns with
+  your experience of being online today?
+  - For example, thinking of Donna Haraway's concept of the cyborg.
+    How could you marshal the cyborg to respond to the ways that the
+    ad industry operates in today's world? Or, what about Nakamura's
+    point about identity tourism, which occurs online?
 
 ** week 5
 
