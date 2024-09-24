@@ -554,7 +554,10 @@ People Click on Ads.” TED. https://www.youtube.com/watch?v=iFTWM7HV2UI
 
 *** BREAK
 
-*** Activity on Online Ads (20/30):
+*** continue discussion
+*** IF TIME: Activity on Online Ads (20/30):
+
+
 - visit two or more of the following:
   - https://myadcenter.google.com/
   - https://x.com/settings/your_twitter_data/twitter_interests
@@ -580,7 +583,264 @@ People Click on Ads.” TED. https://www.youtube.com/watch?v=iFTWM7HV2UI
     ad industry operates in today's world? Or, what about Nakamura's
     point about identity tourism, which occurs online?
 
-** week 5
+** week 5, governance
+Goals
+- discuss readings on "governance theme" - winnowing down our
+  conversations to more specific frame of how information environments
+  are governing and being governed by certain powers.
+  - all of our work prepping us for the next several weeks, where we
+    will dive into: design, archives, libraries
+- critical reading skills:
+  - map out some of the perspectives contained within the readings
+  - grasping arguments and terminology, to understand the views in a
+    more systematic way (so that we can continue to build)
+    - defining terms and main ideas from each of the readings.
+- start to brainstorm book review project toward the end of class.
+- next week, we will start talking about design, then archives. 
+
+Agenda
+- introductions:
+  - name, favorite disney character 
+- what was one part of the reading that was confusing or you didn't
+  quite understand: 20-30 min
+  - write for 5 minutes
+  - share and discuss for 15 minutes
+- what was something from the reading that you found interesting? Why
+  was it interesting? 30
+  - write for 5-10 minutes
+  - small group for 10-15 min
+  - share with the class 15 min
+- if time: start discussion, 15-30 minutes
+ - define some key terms from each of these authors
+      - surveillance capitalism
+      - new jim code
+      - big other
+      - open evolution
+      - universal standing
+- BREAK
+- continue discussion, going down the list of questions, 30 min
+  - from last week: "What shifts in the culture have made people okay
+    with “ad-surveillance” technology?"
+  - mapping out the positions
+    - Write out their positions in one or two sentences.
+      - benjamin: current tech perpetuates old racial / economic divisions
+      - zuboff: current tech creates a new system of surveillance
+        capitalism that replaces market capitalism
+      - lessig: current tech needs to maintain its open source
+        principles if it is to remain open and accessible to all
+- brainstorming final projects: 30 min
+  - freewrite: 10 minutes
+    - From the past month, what are some of the class conversations or
+      ideas from the reading that you found most compelling?
+      - what about these did you find interesting?
+      - then, identify 2 or 3 keywords or key phrases associated with your interest.
+  - Share with a partner, 5 minutes
+  - Share as a class, making a list of keywords on the board.
+
+*** readings
+**** Ruha Benjamin - Introduction, from Race After Technology: Abolitionist
+Tools for the New Jim Code
+
+Talks about how technologies carry through historical prejudices about
+blackness. Current society perpetuates racism by transforming it into
+ever new tools, in this case, data gathering and surveillance, machine
+learning.
+
+technology extends racism and anti-Black violence, a paradigm she
+calls “the New Jim Code”: “the employment of new technologies that
+reflect and reproduce existing inequities but that are promoted and
+perceived as more objective or progressive than the discriminatory
+systems of a previous era” (5-6).
+
+"The New Jim Code" - "the employment of new technologies that reflect
+and reproduce existing inequalities but that are promoted and
+perceived as more objective or progressive than the discriminatory
+systems of a previous era" (3).
+- some names are "normal" (neutral) in our society. That just means
+  they are unmarked.
+- the term "code" here means something specific. It means information,
+  markup, about a person. "Codes are both reflective and predictive".
+  They indicate the way that a person will be treated. 
+
+The values that drive tool production -- objectivity, profitability --
+are inherently racist:
+- “Far from coming upon a sinister story of racist programmers
+  scheming in the dark corners of the web, we will find that the
+  desire for objectivity, efficiency, profitability, and progress
+  fuels the pursuit of technical fixes across many different social
+  arenas. Oh, if only there were a way to slay centuries of racial
+  demons with a social justice bat! But, as we will see, the road to
+  inequity is paved with technical fixes” (7).
+- “The animating force of the New Jim Code is that tech designers
+  encode judgments into technical systems but claim that the racist
+  results of their designs are entirely exterior to the encoding
+  process” (11-12).
+- “With emerging technologies we might assume that racial bias will be
+  more scientifically rooted out. Yet, rather than challenging or
+  overcoming the cycles of inequity, technical fixes too often
+  reinforce and even deepen the status quo” (3).
+- “The animating force of the New Jim Code is that tech designers
+  encode judgments into technical systems but claim that the racist
+  results of their designs are entirely exterior to the encoding
+  process” (6).
+
+  → are tools good or bad in themselves? I have believed in the past
+  that tools can be used in good or bad ways. That it was about
+  agency, activity, discovery, performance. But it seems that tools
+  themselves contain biases. What is the role of human agency in using
+  biased tools?
+
+Our current tools perpetuate old biases:
+- This is meant as an extension of New Jim Crow, which argues that
+  current society perpetuates racism by criminalizing it, war on
+  drugs, mass incarceration. It diverts racist action into new forms.
+  The newest form of this diversion is technology.
+- “the language of “progress” is too easily weaponized against those
+  who suffer most under oppressive systems” (4).
+- “These tech advances are sold as morally superior because they
+  purport to rise above human bias, even though they could not exist
+  without data produced through histories of exclusion and
+  discrimination” (5).
+
+Race is a technology, a tool: 
+- “This field guide explores not only how emerging technologies hide,
+  speed up, or reinforce racism, but also how race itself is a kind of
+  technology – one designed to separate, stratify, and sanctify the
+  many forms of injustice experienced by members of racialized groups,
+  but one that people routinely reimagine and redeploy to their own
+  ends” (19).
+- “this text presents a case for understanding race itself as a kind
+  of tool – one designed to stratify and sanctify social injustice as
+  part of the architecture of everyday life” (9).
+
+Being marked, named:
+- “Invisibility, with regard to Whiteness, offers immunity. To be
+  unmarked by race allows you to reap the benefits but escape
+  responsibility for your role in an unjust system” (2).
+- “The view that “technology is a neutral tool” ignores how race also
+  functions like a tool, structuring whose literal voice gets embodied
+  in AI. In celebrating diversity, tokenistic approaches to tech
+  development fail to acknowledge how the White aesthetic colors AI.
+  The “blandness” of Whiteness that some of my students brought up
+  when discussing their names is treated by programmers as normal,
+  universal, and appealing” (15).
+
+  → white people want tech to make them invisible. The opposite
+  impulse has to employ the body, prioritize the marked body. Make the
+  body hypervisible and open to vulnerability.
+
+  → Wendy Chun’s image of the window. The screen goes both ways. You
+  are already being seen when you use technology.
+
+**** Zuboff, S. (2015). Big other: Surveillance Capitalism and the
+Prospects of an Information Civilization. Journal of Information
+Technology, 30(1), 75-89. https://doi.org/10.1057/jit.2015.5
+
+This is a perspective from 2015, how does this compare to Ruha
+Benjamin writing about race in 2021? (Benjamin would say that
+rather than a break with the past, we are doing more of the same). 
+
+What about the terminology here, what does it give us that others
+don't? 
+
+- "surveillance capitalism"
+  - "unexpected and often illegible mechanisms of extraction,
+    commodification, and control that effectively exile persons from
+    their own behavior while producing new markets of behavioral
+    prediction and modification."
+  - from "market capitalism" to "surveillance capitalism"
+
+- "big other" - "a ubiquitous networked institutional regime that
+  records, modiﬁes, and commodiﬁes everyday experience from toasters
+  to bodies, communication to thought, all with a view to establishing
+  new pathways to monetization and proﬁt. Big Other is the sovereign
+  power of a near future that annihilates the freedom achieved by the
+  rule qof law." (81)
+
+  --> how would Ruha Benjamin respond to this?
+
+- "informate" - the ability of a machine to produce information while
+  carrying out instructions. It turns normal activities into an
+  "electronic text". 
+
+- "logic of accumulation" which underlies technological tools like
+  Google search. There's an old desire to incorporate more and more
+  machines to "enable more continuity and control," and this
+  development has led to not only efficient work but also the
+  production of more information, which can then be further analyzed,
+  and used to automate, optimize, etc.
+
+  -> "logic of accumulation" is one of those things that contribute to
+  notions of "objectivity" and "efficiency" which we so value in our
+  tools, and which, according to Benjamin, perpetuate racism.
+
+- Takes us on a point by point reading of google exec identifying
+  "four uses" of computation, showing how these create a new kind of
+  capitalism that's called "surveillance capitalism"
+  - data (quantity over quality) extraction (one way relationship) and
+    analysis,’
+    - rather than raising wages with profits, the employee is more
+      distanced from the employer.
+    - The assets are "surveillance assets", they are taken from users
+      often without their knowledge
+
+      -> isn't this is like the plundering of natural resources,
+      whereas now we are plundering human attention?
+  - ‘new contractual forms due to better monitoring,’
+    - they are actually creating new rules around privacy. Going
+      around and extracting data until they are stopped. How they got
+      "Street View". (And how ChatGPT was created, too).
+      - "New possibilities of subjugation are produced as this
+        innovative institutional logic thrives on unexpected and
+        illegible mechanisms of extraction and control that exile
+        persons from their own behavior" (85).
+  - ‘personalization and customization,'
+  - 'continuous experiments.
+
+**** Lessig, Lawrence. (1999). “Open code and open societies: values of
+internet governance,” Chicago-Kent Law Review 74, 101–116.
+https://cyber.harvard.edu/works/lessig/final.P
+
+- How do we read this today?
+  - All you need to connect to a URL is an IP address. That's all.
+  - "Nothing requires that the other side learn anything real about
+    you" (103).
+
+page 104: code implies values, defines space:
+- the code now protects privacy, but this won't always be the case,
+  because commerce does not like privacy.
+- "engineers are governors" (104).
+
+The internet is a product of a very specific history
+- started as a defense project, money to build up security
+- moved to an academic research project
+- made with open standards like HTML and HTTP
+
+A network can only grow if it is open (which means that all companies
+trying to make money off of it are profiting from open/free
+resources).
+
+Values encoded into open source:
+- "Open-Evolution" - things are built on a minimal structure so that
+  they can grow in multiple directions. "Do not play god". "Keep the
+  core simple".
+  - "modularity" - not about just efficiency or transparency, but
+    "permits code to be modified; it permits one part to be
+    substituted for another" (111).
+  - "jurisdiciton" - decentralized; so change comes from the masses,
+    from the bottom up. No one person can control the development.
+- "Universal Standing" - it is open so that anyone can work on it,
+  improve it. Not like politics that's only open to the crazies and
+  the rich.
+  - free to entry
+  - the foundation of the internet as a commons
+**** DW Documentary (2022). “Fake News, Propaganda, and Conspiracy Theories,” YouTube, https://www.youtube.com/watch?v=HDtFpGfORpE 
+- how information/disinformation has spread across major "superpower"
+  countries. A little different in each, but same effect: to mobilize
+  large groups of people that previously had not been mobilized.
+  - Countries like Russia and China, the government is driving the spread
+  - Countries like USA and the EU, conspiracy theorists are driving
+    the spread
 
 ** week 6
 
