@@ -842,7 +842,136 @@ Values encoded into open source:
   - Countries like USA and the EU, conspiracy theorists are driving
     the spread
 
-** week 6
+** week 6, design
+Goals
+- we need to do something with the discussion posts. Email chain? 
+- discuss readings, continuing to map
+- design activity
+- discuss final projects
+
+
+Agenda
+- introductions
+  - favorite musical album currently on loop
+
+- discussion posts?
+  - email chain?
+  - padlet?
+  - Some kind of interface that would encourage more response to each
+    other.
+
+- discussion(10/5/25) - 1 hr
+  - what are the different frameworks for design?
+    - defining terms from the readings
+
+  - QUICKWRITE: what questions or areas of interest do you have about
+    these frameworks, or about the readings in general?
+    - make a list of topics.
+    - go down the list.
+    
+- design activity - 30 min
+  - intro groups of 3 or 4: first, discuss (10 min)
+    - pick an interface from an app that you regularly use.
+    - pick a design framework that we discussed.
+    - do an analysis of ways that the interface engages with that
+      framework. Do you see the principles manifesting in design
+      decisions? How so?
+  - individual brainstorm: 5-10 minutes brainstorming ways you could
+    re-design the interface to speak more to one of your values
+  - 10 minute share with the group
+
+BREAK
+
+- design activity continued: 20 - 40 min
+  - 10 minutes prep your re-design
+  - 10 - 20 minutes share
+
+- brainstorming final projects: 30 min
+  - freewrite: 10 minutes
+    - From the past month, what are some of the class conversations or
+      ideas from the reading that you found most compelling?
+      - what about these did you find interesting?
+      - then, identify 2 or 3 keywords or key phrases associated with
+        your interest.
+  - Share with a partner, 5 minutes
+  - Share as a class, making a list of keywords on the board.
+
+*** readings
+**** Costanza-Chock, Sasha (2020). “Introduction: #TravelingWhileTrans, Design Justice, and Escape from the Matrix of Domination” in Design Justice: Community-Led Practices to Build the Worlds We Need. https://designjustice.mitpress.mit.edu/pub/ap8rgw5e/release/1
+The milimeter scanner is not meaning to look for non-conformity in
+gender; it's meant to look for terrorism. It just happens to encode
+this assumption into its UI.
+
+Small assumptions built into UI will scale up with AI: 
+- The same cisnormative, racist, and ableist approach that is used to
+  train the models of the millimeter wave scanners is now being used
+  to develop AI in nearly every domain. From my standpoint, I worry
+  that the current path of AI development will repro-duce systems that
+  erase those of us on the margins, whether intention-ally or not,
+  through the mundane and relentless repetition of reductive norms
+  structured by the matrix of domination. 
+
+Normativity built into UI is constructed from multiple assumptions:
+- "the particular sociotechnical configuration of gender normativity
+  (cis-normativity, or the assumption that all people have a gender
+  identity that is consistent with the sex they were assigned at
+  birth) that has been built into the scanner, through the combination
+  of user interface (UI) design, scanning technology, binary-gendered
+  body-shape data constructs, and risk detection algorithms, as well
+  as the socialization, training, and experi-ence of the TSA agents."
+  (2). 
+
+Draws from
+- intersectionality
+  - Kimberle Crenshaw, "Demarginalizing the Intersection of Race and
+    Sex", 1989.
+  - Krenshaw's definition in legal context. Black women are not
+    represented by Civil Rights law that protects black people, and by
+    law that protect womens' equality.
+  - "single axis framework"
+    - Used in lots of design, seeing only one dimension of
+      marginalization (sex, race, ability). Opposed to intersectional
+      framework.
+- matrix of domination
+  - due to intersectional analysis, we can see the existence of a
+    "matrix of domination" where race, class, and gender act together
+    to create different levels of oppression. Everyone has benefits
+    and harms across this matrix.
+  - Patricia Hill Collins, 1990, /Black Feminist Thought/.
+
+Design Justice "Principles":
+- good intentions are not enought to ensure that "design processes and
+  practices become tools for liberation", but also need principles.
+- "a framework of analysis of how design distributes benefits and
+  burdens between various groups of people. Design justice focuses
+  explicitly on the ways that design reproduces and/or challenges the
+  matrix of domination (white supremacy, heteropatriarchy, capitalism,
+  ableism, settler colonialism, and other forms of structural
+  inequity)."
+
+**** Pincus, John. (2018). “Gender HCI, Feminist HCI, Post-Colonial Computing, Anti-Oppressive Design, and Design Justice” A Change is Coming (Medium) https://medium.com/a-change-is-coming/gender-hci-feminist-hci-and-post-colonial-computing-f955a4054c89 
+
+- Gender HCI
+- Feminist HCI
+- Post Colonial Computing
+- Intersectional HCI
+- Anti-Oppressive Design
+- Design Justice
+
+**** Kevin Roose, “Why a Conversation with Bing’s Chatbot Left me Deeply Unsettled.” New York Times. February, 2023.
+- stokes fear. Establishes credibility, then makes wild claims about
+  AI "runaway personalities"
+- he tells Bing about shadow self, and then Bing develops a shadow
+  self.
+- but then at the end of the article, says he knows that this
+  personality is a trick and not real, with "made up emotions".
+
+
+What about the design of this tech reinforces our propensity to impose
+meaning?
+
+**** Berhan Taye, “The Plight of AI Production Pipeline Workers”, from Design Justice in AI conference, July 2024. Watch video from start until minute 36.
+- ways that workers are using the interface of these tools to resist. 
 
 ** week 7
 
