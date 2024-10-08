@@ -973,8 +973,206 @@ meaning?
 **** Berhan Taye, “The Plight of AI Production Pipeline Workers”, from Design Justice in AI conference, July 2024. Watch video from start until minute 36.
 - ways that workers are using the interface of these tools to resist. 
 
-** week 7
+** week 7, archives
 
+Goals:
+- adjusting some aspects of our class discussion, to make it more
+  participatory and to bring in different perspectives:
+  - starting with discussion posts, sharing with class
+  - more intentional discussion around solutions rather than just
+    critique: we've spent a lot of time analyzing the structures of
+    things, which is necessary. But we also need to look forward, and
+    think about possibilities and solutions (lest we lapse into
+    cycnicism).
+- second half of class, will start with brainstorming topics for the
+  book review project. Start with freewriting on our favorite
+  readings, and why.
+
+Introductions (10m)
+- best halloween costume, or what you wish you could have been (and
+  can still be).
+
+Discussion post Pair & Share (20-25)
+- groups of 3-4: what did you write about? (10)
+- choose one, turn into discussion question (5)
+- share with class (5-10)
+- write on the board
+
+Discuss (30)
+
+LHA presentation (10m)
+- tinyurl.com/y6ufs5hms
+- cataloguing practices
+- folksonomies
+
+Digital Collections Interface individual activity (10m):
+- choose an interface: LHA, NYPL, NYC Municipal Archives
+- try to find the digital archive section, and browse through the
+  items. 
+  - what can you guess about the way that documents are organized?
+  - what does the archive prioritize?
+
+Share (5-10m)
+
+BREAK
+
+In groups, organized by archive (10m):
+- what ways can the online interface be designed that speaks to some
+  of the aspects from our discussion?
+  - community-driven or oriented collections
+    - folksonomies
+  - serendipitious discoveries (elevating more marginalized objects)
+
+Discuss (15m)
+
+Freewrite (10m): favorite reading of the semester and why
+- what did you like so much? The topic being discussed, the approach
+  of the author? The writing itself?
+
+Share with the class, keywords (25m)
+- going around the room and sharing what you liked and why
+- the class helps to come up with 2 keywords for that reading
+
+
+
+*** critique vs solution
+- we've spent a lot of time tearing things down. Which is necessary.
+  You need to understand the territory if you're going to work well
+  within in. We need a "critical" perspective. But we also need
+  solutions. Now we are going to work toward that. 
+
+*** discussion posts
+- start by sharing your post with a friend, then with the class.
+- discussion from Nat about using AI tools for good. There must be
+  ways to use them toward equitable ends. Agreement by Youyuan.
+- wendy: how can we include diverse perpsectives when these are the
+  ones being shut out, underrepresented? For example, the "user
+  persona" - "A generalized representation of the ideal target
+  audience".
+  - what is the role of empathy in design (emily D, youyuan, youlu)
+
+*** readings
+**** McKinney, Cait. 2015. Body, Sex, Interface: Reckoning with Images at the Lesbian Herstory Archives. Radical History Review 122: 115–28.
+About the work being done at a community, volunteer run archives.
+
+Much of the data in the archives cannot be fully
+categorized/catagloged and digitized, because (1) we never got that
+information from the donor, we take everything and anything,
+"undescribability" and lack of donor agreements, and (2) we don't have
+the resources to do all of that work.
+- folksonomies
+- "the ways that all kinds of sex practices and gendered ways of being
+  scramble the categorical logics of structured databases" (3).
+
+What kind of interface would replicate some of the "uncategorizable"
+aspects of the materials?
+- "Pulling a “what do you say about this?” image out of the photo
+  drawer evokes wonder, because the ways these photos do not make
+  sense are dif cult to catalog and capture through mechanisms such as
+  the searchable data- base form" (10).
+
+There is a desire for access, which is good. But being seen also
+suggests being included, and being included into what kind of citizen:
+- "LGBT archives are worlding technologies that can be called on to
+  support homonational trends, in which the recognition of gay and
+  lesbian citizen-subjects as rightly historical is tied to broader
+  political agendas of gendered and racialized violence, exclusion,
+  and empire in the present.23 Photographic archives, in particular,
+  shift this politics into a regime of visibility that associates
+  being seen with being welcomed into the fold of liberalism" (8). 
+
+**** Hartman, Saidiya. "Venus in Two Acts." Small Axe, vol. 12 no. 2,   2008, p. 1-14. Project MUSE muse.jhu.edu/article/241115.
+
+Hartman here looks at the problem of what to do with an absent
+archive. Not only absence in the form of evidence, that the literal
+records are missing, but also in the tools of expression, in language
+that cannot approximate the reality of experience, and in the
+discourse that dictates silence. A condition also known as the
+"violence of the archive," she describes the archive as a "death
+sentence," because it only records the subject in the terms of their
+objectification, in "a display of the violated body, an inventory of
+property" (2).
+
+She seeks to recuperate (without recovering) the lives of these
+subjects. To write about them in a way that does not do more damage,
+but draws attention to the ways that their lives have been delineated
+while inviting possibility for living. To create in the mode of
+"critical fabulation" (11).
+
+The violence of the archive: 
+- "The archive of slavery rests upon a founding violence. This
+  violence determines, regulates and organizes the kinds of statements
+  that can be made about slavery and as well it creates subjects and
+  objects of power" (10).
+
+Her main question is how can we write history under these conditions
+of scarcity/absence and of language: 
+- “How does one revisit the scene of subjection without replicating
+  the grammar of violence?” (4).
+
+She examines the history of Venus, the unnamed slave woman who appears
+variously throughout the "official" record. From this history, Hartman
+concludes that there is no way forward with recovery. She turns to
+consider a series of paradoxical questions:
+- “how does one rewrite the chronicle of a death foretold and
+  anticipated, as a collective biography of dead subjects, as a
+  counter-history of the human, as the practice of freedom?” (3).
+- "how does one recuperate lives entangled with and impossible to
+  differentiate from the terrible utterances that condemned them to
+  death, the account books that identified them as units of value, the
+  invoices that claimed them as property, and the banal chronicles
+  that stripped them of human features?" (3)
+- “How can narrative embody life in words and at the same time respect
+  what we cannot Know?” (3).
+- “If it is no longer sufficient to expose the scandal, then how might
+  it be possible to generate a different set of descriptions from this
+  archive?" (7).
+
+The archivist of slavery comes up against the incommensurability
+between reality and the historical record, the archivist must endeavor
+to engage this incommensurability: "to expose and exploit the
+incommensurability between the experience of the enslaved and the
+fictions of history, by which I mean the requirements of narrative,
+the stuff of subjects and plots and ends" (10).
+- "This double gesture can be described as straining against the
+  limits of the archive to write a cultural history of the captive,
+  and, at the same time, enacting the impossibility of representing
+  the lives of the captives precisely through the process of
+  narration" (11).
+
+In the scarcity of material (not one autobiographical account of a
+female survives), most of what we have left are numbers. Can we then
+fill the void with stories? 
+- "Loss gives rise to longing, and in these circumstances, it would
+  not be far-fetched to consider stories as a form of compensation or
+  even as reparations, perhaps the only kind we will ever receive"
+  (4).
+ 
+**** “How to become a pirate archivist,” by Anna’s Archive. 10/22/2017. https://annas-archive.org/blog/blog-how-to-become-a-pirate-archivist.html
+- they are pirates, not bound by law, but only by an imperative to
+  make all information accessible by scraping collections on the
+  internet and sharing them. 
+- they are lonely.
+- what are their strategies for the archival work?
+  - data scraping
+  - metadata gathering
+  - mirroring collections
+  - hosting the content
+  - seeding the content
+
+**** Hachette v. Internet Archive Update: Second Circuit Court of Appeals Rules Against IA. 9/5/2024 by Authors Alliance.  https://archive.us20.list-manage.com/track/click?u=38bd6154386f64fcd92204a25&id=936fb2bd59&e=86c38c2c35
+- Publishers say that IA violated copyright by scanning books and
+  lending them at the same rate as their print books.
+  - usually they create ebook licenses, but they didn't do this during
+    the pandemic.
+  - most of these books are works that are out of print, or hard to
+    find.
+  - publishers say that the practice hurts authors, but don't have the
+    financial data to back that up. 
+
+**** Kirschenbaum, “The .txtual Condition: Digital Humanities, Born-Digital Archives, and the Future Literary”, Digital Humanities Quarterly, 2013. 
+"Today, the conceit of a “primary record” can no longer be assumed to
+be coterminous with that of a “physical object.”"
 ** week 8
 
 ** week 9 
