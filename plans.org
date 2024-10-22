@@ -1005,6 +1005,7 @@ LHA presentation (10m)
 - cataloguing practices
 - folksonomies
 
+(THERE WAS NO TIME)
 Digital Collections Interface individual activity (10m):
 - choose an interface: LHA, NYPL, NYC Municipal Archives
 - try to find the digital archive section, and browse through the
@@ -1016,6 +1017,7 @@ Share (5-10m)
 
 BREAK
 
+(THERE WAS NO TIME)
 In groups, organized by archive (10m):
 - what ways can the online interface be designed that speaks to some
   of the aspects from our discussion?
@@ -1025,6 +1027,7 @@ In groups, organized by archive (10m):
 
 Discuss (15m)
 
+(THIS TOOK ONE HOUR FOR HALF THE CLASS)
 Freewrite (10m): favorite reading of the semester and why
 - what did you like so much? The topic being discussed, the approach
   of the author? The writing itself?
@@ -1173,7 +1176,94 @@ fill the void with stories?
 **** Kirschenbaum, “The .txtual Condition: Digital Humanities, Born-Digital Archives, and the Future Literary”, Digital Humanities Quarterly, 2013. 
 "Today, the conceit of a “primary record” can no longer be assumed to
 be coterminous with that of a “physical object.”"
-** week 8
+** week 8, ethics & tech forum
+Agenda
+- finish sharing our freewrites and crowdsourcing keywords
+- discuss book, finish discussing readings
+- next week no readings no discussion posts
+- meeting in library
+
+Introductions (10m)
+
+Finish keyword activity (30 min - 1 hr)
+
+BREAK
+
+Discussion post Pair & Share (20-25)
+- groups of 3-4: what did you write about? (5)
+- choose one, turn into discussion question (5)
+- share with class (5-10)
+- write on the board
+- (if time, freewrite)
+
+Discuss (30)
+
+**** Wooley, Samuel. /Manufacturing Consensus/. 2023.
+"Anonymity and Automation"
+- Privacy on the internet can hide interests/intentions behind those
+  posting.
+
+What human qualities are these bots playing from or harnessing?
+- emotions, confusion, apathy, anger -> discontent
+- bandwagon effect
+- intimacy/trust in one to one connections
+
+Emotions are the goal
+- generating apathy or anger
+- also confustion, so that people don't do anything.
+- "To produce massive amounts of noise, confusion, and polarization in
+  order to obscure the facts of particular events and the motivations
+  of those who put out biased narrtives" (7).
+- "trolling" - use of hate and harassment to intimidate and silence
+- taking up people's time and attention
+
+"Bandwagon effect"
+- people will jump on the bandwagon if they see a big following.
+- big followings give an idea/post legitimacy
+- create "shared discontent" - anger, apathy, polarization, that
+  everything is terrible and we should just give up trying to change
+  it. 
+
+Historicizing propaganda
+- used to be a good thing, a way of feeding information to what was
+  considered an uneducated populace.
+- came from the top
+- now is democratized, created from the people.
+  - power is shifting.
+
+Fact checking does not work in the same way. There is too much
+misinformation out there, and it confers legitimacy.
+
+Terms:
+- nanoinfluencers / automated political influencers (the scariest)
+- algorithms
+- sock puppets
+- native ads
+- disinformation vs misinformation (depends on intention)
+- information laundering
+- state sponsored trolling
+
+**** “How to become a pirate archivist,” by Anna’s Archive. 10/22/2017. https://annas-archive.org/blog/blog-how-to-become-a-pirate-archivist.html
+- they are pirates, not bound by law, but only by an imperative to
+  make all information accessible by scraping collections on the
+  internet and sharing them. 
+- they are lonely.
+- what are their strategies for the archival work?
+  - data scraping
+  - metadata gathering
+  - mirroring collections
+  - hosting the content
+  - seeding the content
+
+**** Hachette v. Internet Archive Update: Second Circuit Court of Appeals Rules Against IA. 9/5/2024 by Authors Alliance.  https://archive.us20.list-manage.com/track/click?u=38bd6154386f64fcd92204a25&id=936fb2bd59&e=86c38c2c35
+- Publishers say that IA violated copyright by scanning books and
+  lending them at the same rate as their print books.
+  - usually they create ebook licenses, but they didn't do this during
+    the pandemic.
+  - most of these books are works that are out of print, or hard to
+    find.
+  - publishers say that the practice hurts authors, but don't have the
+    financial data to back that up. 
 
 ** week 9 
 
