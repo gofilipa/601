@@ -1265,9 +1265,181 @@ Terms:
   - publishers say that the practice hurts authors, but don't have the
     financial data to back that up. 
 
-** week 9 
+** week 9, library week
+** week 10, infrastructure
 
-** week 10
+Agenda
+- intros
+- talk about E&T forum
+- fieldwork presentations
+- discussion on readings on "infrastructure"
+
+introductions (10):
+- who would you vote for? jk
+- best halloween costume you saw this year
+
+E&T forum (10 + 20 + 20)
+- those of you who attended:
+  - what was the most interesting thing you heard or thought you had
+    during the event?
+  - what was one question you still had at the end of it? One thing
+    you are curious about?
+
+- for those of you who did not attend, write on the following question
+  from last week's discussion:
+  - What ways could we keep social media free from political
+    influence?
+  - What ways could we maintain user privacy in social media?
+  - What would a social media that does not track user data (or sell
+    data to advertisers) look like? Would this be a viable business
+    model?
+
+
+Fieldwork presentations (10):
+
+BREAK
+
+Pair & Share (60): 
+- small groups 3-4, share what you wrote about: 10 min
+- pick 1 to share with the class, turn it into a discussion q: 5 min
+- share with the class: 10 min
+- discuss: 30-45 min
+
+I feel like the readings are making similar critique of
+infrastructure: that we need to look into things deeply, not as
+surface. That surface/interface is flashy, seductive, and enables us
+to do things, but looking deep into things we see how they are
+interconnected.
+
+Nakamura is making a moral argument here, but it's never quite
+explicit. She's saying that the use of Navajo women, and how that use
+was portrayed, was extractive without being sustaining. 
+
+If time (10/10):
+- Share their book proposal with a partner.
+- Peer review:
+  - give feedback on their choices, which one seems better?
+  - any things they might consider, or worth emphasizing, from the
+    proposal? 
+
+*** readings    
+
+**** Lisa Nakamura. (2014). “Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture,” American Quarterly 66(4): 919–41.
+
+- "Haraway draws our attention to the irony that some must labor
+  invisibly for others of us to feel, if not actually /be/, free and
+  empowered through technology use: technoscience is, indeed, an
+  integrated circuit, one that both separates and connects laborers
+  and users, and while both genders benefit from cheap computers, it
+  is the flexible labor of women of color, either outsourced or
+  insourced, that made and continue to make this possible" (919).
+- navajo women were exploited labor, were presented by Fairchild as a
+  "labor of love", reproducing their culture in their work.
+- "promotional materials... reveal how electronics assembly work
+  became both gendered and identified with specific racialized
+  qualities" (924).
+
+Taking indigenous qualities and consigning them within an
+industrialized / capitalistic framework.
+- takes Navajo cultural skill of weaving and applies to to industrial
+  work, saying that it "also requires the same personal commitment to
+  perfection" (928).
+- "Again, the notion of an “inherently flexible” laborer, a worker
+  whose nature it is to be both adaptable and culturally suited, or
+  hardwired, to craft circuit designs onto either yarn or metal
+  appeals to a romantic notion of what Indians are and the role that
+  they play in US histories of technology" (929-930).
+  - appealing to Indian work as natural commodity.
+- this framing "posits indigenous design as informing circuit
+  design--a kind of colonialism in reverse--despite the lack of
+  involvement of indigenous people in the company's research and
+  development arm" (931).
+- this painstaking precision work was redefined as creative work
+  (935).
+- "Navajo women did not make circuits because their brains naturally
+  “thought” in patterns of right-angle colors and shapes. They did not
+  make them well because they had inherent Indian virtues such as
+  stoicism, pride in crafts- womanship, or an inherent and inborn
+  manual dexterity. And Fairchild did not employ Navajo women because
+  of these traits. These traits were identified after the company
+  learned about the tax incentives available to subsidize the project,
+  the lack of unions and other employment options in the area, and the
+  generous donation of heavy equipment given by the US government
+  gratis as part of an incentive to develop “light industry” as an
+  “occupational education” for Indians" (935).
+
+"Platform" -> "whatever"
+- infrastructure as "whatever" - "the material conditions that are
+  usually invisible to the user and are necessary for digital media
+  device creation" (936).
+  - cheap, female labor
+- our analysis of digital focuses too much on the interface, when we
+  ought to focus on how digital is /procedural/.
+- "Looking inside digital culture means both looking back in time to
+  the roots of the computing industry and the specific material
+  production practices that positioned race and gender as commodities
+  in electronics factories. This labor is temporally hidden, within a
+  very early period of digital computing history, and hidden
+  spatially. We must look to locales and bodies not commonly
+  associated with these technologies, in out of the way places, to see
+  how race operates as a key aspect of digital platform production."
+  (937-8).
+- "On the spectrum of digital labor, factory work soldering chips for
+  iPhones, missiles, and servers is as close to the machine as one can
+  get, as close to the means of digital production— the computer— as
+  can be imagined. It is not creative labor, nor is it free. It is
+  fascinating that, during a pivotal moment in early computing
+  history, the industry’s foremost electron- ics company represented
+  it that way. This story of digital device manufacture on Indian land
+  shows us how the discourse of women’s indigenous cultural production
+  has been used to explain the key role that women of color play
+  within the integrated circuit of production" (938).
+
+**** Mattern, Shannon. (2014). “Libraries as Infrastructure,” Places https://placesjournal.org/article/library-as-infrastructure  
+
+"I propose that thinking about the library as a network of integrated,
+mutually reinforcing, evolving infrastructures — in particular,
+architectural, technological, social, epistemological and ethical
+infrastructures — can help us better identify what roles we want our
+libraries to serve, and what we can reasonably expect of them. What
+ideas, values and social responsibilities can we scaffold within the
+library’s material systems — its walls and wires, shelves and
+servers?"
+
+The idea of library as a platform has problems: it's monetizable, and
+shallow. 
+- "it smacks of Silicon Valley entrepreneurial epistemology, which
+  prioritizes “monetizable” “knowledge solutions"
+- "it evokes: a flat, two-dimensional stage on which resources are
+  laid out for users to do stuff with. The platform doesn’t have any
+  implied depth, so we’re not inclined to look underneath or behind
+  it, or to question its structure"
+
+But a library is more of an infrastructure than a surface:
+- "we need to understand how our libraries function as, and as part
+  of, infrastructural ecologies — as sites where spatial,
+  technological, intellectual and social infrastructures shape and
+  inform one another. And we must consider how those infrastructures
+  can embody the epistemological, political, economic and cultural
+  values that we want to define our communities."
+
+"the infrastructural ecology — the larger network of public services
+and knowledge institutions of which each library is a part."
+
+Makes a potentiall contentious claim saying that libraries need to
+adopt "entrepreneurial models" - to not only help the disenfranchised,
+but also the enfranchised, to attract educated and privileged folks,
+to bring their talents to the library. Media production studios, maker
+spaces, hacker labs.
+
+But we are not going to compete with Google or Amazon. We are going to
+maintain privacy, not extract from our users. Libraries as a pushback
+against Google and Amazon, because they fail to be as "efficient" and
+"productive" as these spaces. How can we maintain this ethos while
+also including "entreprenurial" programming and spaces?
+
+We need a better capacity for understanding how services are
+distributed. 
 
 ** week 11
 
