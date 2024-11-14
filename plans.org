@@ -1272,7 +1272,6 @@ Agenda
 - intros
 - talk about E&T forum
 - fieldwork presentations
-- discussion on readings on "infrastructure"
 
 introductions (10):
 - who would you vote for? jk
@@ -1295,25 +1294,8 @@ E&T forum (10 + 20 + 20)
     model?
 
 
-Fieldwork presentations (10):
+Fieldwork presentations
 
-BREAK
-
-Pair & Share (60): 
-- small groups 3-4, share what you wrote about: 10 min
-- pick 1 to share with the class, turn it into a discussion q: 5 min
-- share with the class: 10 min
-- discuss: 30-45 min
-
-I feel like the readings are making similar critique of
-infrastructure: that we need to look into things deeply, not as
-surface. That surface/interface is flashy, seductive, and enables us
-to do things, but looking deep into things we see how they are
-interconnected.
-
-Nakamura is making a moral argument here, but it's never quite
-explicit. She's saying that the use of Navajo women, and how that use
-was portrayed, was extractive without being sustaining. 
 
 If time (10/10):
 - Share their book proposal with a partner.
@@ -1322,10 +1304,92 @@ If time (10/10):
   - any things they might consider, or worth emphasizing, from the
     proposal? 
 
-*** readings    
+** week 11, infrastructure & information management & research methods
+Agenda
+- syllabus shakeup
+  - combining the last three days into one! It's all good.
+  - focusing on Research Methods overall, but content of readings are
+    on infrastructure (Nakamura, Mattern) & information workforce
+    (Friedman)
+  - next week, no reading except your book.
+  - next week, no discussion post, but bring a brainstorm to class.
+    You will get credit just like you would for a discussion post. 
+- intros
+- discussion on readings
+- talk about papers
+
+Intros -
+- what?
+
+What is Nakamura's main argument? What is Friedmans? What is Matterns?
+- Nakamura: silicon chip manufacturers exploited navajo womens' labor
+  by taking "indigenous" qualities and putting them to work within
+  capitalistic framework.
+- Mattern: When thinking about what a library does we need to
+  incorporate all kinds of users, even more privileged ones, while
+  also pushing back on the datafication of users by Big Tech. 
+- Friedman: Finds that men have implicit bias about women not being
+  able to work as long as men, while women do not have this bias.
+
+Pair & Share (60): 
+- small groups 3-4, share what you wrote about: 10 min
+- pick 1 to share with the class, turn it into a discussion q: 5 min
+- share with the class: 10 min
+- discuss: 30-45 min
+
+Nakamura vs Freidman on methodology. How are each pursuing different
+methods? In what ways is each method effective? 
+
+Nakamura is making a moral argument here, but it's never quite
+explicit. She's saying that the use of Navajo women, and how that use
+was portrayed, was extractive without being sustaining. 
+
+BREAK
+
+Papers
+- my feedback focused on guiding you to make the best choice.
+  - most of the choices were already strong, the question is which one
+    do /you/ want to spend the next month working with? And which one
+    will be best for your studies / career? Provide a foundation.
+
+How do you write a book review? (10m)
+https://writingcenter.unc.edu/tips-and-tools/book-reviews/
+
+Argument brainstorm, bring to class for next week.
+
+We will do the first one together, as a free-write. Then we will
+share in small groups.
+
+Argument & Evidence Brainstorm Freewrite (write 20/share partner
+20/ share class 10):
+
+- What is the thesis—-or main argument—-of the book? If the author
+  wanted you to get one idea from the book, what would it be? How does
+  it compare or contrast to other arguments in the same topic?
+
+- How does the author support their argument? What evidence do they
+  use to prove their point? Do you find that evidence convincing? Why
+  or why not? Does any of the author’s information (or conclusions)
+  conflict with other books you’ve read, courses you’ve taken or just
+  previous assumptions you had of the subject?
+
+Goodbye Lovers
+
+Culinary class wars
+
+One shots, Lookback
+
+Arcane
+
+Disclaimer
+
+*** readings 
+**** Friedmann, E., & Efrat-Treister, D. (2023). “Gender Bias in Stem Hiring: Implicit In-Group Gender Favoritism Among Men Managers.” Gender & Society, 37(1), 32-64. https://doi.org/10.1177/08912432221137910 
+Uses qualitative and quantitative methods to do analysis. Finds that
+men have implicit bias about women not being able to work as long as
+men. 
 
 **** Lisa Nakamura. (2014). “Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture,” American Quarterly 66(4): 919–41.
-
 - "Haraway draws our attention to the irony that some must labor
   invisibly for others of us to feel, if not actually /be/, free and
   empowered through technology use: technoscience is, indeed, an
@@ -1426,7 +1490,7 @@ But a library is more of an infrastructure than a surface:
 "the infrastructural ecology — the larger network of public services
 and knowledge institutions of which each library is a part."
 
-Makes a potentiall contentious claim saying that libraries need to
+Makes a potential contentious claim saying that libraries need to
 adopt "entrepreneurial models" - to not only help the disenfranchised,
 but also the enfranchised, to attract educated and privileged folks,
 to bring their talents to the library. Media production studios, maker
@@ -1441,9 +1505,7 @@ also including "entreprenurial" programming and spaces?
 We need a better capacity for understanding how services are
 distributed. 
 
-** week 11
-
-** week 12
+** week 12, writing day I
 
 ** week 13
 
