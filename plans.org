@@ -1506,6 +1506,40 @@ We need a better capacity for understanding how services are
 distributed. 
 
 ** week 12, writing day I
+Goals
+- look at existing book reviews
+  - outline the "anatomy" of a book review
+- start to come up with an outline for the book review
+- share arguments
+
+Agenda
+- introductions: favorite outdoor space in NYC
+- book review comparison (20/20/20):
+  - compare Iantorno & Boccio's reviews of /Race After Technology/
+  - prompts for reading: 20. 
+    - how do each of the authors begin their review?
+    - how do each of the authors structure their review?
+  - prompts for groups: 20. 
+    - what is each author's main argument or claim about the book?
+    - how does each author establish urgency/importance around the
+      topic?
+    - what are some interesting differences and/or similarities
+      between the two reviews?
+  - discuss as a class: 20.
+- start to work on outlines for book reviews. I'll be outside if
+  people want to meet until 5pm.
+- next week, detailed outlines due. Not just points you want to make,
+  but also evidence. 
+
+[[https://search.ebscohost.com/login.aspx?direct=true&db=mlf&AN=EIS149632764&site=eds-live&scope=site&authtype=sso&custid=s8440772][Iantorno]], Mathew. 2021. “Race After Technology: Abolitionist Tools for
+the New Jim Code.” The Journal of Popular Culture 54 (1): 220–22.
+doi:10.1111/jpcu.12984.
+
+[[https://search.ebscohost.com/login.aspx?direct=true&db=mlf&AN=EIS156586660&site=eds-live&scope=site&authtype=sso&custid=s8440772][Boccio]], Rachel. “Race After Technology: Abolitionist Tools for the New
+Jim Code by Ruha Benjamin (Review).” Configurations: A Journal of
+Literature, Science, and Technology 30, no. 2 (2022): 236–38.
+doi:10.1353/con.2022.0013.
+
 
 ** week 13
 
