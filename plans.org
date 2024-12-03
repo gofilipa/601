@@ -1540,7 +1540,6 @@ Jim Code by Ruha Benjamin (Review).” Configurations: A Journal of
 Literature, Science, and Technology 30, no. 2 (2022): 236–38.
 doi:10.1353/con.2022.0013.
 
-
 ** week 13, writing day II
 
 Goals
@@ -1566,4 +1565,19 @@ Mini-conferences sign up. Each conference will be 10 minutes maximum.
 Homework: 6 full pages, double spaced.
 
 ** week 14, writing day III
+Agenda:
+- mini-conferences
+- peer review
+- fieldworld presentations
 
+Schedule:
+- intros (15)
+- review peer review instructions (15)
+- mini-conferences / peer review, 2 rounds (60)
+- BREAK (20)
+- work on papers / finish mini-conferences (40)
+- fieldwork? (20)
+- next time, have full drafts and we will talk about intros &
+  conclusions. 
+
+** week 15, writing day IV
