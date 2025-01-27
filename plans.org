@@ -6,7 +6,7 @@ Agenda:
 - overview of the course, assignments, readings
 - break
 - talk about reading for grad school
-- talk about information studies and unpack "information"
+- close reading practice: mark zuckerberg video
 
 Myself
 - Filipa Calado, call me Professor.
@@ -18,21 +18,24 @@ Myself
 - Teaching for 8 years across NYC universities, NYU, New School,
   CUNY; classes on writing, critical thinking, data science, creative
   coding. So a wide range.
-- First semseter teaching at Pratt, am very excited.
+- Second time teaching course, still figuring it out, very excited. 
 
 The course
 - INFO 601:
-  - Introduction to the field of "information studies"
+  - Introduction to graduate school & "information studies" broadly
     - broad term, encompasses work by librarians, analysts, cultural
       heritage curators, managers
   - Exploring the question, what is information? How does form affect
-    meaning? Source, platform, speaker, audience, material substrate.
-  - Thinking critically about information production
-  - Different specializations and jobs available to info practitioners
+    meaning?
+    - Source, platform, speaker, audience, material substrate.
+    - Thinking critically about information production
+    - Different specializations and jobs available to info practitioners   
   - Also, an introduction to graduate school, to thinking, reading,
     and writing critically.
     - how to insert yourself into an academic/professional
       conversation.
+    - how to do a "close reading" -- look at the components of
+      something to analyze it in depth.
   - Finally, we take a critical perspective that pays attention to
     structures of power and how they affect all aspects of
     information.
@@ -40,17 +43,20 @@ The course
   - readings every week
   - posting on discussion board every week
   - some 'fieldwork' (attending 2 events and writing about it)
-  - final project (book review) highly scaffolded
+  - final project (close reading paper) highly scaffolded
   - class discussion major focus.
 
 Will go through the syllabus in more detail. But for now let's do
 introductions.
 
-Around the room, say your name, program, and best content you've
-consumed lately.
-- Professor Calado, I'm faculty, no program. But I would have been in
-  Data Analysis probably; and House of the Dragon. So good. Well
-  paced.
+Around the room, say your name, program, and best thing you've watched
+lately.  
+
+- Professor Calado; play called "Kilele" about a massacre in Colombia.
+  All about how you deal with tragedy and death in the aftermath. Very
+  powerful. Makes me think about the power of narrative to move us in
+  positive ways, world-making ways, which other forms (news, social
+  media) cannot or does not.
 
 Syllabus Review
 - Go over:
@@ -62,34 +68,24 @@ Syllabus Review
   - Sources, Canvas
   - Format - discussion
 - Assignments
-  - Discussion posts on canvas, 3 times per week, 2-3 sentences per
+  - Discussion posts on canvas, 1 time per week, 200 words max per
     post.
   - Fieldwork
-    - 2x/semester, reports due on Nov 26 on Canvas, and you will also
-      share them in class the week that you do them. 5 minutes max, so
-      like 2 page report.
+    - 2x/semester, reports due on May 6 on Canvas, and you will also
+      share them in class the week that you do them. 5 minutes max, 1
+      page report
     - gets you to experience the field in practice, attend events like
       talks and lectures
     - can be virtual
-    - one of them should be the Ethics and Technology forum end of
-      October, we will be reading the speaker's book anyway.
     - ask me if you are not sure if something counts.
-    - by november 26
   - AI activity
-    - due in 2 weeks, 1000 words, or 3 pages max (double spaced)
-    - options include
-      - talk to a chatbot
-      - analyze a TOS
-      - review a court case
-      - do an analysis of your chosen activity, submit online, and we
-        will spend an entire day sharing and discussing them.
-  - Book Review
+    - due in 2 weeks, about 1000 words, or 3 pages (double spaced)
+    - review a court case
+  - Close Reading Paper
     - final project
     - highly scaffolded, will work in parts, proposal, drafts.
-    - choose a book from the last 3 years and review it. Make a case
-      for older books
-    - summarize argument, significance, context.
-    - about 12 pages.
+    - you pick a topic, discourse, like "immigration"
+    - focus is on close analysis of examples
     - last month of the semseter will be focused on this assignment.
   - Course Schedule
     - weeks are broken up into "themes" in bold
@@ -101,25 +97,23 @@ Syllabus Review
 
 BREAK
 
-How to read for grad school
-- how do you read longer things? More academic things?
-- what strategies (if any) do you use?
-- is there an order or way to go about it?
-- Now, read the article in 10 minutes, while thinking about:
-  - Do these seem like good strategies, why or why not?
-  - What have you done that works for you, and what do you think
-    wouldn't work?
-- share & discuss
+How to read for grad school (40 min)
+- read essay, 10 min.
+- Freewrite, 7 min:
+  - how do you read longer things? More academic things?
+  - what strategies (if any) do you use?
+- share & discuss (10-12 min)
 
-
-"Information" freewrite and discussion
-- 5 minutes
-  - Where do you get your information? Make a list.
-  - How do you determine if it's good or bad information? Credible?
-    How important is this step?
-  - What is the biggest challenge to consuming information in today's
-    world?
-- pair & share
+Close reading practice (45 - 60 min)
+- watch video of Mark Zuckerberg.
+- Talk about context: what is his main argument and who is he speaking
+  to? What are his overall goals? What is he responding to?
+- Watch again, thinking about his persuasive strategies in particular
+- Freewrite (10): what are the strategies that Zuckerberg uses to make his
+  argument? Focus on one or two moments.
+  - What does this strategy reveal about his goals, methods, or
+    anything else?
+- Discuss (20)
 
 Wrap up
 - remember readings and discussion posts!
@@ -1581,3 +1575,23 @@ Schedule:
   conclusions. 
 
 ** week 15, writing day IV
+Agenda:
+- peer review
+- fieldworld presentations
+
+Schedule:
+- intros (15)
+- reverse outline (30 min)
+- review peer review instructions (15)
+  - introductions, conclusions
+  - handling evidence
+  - style
+- peer review, 1 round (30)
+- BREAK (20)
+- peer reivew, 1 round (30)
+- fieldwork? (20) 
+
+Common threads: 
+- balance between summary & critique
+- how to structure the paper
+- how to put the book into "conversation" 
