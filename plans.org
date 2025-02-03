@@ -165,137 +165,9 @@ take a minute or so to think about responding before discussion.
 
 *** discussion 45 min
 
-IFLA (2023). “Generative AI for Library and Information Professionals
-(draft), https://www.ifla.org/generative-ai
-- IFLA: Interational Federation of Library Associations and
-  Institutions
-- What is it about?
-  - Guide on what is Generative AI for people who work in information
-    professions and lack technical background.
-  - has excellent sources cited.
-  - emphasizes ethics and mis/dis-information issues:
-    - bias, hallucination
-    - overwhelming amounts of information
-    - lack of transparency of how they are made
-    - lack of privacy for users
-    - issue of copyright and stealing the training data
-    - can eliminate jobs, and put people w/o access at disadvantage
-    - capitalism, big tech runs it.
-
-- Discuss:
-  - how do the "good" qualities of AI compare with the "bad"?
-  - how can or should we use AI if it's not ethical?
-    - maybe we shouldn't?
-    - use it as part of a workflow, for summarizing, describing. Even
-      drafting. But as /part/ of work and not the whole.
-
-Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021,
-March). On the Dangers of Stochastic Parrots: Can Language Models Be
-Too Big?. In Proceedings of the 2021 ACM conference on fairness,
-accountability, and transparency (pp. 610-623).
-https://doi.org/10.1145/3442188.3445922
-- who?
-  - Bender, comp linguist scholar at UWash
-  - Gebru, former Google AI Ethics researcher, now helps to lead DAIR
-  - Smitchell, former Google AI Ethics researcher, now at Huggingface
-
-- published in 2021, way ahead of its time (ChatGPT came out Fall
-  2022).
-
-- What is the main argument?
-  - Ethical implications of one aspect about LLMs: SIZE
-    - environmental effects
-    - socialeconomic effects - marginalized people
-    - bias and discrimination - data
-    - human interpretation of text as meaningful leads to
-      misinformation/misinterpretation
-
-- "Unfathomable training data"
-  - "size doesn't gaurantee diversity"
-    - we assume large size means more representation, but that's not
-      the case.
-    - statistical methods amplify what is most frequent. They suppress
-      outliers.
-    - we get something that perpetuates a majority view: users who are
-      young, male, from developed countries.
-  - we cannot automate the removal of bias
-    - list of dirty, naughty, etc. words.
-    - removing whole pages containing bad words overlooks context,
-      nuance, reclamation, explanation.
-  - what is the solution?
-    - avoid "documentation debt" by budgeting to make high quality
-      datasets.
-      - document motivations behind data collection
-      - document process of cleaning
-      - "pre-mortem" - explore hypothetical failures
-      - "value sensitive design" - make sure stakeholder values are
-        supported from the outset.
-
-- "communicative intent"
-  - to communicate, we need to guess the intention of the speaker.
-  - humans see meaning in everything, we have to impose meaning. 
-
-
-Read Princeton University Library Libguide on Generative AI’s
-“Copyright” page,
-https://libguides.princeton.edu/c.php?g=1341922&p=10257371.
-- Authors Guild vs OpenAI & Microsoft
-  - plaintiffs allege that OpenAI stole content in a way that affects
-    creators' livelihoods.
-  - defendants say it's "Fair Use" due to highly transformative nature
-    of LLMs. That it goes beyond the jurisdiction of copyright law,
-    we need new ways of litigating these objects.
-
-- NYT vs OpenAi
-  - NYT says training on their content is stealing
-  - OpenAI says no, that it only trained to get a sense of language.
-    That NYT doesn't own language forms.
-
-
-Watch “What is AI? Part 1, with Meredith Whittaker | AI Now Salons” on
-youtube, https://www.youtube.com/watch?v=US8xKmD7G1s
-- Former google employee, now speaks out against Big Tech; CEO of
-  Signal messaging app
-- What is her argument?
-  - AI companies are not only concentrating power, but are also a
-    result of concentrated power. This is a structural problem.
-  - "how do you democratize something that was created by centralized
-    power?"
-    - the compute required means only a few can host the models.
-      Everyone else must rent it.
-- She's putting forth a certain narrative about how AI came to be.
-  - Privatization of the internet, was defense, academics, now
-    private.
-    - Surveillance business model, for advertizing
-    - Now big tech sells server space, because they have the
-      infrastructure for it. They also have the data. 
-- What got her started thinking about the dangers of AI?
-  - Harvard researcher came in talking about using AI to predict
-    genocide. What is genocide in data? 
-- What are the solutions?
-
-First two sections, “What is compute and why does it matter?” & “How
-is the demand for compute shaping AI development”, in Jai Vipra and
-Sarah Myers West, “Computational Power and AI,” AI Now Institute,
-September 27, 2023,
-https://ainowinstitute.org/publication/policy/compute-and-ai.
-- who is AI NOW?
-  - research group, institute, on AI and AI policy. Explores dangers
-    of AI and big tech on society, environment, economy.
-- what is the main message?
-  - compute is computational power
-  - how does the industry concentration in compute affect the way that
-    AI tech is being produced?
-    - companies act quickly to protect their dominance, racing to
-      release products before they are ready or safe.
-    - further expands power and reach
-    - money is bottom line
-  - "compute stack" of hardware and software and infrastructure. 
-
 *** break 15 min
 
 *** continue discussion 30 min
-
 *** how does chatgpt work? 20 min
 **** How does ChatGPT work?
 How does it know what to respond when someone asks it a question?
@@ -346,10 +218,88 @@ Cosine similarity and Euclidean distance.
 Read more in the Word2Vec Paper.
 
 *** introduce AI activity
-System probe, privacy audit, or legal opinion.
+Legal opinion
 
-Review the requirements for each, and use the rest of class time to
-get started on the assignment. 
+Choosing a case, reading about that case online, look at the actual
+case documents.
+
+Summarizing that case, its arguments on each side.
+
+Offering your opinion, who has the stronger argument? 
+
+*** readings
+
+**** Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021,
+March). On the Dangers of Stochastic Parrots: Can Language Models Be
+Too Big?. In Proceedings of the 2021 ACM conference on fairness,
+accountability, and transparency (pp. 610-623).
+https://doi.org/10.1145/3442188.3445922
+
+- who?
+  - Bender, comp linguist scholar at UWash
+  - Gebru, former Google AI Ethics researcher, now helps to lead DAIR
+  - Smitchell, former Google AI Ethics researcher, now at Huggingface
+- when?
+  - published in 2021, way ahead of its time (ChatGPT came out Fall
+    2022).
+- What is the main argument?
+  - Ethical implications of one aspect about LLMs: SIZE
+    - environmental effects
+    - socialeconomic effects - marginalized people
+    - bias and discrimination - data
+    - human interpretation of text as meaningful leads to
+      misinformation/misinterpretation
+- Environmental costs
+  - those most likely to pay the price of environmental degradation
+    are in the global south, and are those who are least likely to
+    benefit from the tools being developed. 
+- "Unfathomable training data"
+  - "size doesn't gaurantee diversity"
+    - we assume large size means more representation, but that's not
+      the case.
+    - statistical methods amplify what is most frequent. They suppress
+      outliers.
+    - we get something that perpetuates a majority view: users who are
+      young, male, from developed countries.
+  - we cannot automate the removal of bias
+    - list of dirty, naughty, etc. words.
+    - removing whole pages containing bad words overlooks context,
+      nuance, reclamation, explanation.
+  - what is the solution?
+    - avoid "documentation debt" by budgeting to make high quality
+      datasets.
+      - document motivations behind data collection
+      - document process of cleaning
+      - "pre-mortem" - explore hypothetical failures
+      - "value sensitive design" - make sure stakeholder values are
+        supported from the outset.
+- "communicative intent"
+  - to communicate, we need to guess the intention of the speaker.
+  - humans see meaning in everything, we have to impose meaning. 
+
+**** Barcott, Bruce. AI Lawsuits Worth Watching: A Curated Guide. Techpolicity.press. July 2024. https://www.techpolicy.press/ai-lawsuits-worth-watching-a-curated-guide/
+
+NYT vs OpenAI/Microsoft
+- issue of "fair use" -- OpenAI/Microsoft says that the data is
+  sufficiently transformed that it fulfills fair use clause.
+- AI models are like students who learn by reading. Reading a book
+  isn't in violation of copyright, is it?
+
+Rayner vs NY state Dept of Corrections
+- ruled that protecting company trade secrets was more important that
+  assuring fairness and accountability. 
+
+**** Perrigo, Billy. “Exclusive: The $2 Per Hour Workers Who Made ChatGPT Safer.” TIME. 18 Jan. 2023, https://time.com/6247678/openai-chatgpt-kenya-workers/.
+OpenAI hiring firm in Kenya to label datasets of violence, abuse for a
+dollar and pennies per hour. Once people found out they stopped.
+
+
+**** Joe Rogan interviewing Sam Altman, OpenAI CEO, October 2023: https://www.youtube.com/watch?v=MTJZpO3bTpg 
+- story of technological development is "the story of abundance"
+- costs will fall, abundance will go up. It will transform peoples'
+  lives for the better.
+- we will have some kind of universal income, where everyone will have
+  a stake in the technology. 
 
 ** week 3, artificial intelligence, continued
 Agenda
