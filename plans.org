@@ -338,11 +338,12 @@ Share out, 30 - 45 min
 BREAK - 20 minutes
 
 Freewrite, 10 min
-- choose one to freewrite about
--  do a close analysis:
-- Focus on the details of the section, like specific words used, tone,
-  perspective, audience, context---What are some of the assumptions or
-  implications associated with these details?
+- having looked closely into some of these arguments, how does your
+  perspective on the legality of AI change?
+- Is there anything different that you you would do now as a result of
+  your research?
+- what about our conversations in last class lead you to have a
+  different perspective on these cases? 
 
 Discuss freewrite, 30-45 min
 
@@ -361,12 +362,18 @@ mci TV add 1997: https://www.youtube.com/watch?v=ioVMoeCbrig
 *** Agenda
 - introductions
 - discuss readings
-- "preferences" persona activity
+- personalized ads activity
 - next week we will start working on the final projects in class,
   doing some brainstorming about areas of interest
 
 *** introductions 10:
-- dream vacation spot
+- best place to eat in the city
+  - fishcheeks - thai 
+  - patsy's pizza
+  - lower line (near BK museum)
+
+*** main argument for each reading?
+
 
 *** think/pair/share: 30-40 minutes
 - what was one part of the reading that challenged or confused you: 2 minutes
@@ -383,7 +390,7 @@ What do Haraway and Woolley have in common and where do they differ?
 
 *** Readings:
 
-Donna Haraway, “A Cyborg Manifesto: Science, Technology, and
+**** Donna Haraway, “A Cyborg Manifesto: Science, Technology, and
 Socialist-Feminism in the Late Twentieth Century,” from Simians,
 Cyborgs, and Women: The Reinvention of Nature. 1989. pp. 149-181.
 - What does the *cyborg figure* enable Haraway to do? What does it
@@ -424,36 +431,79 @@ Cyborgs, and Women: The Reinvention of Nature. 1989. pp. 149-181.
     - saying things that are not expected,
     - perverting something meant to be sacred. 
 
+**** Wooley, Samuel. /Manufacturing Consensus/. 2023.
+"Anonymity and Automation"
+- Privacy on the internet can hide interests/intentions behind those
+  posting.
+
+What human qualities are these bots playing from or harnessing?
+- emotions, confusion, apathy, anger -> discontent
+- bandwagon effect
+- intimacy/trust in one to one connections
+
+Emotions are the goal
+- generating apathy or anger
+- also confustion, so that people don't do anything.
+- "To produce massive amounts of noise, confusion, and polarization in
+  order to obscure the facts of particular events and the motivations
+  of those who put out biased narrtives" (7).
+- "trolling" - use of hate and harassment to intimidate and silence
+- taking up people's time and attention
+
+"Bandwagon effect"
+- people will jump on the bandwagon if they see a big following.
+- big followings give an idea/post legitimacy
+- create "shared discontent" - anger, apathy, polarization, that
+  everything is terrible and we should just give up trying to change
+  it. 
+
+Historicizing propaganda
+- used to be a good thing, a way of feeding information to what was
+  considered an uneducated populace.
+- came from the top
+- now is democratized, created from the people.
+  - power is shifting.
+
+Fact checking does not work in the same way. There is too much
+misinformation out there, and it confers legitimacy.
+
+Terms:
+- nanoinfluencers / automated political influencers (the scariest)
+- algorithms
+- sock puppets
+- native ads
+- disinformation vs misinformation (depends on intention)
+- information laundering
+- state sponsored trolling
+
+
 *** BREAK
 
 *** continue discussion
 *** IF TIME: Activity on Online Ads (20/30):
-
-
 - visit two or more of the following:
   - https://myadcenter.google.com/
   - https://x.com/settings/your_twitter_data/twitter_interests
   - https://www.facebook.com/ads/about/?entry_product=ad_preferences
   - https://accountscenter.instagram.com/ad_preferences/
-- Explore the settings on those pages, looking for records of things
-  you like or things that the app thinks you will like.
+- Spend about 10 minutes exploring the settings on those pages,
+  looking for records of things you like or things that the app thinks
+  you will like.
   - You may have to click on things like "customize ads" or "ad
     preferences" to see your data.
 - After poking around a bit, spend 10 minutes reflecting on the
   following: 
-  - how surprised are you by the infromation about your preferences?
-  - how accurate is the data?
-  - take note of the interface that these companies use to show your
-    data (what do they show, and how do they show it?). How do they
-    want you to engage with this data?  
-
-*** IF TIME: Freewrite:
-- which of the perspectives from the readings most closely aligns with
-  your experience of being online today?
-  - For example, thinking of Donna Haraway's concept of the cyborg.
-    How could you marshal the cyborg to respond to the ways that the
-    ad industry operates in today's world? Or, what about Nakamura's
-    point about identity tourism, which occurs online?
+  - how accurate is the representation of your preferences? How
+    surprised are you?
+  - Think about the ways that these companiesshow you your personal
+    data (the interface, the explanations, what do they show, and how
+    do they show it?).
+    - How do they want you to engage with this data?
+    - What does this say about your data and its significance,
+      marketability?
+  - How does this relate to topics we've discussed (or haven't yet
+    discussed) from our readings? 
+ 
 
 ** week 5, governance
 Goals
@@ -467,39 +517,48 @@ Goals
   - grasping arguments and terminology, to understand the views in a
     more systematic way (so that we can continue to build)
     - defining terms and main ideas from each of the readings.
-- start to brainstorm book review project toward the end of class.
+- start to brainstorm final projects toward the end of class.
 - next week, we will start talking about design, then archives. 
 
 Agenda
 - introductions:
-  - name, favorite disney character 
-- what was one part of the reading that was confusing or you didn't
-  quite understand: 20-30 min
-  - write for 5 minutes
-  - share and discuss for 15 minutes
-- what was something from the reading that you found interesting? Why
-  was it interesting? 30
-  - write for 5-10 minutes
-  - small group for 10-15 min
-  - share with the class 15 min
-- if time: start discussion, 15-30 minutes
- - define some key terms from each of these authors
-      - surveillance capitalism
-      - new jim code
-      - big other
-      - open evolution
-      - universal standing
+  - name, favorite disney character
+- Review: what is the main argument for each reading? 
+- Freewrite 5 min:
+  - what was one part of the reading that was confusing or you didn't
+    quite understand OR
+  - something you found interesting
+- Small groups: share and discuss for 10 minutes, pick one to share out
+- Big group share: 15 min
+- If time: start discussion, 15-30 minutes
+  - define some key terms from each of these authors
+    - surveillance capitalism
+    - new jim code
+    - big other
+    - open evolution
+    - universal standing
 - BREAK
 - continue discussion, going down the list of questions, 30 min
-  - from last week: "What shifts in the culture have made people okay
-    with “ad-surveillance” technology?"
-  - mapping out the positions
-    - Write out their positions in one or two sentences.
-      - benjamin: current tech perpetuates old racial / economic divisions
-      - zuboff: current tech creates a new system of surveillance
-        capitalism that replaces market capitalism
-      - lessig: current tech needs to maintain its open source
-        principles if it is to remain open and accessible to all
+- or write on this prompt:
+  - "Code" (New Jim Code, Open Code Socieites) means something
+    different for Benjamin than it does for Lessig. What are these
+    differences?
+    - Do Benjamin and Lessig's ideas talk to each other? How might
+      their ideas engage? Could you draw from both of them to talk to
+      the theme of "governance" for this class? 
+  - "Hacking"
+    - "Technologies are constituted by unique affordances, but the
+      development and expression of those affordances are shaped by
+      the institutional logics in which technologies are designed,
+      implemented, and used. This is, after all, the origin of the
+      hack. Hacking intends to liberate affordances from the
+      institutional logics in which they are frozen and redistribute
+      them in alternative conﬁgurations for new purposes" (Zuboff 85).
+      - what are some possibilities for hacking the big data system?
+	- open source: giving, contributing to our communities. What
+          Lessig says about "giving away what one makes, with no
+          guarantee of compensation" (Lessig 107).
+  
 - brainstorming final projects: 30 min
   - freewrite: 10 minutes
     - From the past month, what are some of the class conversations or
@@ -513,26 +572,26 @@ Agenda
 **** Ruha Benjamin - Introduction, from Race After Technology: Abolitionist
 Tools for the New Jim Code
 
-Talks about how technologies carry through historical prejudices about
-blackness. Current society perpetuates racism by transforming it into
-ever new tools, in this case, data gathering and surveillance, machine
-learning.
+Talks about how new technologies perpetuate historical prejudices
+about blackness.
 
-technology extends racism and anti-Black violence, a paradigm she
-calls “the New Jim Code”: “the employment of new technologies that
-reflect and reproduce existing inequities but that are promoted and
-perceived as more objective or progressive than the discriminatory
-systems of a previous era” (5-6).
+Current society perpetuates racism by transforming it into ever new
+tools, in this case, data gathering and surveillance, machine
+learning.
 
 "The New Jim Code" - "the employment of new technologies that reflect
 and reproduce existing inequalities but that are promoted and
 perceived as more objective or progressive than the discriminatory
 systems of a previous era" (3).
+- what is Jim Crow? Segregation laws in the USA
 - some names are "normal" (neutral) in our society. That just means
   they are unmarked.
-- the term "code" here means something specific. It means information,
-  markup, about a person. "Codes are both reflective and predictive".
-  They indicate the way that a person will be treated. 
+- the term "code" here means something specific.
+  - It means information, markup, about a person.
+  - "Codes are both reflective and predictive". They indicate the way
+    that a person will be treated.
+  - Code means something different for Benjamin than it does for
+    Lessig. 
 
 The values that drive tool production -- objectivity, profitability --
 are inherently racist:
@@ -567,8 +626,6 @@ Our current tools perpetuate old biases:
   current society perpetuates racism by criminalizing it, war on
   drugs, mass incarceration. It diverts racist action into new forms.
   The newest form of this diversion is technology.
-- “the language of “progress” is too easily weaponized against those
-  who suffer most under oppressive systems” (4).
 - “These tech advances are sold as morally superior because they
   purport to rise above human bias, even though they could not exist
   without data produced through histories of exclusion and
@@ -586,6 +643,8 @@ Race is a technology, a tool:
   part of the architecture of everyday life” (9).
 
 Being marked, named:
+- "the presumed blandness of White American culture is a crucial part
+  of our national narrative."
 - “Invisibility, with regard to Whiteness, offers immunity. To be
   unmarked by race allows you to reap the benefits but escape
   responsibility for your role in an unjust system” (2).
@@ -613,52 +672,63 @@ Benjamin writing about race in 2021? (Benjamin would say that
 rather than a break with the past, we are doing more of the same). 
 
 What about the terminology here, what does it give us that others
-don't? 
+don't?
+
+- "big data"
+  - "is above all the foundational component in a deeply intentional
+    and highly consequential new logic of accumulation that I call
+    surveillance capitalism" (75).
+    - "new logic of accumulation" -- would Benjamin agree that this
+      logic is new? 
 
 - "surveillance capitalism"
-  - "unexpected and often illegible mechanisms of extraction,
+  - "unexpected and often illegible *mechanisms* of extraction,
     commodification, and control that effectively exile persons from
     their own behavior while producing new markets of behavioral
     prediction and modification."
   - from "market capitalism" to "surveillance capitalism"
 
-- "big other" - "a ubiquitous networked institutional regime that
-  records, modiﬁes, and commodiﬁes everyday experience from toasters
-  to bodies, communication to thought, all with a view to establishing
-  new pathways to monetization and proﬁt. Big Other is the sovereign
-  power of a near future that annihilates the freedom achieved by the
-  rule qof law." (81)
+- "big other"
+  - "a ubiquitous networked institutional *regime* that records,
+    modiﬁes, and commodiﬁes everyday experience from toasters to
+    bodies, communication to thought, all with a view to establishing
+    new pathways to monetization and proﬁt. Big Other is the sovereign
+    power of a near future that annihilates the freedom achieved by
+    the rule qof law." (81)
 
-  --> how would Ruha Benjamin respond to this?
+- "informate"
+  - the ability of a machine to produce information while carrying out
+    instructions. It turns normal activities into an "electronic
+    text".
 
-- "informate" - the ability of a machine to produce information while
-  carrying out instructions. It turns normal activities into an
-  "electronic text". 
-
-- "logic of accumulation" which underlies technological tools like
-  Google search. There's an old desire to incorporate more and more
-  machines to "enable more continuity and control," and this
-  development has led to not only efficient work but also the
-  production of more information, which can then be further analyzed,
-  and used to automate, optimize, etc.
+- "logic of accumulation"
+  - which underlies technological tools like Google search. There's an
+    old desire to incorporate more and more machines to "enable more
+    continuity and control," and this development has led to not only
+    efficient work but also the production of more information, which
+    can then be further analyzed, and used to automate, optimize, etc.
+  - "The logic of accumulation organizes perception and shapes the
+    expression of technological affordances at their roots. It is the
+    taken-for-granted context of any business model. Its assumptions
+    are largely tacit, and its power to shape the ﬁeld of
+    possibilities is therefore largely invisible" (77).
 
   -> "logic of accumulation" is one of those things that contribute to
   notions of "objectivity" and "efficiency" which we so value in our
   tools, and which, according to Benjamin, perpetuate racism.
 
-- Takes us on a point by point reading of google exec identifying
-  "four uses" of computation, showing how these create a new kind of
-  capitalism that's called "surveillance capitalism"
-  - data (quantity over quality) extraction (one way relationship) and
-    analysis,’
+- A google exec identifies "four uses" of computation, which Zuboff
+  shows they create a new kind of capitalism that's called
+  "surveillance capitalism"
+  - 'data (quantity over quality) extraction (one way relationship)
+    and analysis'
     - rather than raising wages with profits, the employee is more
       distanced from the employer.
     - The assets are "surveillance assets", they are taken from users
       often without their knowledge
-
       -> isn't this is like the plundering of natural resources,
       whereas now we are plundering human attention?
-  - ‘new contractual forms due to better monitoring,’
+  - ‘new contractual forms due to better monitoring’
     - they are actually creating new rules around privacy. Going
       around and extracting data until they are stopped. How they got
       "Street View". (And how ChatGPT was created, too).
@@ -666,8 +736,8 @@ don't?
         innovative institutional logic thrives on unexpected and
         illegible mechanisms of extraction and control that exile
         persons from their own behavior" (85).
-  - ‘personalization and customization,'
-  - 'continuous experiments.
+  - ‘personalization and customization'
+  - 'continuous experiments'
 
 **** Lessig, Lawrence. (1999). “Open code and open societies: values of
 internet governance,” Chicago-Kent Law Review 74, 101–116.
@@ -678,15 +748,21 @@ https://cyber.harvard.edu/works/lessig/final.P
   - "Nothing requires that the other side learn anything real about
     you" (103).
 
-page 104: code implies values, defines space:
+Code implies values, defines space, page 104:
 - the code now protects privacy, but this won't always be the case,
   because commerce does not like privacy.
 - "engineers are governors" (104).
+
+  --> he agrees with Zuboff and Benjamin about the implicit politics
+  in technology, that technological affordances contain values. But
+  where does he differ?
 
 The internet is a product of a very specific history
 - started as a defense project, money to build up security
 - moved to an academic research project
 - made with open standards like HTML and HTTP
+
+What is the "commons"? 
 
 A network can only grow if it is open (which means that all companies
 trying to make money off of it are profiting from open/free
@@ -706,13 +782,9 @@ Values encoded into open source:
   the rich.
   - free to entry
   - the foundation of the internet as a commons
-**** DW Documentary (2022). “Fake News, Propaganda, and Conspiracy Theories,” YouTube, https://www.youtube.com/watch?v=HDtFpGfORpE 
-- how information/disinformation has spread across major "superpower"
-  countries. A little different in each, but same effect: to mobilize
-  large groups of people that previously had not been mobilized.
-  - Countries like Russia and China, the government is driving the spread
-  - Countries like USA and the EU, conspiracy theorists are driving
-    the spread
+
+How might Benjamin respond to these values? Would she say they are
+perpetuating "coded inequality"? In what ways? 
 
 ** week 6, design
 Goals
@@ -1069,51 +1141,6 @@ Discussion post Pair & Share (20-25)
 - (if time, freewrite)
 
 Discuss (30)
-
-**** Wooley, Samuel. /Manufacturing Consensus/. 2023.
-"Anonymity and Automation"
-- Privacy on the internet can hide interests/intentions behind those
-  posting.
-
-What human qualities are these bots playing from or harnessing?
-- emotions, confusion, apathy, anger -> discontent
-- bandwagon effect
-- intimacy/trust in one to one connections
-
-Emotions are the goal
-- generating apathy or anger
-- also confustion, so that people don't do anything.
-- "To produce massive amounts of noise, confusion, and polarization in
-  order to obscure the facts of particular events and the motivations
-  of those who put out biased narrtives" (7).
-- "trolling" - use of hate and harassment to intimidate and silence
-- taking up people's time and attention
-
-"Bandwagon effect"
-- people will jump on the bandwagon if they see a big following.
-- big followings give an idea/post legitimacy
-- create "shared discontent" - anger, apathy, polarization, that
-  everything is terrible and we should just give up trying to change
-  it. 
-
-Historicizing propaganda
-- used to be a good thing, a way of feeding information to what was
-  considered an uneducated populace.
-- came from the top
-- now is democratized, created from the people.
-  - power is shifting.
-
-Fact checking does not work in the same way. There is too much
-misinformation out there, and it confers legitimacy.
-
-Terms:
-- nanoinfluencers / automated political influencers (the scariest)
-- algorithms
-- sock puppets
-- native ads
-- disinformation vs misinformation (depends on intention)
-- information laundering
-- state sponsored trolling
 
 **** “How to become a pirate archivist,” by Anna’s Archive. 10/22/2017. https://annas-archive.org/blog/blog-how-to-become-a-pirate-archivist.html
 - they are pirates, not bound by law, but only by an imperative to
