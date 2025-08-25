@@ -1,0 +1,1498 @@
+* class plans
+** week 1, introduction to the course
+Agenda:
+- Syllabus day
+- introductions, myself and you
+- overview of the course, assignments, readings
+- break
+- talk about reading for grad school
+- close reading practice: mark zuckerberg video
+
+Myself
+- Filipa Calado, call me Professor.
+- Background in Literature, Queer studies, Digital Studies
+- Using technology to study queer literature (dissertation)
+- Now interested in language broadly, how meaning changes across
+  different forms of language, how these are affected by technology
+  (recently things like AI) and how to use tech to study language.
+- Teaching for 8 years across NYC universities, NYU, New School,
+  CUNY; classes on writing, critical thinking, data science, creative
+  coding. So a wide range.
+- Second time teaching course, still figuring it out, very excited. 
+
+The course
+- INFO 601:
+  - Introduction to graduate school & "information studies" broadly
+    - broad term, encompasses work by librarians, analysts, cultural
+      heritage curators, managers
+  - Exploring the question, what is information? How does form affect
+    meaning?
+    - Source, platform, speaker, audience, material substrate.
+    - Thinking critically about information production
+    - Different specializations and jobs available to info practitioners   
+  - Also, an introduction to graduate school, to thinking, reading,
+    and writing critically.
+    - how to insert yourself into an academic/professional
+      conversation.
+    - how to do a "close reading" -- look at the components of
+      something to analyze it in depth.
+  - Finally, we take a critical perspective that pays attention to
+    structures of power and how they affect all aspects of
+    information.
+- Assignments:
+  - readings every week
+  - posting on discussion board every week
+  - some 'fieldwork' (attending 2 events and writing about it)
+  - final project (close reading paper) highly scaffolded
+  - class discussion major focus.
+
+Will go through the syllabus in more detail. But for now let's do
+introductions.
+
+Around the room, say your name, program, and best thing you've watched
+lately.  
+
+- Professor Calado; play called "Kilele" about a massacre in Colombia.
+  All about how you deal with tragedy and death in the aftermath. Very
+  powerful. Makes me think about the power of narrative to move us in
+  positive ways, world-making ways, which other forms (news, social
+  media) cannot or does not.
+
+Syllabus Review
+- Go over:
+  - Course Info
+  - Instructor Info
+  - Course Description
+  - Course Goals
+  - Learning Outcomes
+  - Sources, Canvas
+  - Format - discussion
+- Assignments
+  - Discussion posts on canvas, 1 time per week, 200 words max per
+    post.
+  - Fieldwork
+    - 2x/semester, reports due on May 6 on Canvas, and you will also
+      share them in class the week that you do them. 5 minutes max, 1
+      page report
+    - gets you to experience the field in practice, attend events like
+      talks and lectures
+    - can be virtual
+    - ask me if you are not sure if something counts.
+  - AI activity
+    - due in 2 weeks, about 1000 words, or 3 pages (double spaced)
+    - review a court case
+  - Close Reading Paper
+    - final project
+    - highly scaffolded, will work in parts, proposal, drafts.
+    - you pick a topic, discourse, like "immigration"
+    - focus is on close analysis of examples
+    - last month of the semseter will be focused on this assignment.
+  - Course Schedule
+    - weeks are broken up into "themes" in bold
+    - example: next week is AI, the follwing is being online
+    - Also weeks that pertain to different programs in the dept, like
+      design and archives
+    - do not read ahead
+    - questions?
+
+BREAK
+
+How to read for grad school (40 min)
+- read essay, 10 min.
+- Freewrite, 7 min:
+  - how do you read longer things? More academic things?
+  - what strategies (if any) do you use?
+- share & discuss (10-12 min)
+
+Close reading practice (45 - 60 min)
+- watch video of Mark Zuckerberg.
+- Talk about context: what is his main argument and who is he speaking
+  to? What are his overall goals? What is he responding to?
+- Watch again, thinking about his persuasive strategies in particular
+- Freewrite (10): what are the strategies that Zuckerberg uses to make his
+  argument? Focus on one or two moments.
+  - What does this strategy reveal about his goals, methods, or
+    anything else?
+- Discuss (20)
+
+Wrap up
+- remember readings and discussion posts!
+
+** week 2, artificial intelligence
+
+Agenda
+- topic today: artificial intelligence
+- some writing about the readings
+- some talking about the readings
+- break
+- talking about AI, maybe going into depth about how it works
+- some prep for next week's AI activity
+
+*** introductions 10 min
+Name, program, one thing you want to learn how to do. 
+
+*** freewrite 10 min
+- What idea or detail from the reading was most interesting to you?
+  What do you find so compelling about it? Why is it important?
+
+*** share in groups of 2 or 3 people 10 minutes
+Each person shares what they wrote.
+
+Then, as a group, you decide one point to share with the class.
+
+*** reframe your chosen point as a question 5 minutes
+But, before you share, try to re-write your point as a question. You
+want to write a question that is open-ended (not a yes/no question),
+and that would inspire different kinds of responses.
+
+For example, if your interest is something like, "the difficulty of
+removing bias and discriminatory views from the data used to train AI
+chatbots," you might re-frame the question like, "what are actual ways
+that we can make AI training datasets less discriminatory and biased?"
+OR you might go deeper to ask something like, "if we cannot remove
+bias from datasets, is it possible to use AI tools in an ethical way?
+How could we do that?"
+
+Try to write questions that inspire curiosity and different points of
+view. This is actually hard to do, so just try your best!
+
+*** share 10 minutes
+Go around the room and share your questions, writing them down on the
+googledoc.
+
+Then, I (filipa) choose a question to start the conversation. We can
+take a minute or so to think about responding before discussion.
+
+*** discussion 45 min
+
+*** break 15 min
+
+*** continue discussion 30 min
+*** how does chatgpt work? 20 min
+**** How does ChatGPT work?
+How does it know what to respond when someone asks it a question?
+
+More specifically, how does it know what language to generate, what
+words follow other words?
+- by prediction.
+- it learns by reading. Gains an understanding of language from
+  processing massive amounts of text, deriving patterns.
+
+It builds a kind of model for each word, what words tend to surround
+that word in a sentence.
+- key idea here is "context"
+
+This model for meaning is called a "word vector" '
+
+**** Word Vectors
+Word Vectors:
+- numerical representation of words. Words represented by numbers, a
+  list of numbers.
+- Each number represents that word's relation to another word, in the
+  form of a probability. How they are related.
+  - here we have a word, "Artificial" and related words, each with
+    similarity scores.
+  - the similarity scores together comprise the vector.
+
+Let's take the word "cat" and "dog" 
+- furry, milk, bone, lick
+  
+This is how we turn language, the semantics and expressivity of
+language, into something a computer can understand.
+
+Every word becomes a dot in graphical space, and is represented by a
+list of numbers, very long. 
+
+**** King - Man + Woman = Queen
+Not only do computers process language, but they can do math with it.
+- Each word is represented by a series of numbers,
+  with each of those numbers representing it's relationship to another
+  word. How closely they are related.
+
+Linear algebra, matrix algebra.
+
+Calculus.
+
+Cosine similarity and Euclidean distance. 
+
+Read more in the Word2Vec Paper.
+
+*** introduce AI activity
+Legal opinion
+
+Choosing a case, reading about that case online, look at the actual
+case documents.
+
+Summarizing that case, its arguments on each side.
+
+Offering your opinion, who has the stronger argument? 
+
+*** readings
+
+**** Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021,
+March). On the Dangers of Stochastic Parrots: Can Language Models Be
+Too Big?. In Proceedings of the 2021 ACM conference on fairness,
+accountability, and transparency (pp. 610-623).
+https://doi.org/10.1145/3442188.3445922
+
+- who?
+  - Bender, comp linguist scholar at UWash
+  - Gebru, former Google AI Ethics researcher, now helps to lead DAIR
+  - Smitchell, former Google AI Ethics researcher, now at Huggingface
+- when?
+  - published in 2021, way ahead of its time (ChatGPT came out Fall
+    2022).
+- What is the main argument?
+  - Ethical implications of one aspect about LLMs: SIZE
+    - environmental effects
+    - socialeconomic effects - marginalized people
+    - bias and discrimination - data
+    - human interpretation of text as meaningful leads to
+      misinformation/misinterpretation
+- Environmental costs
+  - those most likely to pay the price of environmental degradation
+    are in the global south, and are those who are least likely to
+    benefit from the tools being developed. 
+- "Unfathomable training data"
+  - "size doesn't gaurantee diversity"
+    - we assume large size means more representation, but that's not
+      the case.
+    - statistical methods amplify what is most frequent. They suppress
+      outliers.
+    - we get something that perpetuates a majority view: users who are
+      young, male, from developed countries.
+  - we cannot automate the removal of bias
+    - list of dirty, naughty, etc. words.
+    - removing whole pages containing bad words overlooks context,
+      nuance, reclamation, explanation.
+  - what is the solution?
+    - avoid "documentation debt" by budgeting to make high quality
+      datasets.
+      - document motivations behind data collection
+      - document process of cleaning
+      - "pre-mortem" - explore hypothetical failures
+      - "value sensitive design" - make sure stakeholder values are
+        supported from the outset.
+- "communicative intent"
+  - to communicate, we need to guess the intention of the speaker.
+  - humans see meaning in everything, we have to impose meaning. 
+
+**** Barcott, Bruce. AI Lawsuits Worth Watching: A Curated Guide. Techpolicity.press. July 2024. https://www.techpolicy.press/ai-lawsuits-worth-watching-a-curated-guide/
+
+NYT vs OpenAI/Microsoft
+- issue of "fair use" -- OpenAI/Microsoft says that the data is
+  sufficiently transformed that it fulfills fair use clause.
+- AI models are like students who learn by reading. Reading a book
+  isn't in violation of copyright, is it?
+
+Rayner vs NY state Dept of Corrections
+- ruled that protecting company trade secrets was more important that
+  assuring fairness and accountability. 
+
+**** Perrigo, Billy. “Exclusive: The $2 Per Hour Workers Who Made ChatGPT Safer.” TIME. 18 Jan. 2023, https://time.com/6247678/openai-chatgpt-kenya-workers/.
+OpenAI hiring firm in Kenya to label datasets of violence, abuse for a
+dollar and pennies per hour. Once people found out they stopped.
+
+
+**** Joe Rogan interviewing Sam Altman, OpenAI CEO, October 2023: https://www.youtube.com/watch?v=MTJZpO3bTpg 
+- story of technological development is "the story of abundance"
+- costs will fall, abundance will go up. It will transform peoples'
+  lives for the better.
+- we will have some kind of universal income, where everyone will have
+  a stake in the technology. 
+
+** week 3, artificial intelligence, continued
+Agenda
+- discuss AI activity
+- continue discussions from last week's readings
+- start to talk about final project, going to move up some of the work
+  on that project, brainstorming things
+- weekly posts -- more "close reading", less abstract discussion. Best
+  way to do that is to focus on one particular detail or passage from
+  the reading. Start small, go into depth on that one thing.
+
+Introductions, 10 min
+- What was your dream job as a kid?
+
+Freewrite 15 minutes:
+- what was the most interesting quote, section, or detail from the
+  legislation that you read?
+  - You might choose a specific argument, explanation, or
+    justification from the case. Make sure you can identify a
+    particular page number or web page where you find the
+    quote/section/detail.
+- why did this stand out to you? Why is it significant in the context
+  of the larger argument? 
+
+Discuss AI Activity in Groups, 30 min
+- split up into groups of 3-4
+- 20-25min: share about the case you did with your group, and what you
+  think is the most interesting section of the case.
+  
+- 5-10 min: together, come up with one example to share with the
+  class.
+
+Share out, 30 - 45 min
+- write down the examples on the board
+
+BREAK - 20 minutes
+
+Freewrite, 10 min
+- having looked closely into some of these arguments, how does your
+  perspective on the legality of AI change?
+- Is there anything different that you you would do now as a result of
+  your research?
+- what about our conversations in last class lead you to have a
+  different perspective on these cases? 
+
+Discuss freewrite, 30-45 min
+
+This is the kind of thing that I want you all to be doing in your
+discussion board posts, at least as a way of starting and grounding
+conversation. 
+
+The readings for next week: Haraway is the hardest. Read her like a
+hawk. 
+
+** week 4, being, online
+apple vision pro commercial
+https://www.youtube.com/watch?v=TX9qSaGXFyg
+mci TV add 1997: https://www.youtube.com/watch?v=ioVMoeCbrig
+
+*** Agenda
+- introductions
+- discuss readings
+- personalized ads activity
+- next week we will start working on the final projects in class,
+  doing some brainstorming about areas of interest
+
+*** introductions 10:
+- best place to eat in the city
+  - fishcheeks - thai 
+  - patsy's pizza
+  - lower line (near BK museum)
+
+*** main argument for each reading?
+
+
+*** think/pair/share: 30-40 minutes
+- what was one part of the reading that challenged or confused you: 2 minutes
+- what was one part of the reading that compelled you or made you
+  think about something differently: 2 minutes
+- groups of 3 or 4: share, choose one of each to share with the class:
+  5-10 minutes
+- share with the class: write down on the board: 15 minutes
+
+*** discuss as a class: 30-45 minutes
+
+*** IF TIME:
+What do Haraway and Woolley have in common and where do they differ?
+
+*** Readings:
+
+**** Donna Haraway, “A Cyborg Manifesto: Science, Technology, and
+Socialist-Feminism in the Late Twentieth Century,” from Simians,
+Cyborgs, and Women: The Reinvention of Nature. 1989. pp. 149-181.
+- What does the *cyborg figure* enable Haraway to do? What does it
+  allow her to signify or represent?
+  - a mix of ideas, theories, even those taken from oppressive
+    paradigms like the "informatics of domination"
+  - "illegitimate offspring" (151).
+  - probably the most useful thing about the cyborg figure, is that it
+    is a pastiche, mixture, and allows us to take things that were
+    created to oppress or to exploit, to separate and partition, and
+    use them for creating new kinds of collectivities, communities,
+    affinity-based solidarities.
+- Critique of feminism: different feminisms have sought a kind of
+  unification of women, which in every case serves to leave some women
+  out. Identity politics is a problem, because any category
+  necessarily overlooks someone. 
+  - marxist feminism: women unified by an idea of labor.
+  - radical feminism: women unified by sexualization/objectificaiton.
+  - Haraway says that these unifications are totalizing, applying one
+    definition to account for all women, which leaves out those
+    already on the margins:
+    - second wave feminism left out working class women, largely women
+      of color, who were already in the workforce.
+- "Informatics of Domination"
+  - how power structures and paradigms are shifting over time, a
+    problem but also an opportunity. 
+  - new models for control in the networked age:
+    - eugenics -> population control
+    - race -> economic development
+  - women are now in the "integrated circuit", in the "homework
+    economy," poverty has been feminized.
+- Language: a "problem of coding"
+  - we do not want universal translation.
+    - we are already cyborgs, the question is will we harness our
+      partiality for resisiting domination, rather than submitting to
+      exploitative and consumptive power? 
+  - "irony", "blasphemy":
+    - saying things that are not expected,
+    - perverting something meant to be sacred. 
+
+**** Wooley, Samuel. /Manufacturing Consensus/. 2023.
+"Anonymity and Automation"
+- Privacy on the internet can hide interests/intentions behind those
+  posting.
+
+What human qualities are these bots playing from or harnessing?
+- emotions, confusion, apathy, anger -> discontent
+- bandwagon effect
+- intimacy/trust in one to one connections
+
+Emotions are the goal
+- generating apathy or anger
+- also confustion, so that people don't do anything.
+- "To produce massive amounts of noise, confusion, and polarization in
+  order to obscure the facts of particular events and the motivations
+  of those who put out biased narrtives" (7).
+- "trolling" - use of hate and harassment to intimidate and silence
+- taking up people's time and attention
+
+"Bandwagon effect"
+- people will jump on the bandwagon if they see a big following.
+- big followings give an idea/post legitimacy
+- create "shared discontent" - anger, apathy, polarization, that
+  everything is terrible and we should just give up trying to change
+  it. 
+
+Historicizing propaganda
+- used to be a good thing, a way of feeding information to what was
+  considered an uneducated populace.
+- came from the top
+- now is democratized, created from the people.
+  - power is shifting.
+
+Fact checking does not work in the same way. There is too much
+misinformation out there, and it confers legitimacy.
+
+Terms:
+- nanoinfluencers / automated political influencers (the scariest)
+- algorithms
+- sock puppets
+- native ads
+- disinformation vs misinformation (depends on intention)
+- information laundering
+- state sponsored trolling
+
+
+*** BREAK
+
+*** continue discussion
+*** IF TIME: Activity on Online Ads (20/30):
+- visit two or more of the following:
+  - https://myadcenter.google.com/
+  - https://x.com/settings/your_twitter_data/twitter_interests
+  - https://www.facebook.com/ads/about/?entry_product=ad_preferences
+  - https://accountscenter.instagram.com/ad_preferences/
+- Spend about 10 minutes exploring the settings on those pages,
+  looking for records of things you like or things that the app thinks
+  you will like.
+  - You may have to click on things like "customize ads" or "ad
+    preferences" to see your data.
+- After poking around a bit, spend 10 minutes reflecting on the
+  following: 
+  - how accurate is the representation of your preferences? How
+    surprised are you?
+  - Think about the ways that these companiesshow you your personal
+    data (the interface, the explanations, what do they show, and how
+    do they show it?).
+    - How do they want you to engage with this data?
+    - What does this say about your data and its significance,
+      marketability?
+  - How does this relate to topics we've discussed (or haven't yet
+    discussed) from our readings? 
+ 
+** week 5, governance
+Agenda
+- introductions:
+  - name, favorite disney character
+- Review: what is the main argument for each reading? 
+- Freewrite 5 min:
+  - what was one part of the reading that was confusing or you didn't
+    quite understand OR
+  - something you found interesting
+- Small groups: share and discuss for 10 minutes, pick one to share out
+- Big group share: 15 min
+- If time: start discussion, 15-30 minutes
+  - define some key terms from each of these authors
+    - surveillance capitalism
+    - new jim code
+    - big other
+    - open evolution
+    - universal standing
+- BREAK
+- continue discussion, going down the list of questions, 30 min
+- or write on this prompt:
+  - "Code" (New Jim Code, Open Code Socieites) means something
+    different for Benjamin than it does for Lessig. What are these
+    differences?
+    - Do Benjamin and Lessig's ideas talk to each other? How might
+      their ideas engage? Could you draw from both of them to talk to
+      the theme of "governance" for this class? 
+  - "Hacking"
+    - "Technologies are constituted by unique affordances, but the
+      development and expression of those affordances are shaped by
+      the institutional logics in which technologies are designed,
+      implemented, and used. This is, after all, the origin of the
+      hack. Hacking intends to liberate affordances from the
+      institutional logics in which they are frozen and redistribute
+      them in alternative conﬁgurations for new purposes" (Zuboff 85).
+      - what are some possibilities for hacking the big data system?
+	- open source: giving, contributing to our communities. What
+          Lessig says about "giving away what one makes, with no
+          guarantee of compensation" (Lessig 107).
+  
+- brainstorming final projects: 30 min
+  - freewrite: 10 minutes
+    - From the past month, what are some of the class conversations or
+      ideas from the reading that you found most compelling?
+      - what about these did you find interesting?
+      - then, identify 2 or 3 keywords or key phrases associated with your interest.
+  - Share with a partner, 5 minutes
+  - Share as a class, making a list of keywords on the board.
+
+*** readings
+**** Ruha Benjamin - Introduction, from Race After Technology: Abolitionist
+Tools for the New Jim Code
+
+Talks about how new technologies perpetuate historical prejudices
+about blackness.
+
+Current society perpetuates racism by transforming it into ever new
+tools, in this case, data gathering and surveillance, machine
+learning.
+
+"The New Jim Code" - "the employment of new technologies that reflect
+and reproduce existing inequalities but that are promoted and
+perceived as more objective or progressive than the discriminatory
+systems of a previous era" (3).
+- what is Jim Crow? Segregation laws in the USA
+- some names are "normal" (neutral) in our society. That just means
+  they are unmarked.
+- the term "code" here means something specific.
+  - It means information, markup, about a person.
+  - "Codes are both reflective and predictive". They indicate the way
+    that a person will be treated.
+  - Code means something different for Benjamin than it does for
+    Lessig. 
+
+The values that drive tool production -- objectivity, profitability --
+are inherently racist:
+- “Far from coming upon a sinister story of racist programmers
+  scheming in the dark corners of the web, we will find that the
+  desire for objectivity, efficiency, profitability, and progress
+  fuels the pursuit of technical fixes across many different social
+  arenas. Oh, if only there were a way to slay centuries of racial
+  demons with a social justice bat! But, as we will see, the road to
+  inequity is paved with technical fixes” (7).
+- “The animating force of the New Jim Code is that tech designers
+  encode judgments into technical systems but claim that the racist
+  results of their designs are entirely exterior to the encoding
+  process” (11-12).
+- “With emerging technologies we might assume that racial bias will be
+  more scientifically rooted out. Yet, rather than challenging or
+  overcoming the cycles of inequity, technical fixes too often
+  reinforce and even deepen the status quo” (3).
+- “The animating force of the New Jim Code is that tech designers
+  encode judgments into technical systems but claim that the racist
+  results of their designs are entirely exterior to the encoding
+  process” (6).
+
+  → are tools good or bad in themselves? I have believed in the past
+  that tools can be used in good or bad ways. That it was about
+  agency, activity, discovery, performance. But it seems that tools
+  themselves contain biases. What is the role of human agency in using
+  biased tools?
+
+Our current tools perpetuate old biases:
+- This is meant as an extension of New Jim Crow, which argues that
+  current society perpetuates racism by criminalizing it, war on
+  drugs, mass incarceration. It diverts racist action into new forms.
+  The newest form of this diversion is technology.
+- “These tech advances are sold as morally superior because they
+  purport to rise above human bias, even though they could not exist
+  without data produced through histories of exclusion and
+  discrimination” (5).
+
+Race is a technology, a tool: 
+- “This field guide explores not only how emerging technologies hide,
+  speed up, or reinforce racism, but also how race itself is a kind of
+  technology – one designed to separate, stratify, and sanctify the
+  many forms of injustice experienced by members of racialized groups,
+  but one that people routinely reimagine and redeploy to their own
+  ends” (19).
+- “this text presents a case for understanding race itself as a kind
+  of tool – one designed to stratify and sanctify social injustice as
+  part of the architecture of everyday life” (9).
+
+Being marked, named:
+- "the presumed blandness of White American culture is a crucial part
+  of our national narrative."
+- “Invisibility, with regard to Whiteness, offers immunity. To be
+  unmarked by race allows you to reap the benefits but escape
+  responsibility for your role in an unjust system” (2).
+- “The view that “technology is a neutral tool” ignores how race also
+  functions like a tool, structuring whose literal voice gets embodied
+  in AI. In celebrating diversity, tokenistic approaches to tech
+  development fail to acknowledge how the White aesthetic colors AI.
+  The “blandness” of Whiteness that some of my students brought up
+  when discussing their names is treated by programmers as normal,
+  universal, and appealing” (15).
+
+  → white people want tech to make them invisible. The opposite
+  impulse has to employ the body, prioritize the marked body. Make the
+  body hypervisible and open to vulnerability.
+
+  → Wendy Chun’s image of the window. The screen goes both ways. You
+  are already being seen when you use technology.
+
+**** Zuboff, S. (2015). Big other: Surveillance Capitalism and the
+Prospects of an Information Civilization. Journal of Information
+Technology, 30(1), 75-89. https://doi.org/10.1057/jit.2015.5
+
+This is a perspective from 2015, how does this compare to Ruha
+Benjamin writing about race in 2021? (Benjamin would say that
+rather than a break with the past, we are doing more of the same). 
+
+What about the terminology here, what does it give us that others
+don't?
+
+- "big data"
+  - "is above all the foundational component in a deeply intentional
+    and highly consequential new logic of accumulation that I call
+    surveillance capitalism" (75).
+    - "new logic of accumulation" -- would Benjamin agree that this
+      logic is new? 
+
+- "surveillance capitalism"
+  - "unexpected and often illegible *mechanisms* of extraction,
+    commodification, and control that effectively exile persons from
+    their own behavior while producing new markets of behavioral
+    prediction and modification."
+  - from "market capitalism" to "surveillance capitalism"
+
+- "big other"
+  - "a ubiquitous networked institutional *regime* that records,
+    modiﬁes, and commodiﬁes everyday experience from toasters to
+    bodies, communication to thought, all with a view to establishing
+    new pathways to monetization and proﬁt. Big Other is the sovereign
+    power of a near future that annihilates the freedom achieved by
+    the rule qof law." (81)
+
+- "informate"
+  - the ability of a machine to produce information while carrying out
+    instructions. It turns normal activities into an "electronic
+    text".
+
+- "logic of accumulation"
+  - which underlies technological tools like Google search. There's an
+    old desire to incorporate more and more machines to "enable more
+    continuity and control," and this development has led to not only
+    efficient work but also the production of more information, which
+    can then be further analyzed, and used to automate, optimize, etc.
+  - "The logic of accumulation organizes perception and shapes the
+    expression of technological affordances at their roots. It is the
+    taken-for-granted context of any business model. Its assumptions
+    are largely tacit, and its power to shape the ﬁeld of
+    possibilities is therefore largely invisible" (77).
+
+  -> "logic of accumulation" is one of those things that contribute to
+  notions of "objectivity" and "efficiency" which we so value in our
+  tools, and which, according to Benjamin, perpetuate racism.
+
+- A google exec identifies "four uses" of computation, which Zuboff
+  shows they create a new kind of capitalism that's called
+  "surveillance capitalism"
+  - 'data (quantity over quality) extraction (one way relationship)
+    and analysis'
+    - rather than raising wages with profits, the employee is more
+      distanced from the employer.
+    - The assets are "surveillance assets", they are taken from users
+      often without their knowledge
+      -> isn't this is like the plundering of natural resources,
+      whereas now we are plundering human attention?
+  - ‘new contractual forms due to better monitoring’
+    - they are actually creating new rules around privacy. Going
+      around and extracting data until they are stopped. How they got
+      "Street View". (And how ChatGPT was created, too).
+      - "New possibilities of subjugation are produced as this
+        innovative institutional logic thrives on unexpected and
+        illegible mechanisms of extraction and control that exile
+        persons from their own behavior" (85).
+  - ‘personalization and customization'
+  - 'continuous experiments'
+
+**** Lessig, Lawrence. (1999). “Open code and open societies: values of
+internet governance,” Chicago-Kent Law Review 74, 101–116.
+https://cyber.harvard.edu/works/lessig/final.P
+
+- How do we read this today?
+  - All you need to connect to a URL is an IP address. That's all.
+  - "Nothing requires that the other side learn anything real about
+    you" (103).
+
+Code implies values, defines space, page 104:
+- the code now protects privacy, but this won't always be the case,
+  because commerce does not like privacy.
+- "engineers are governors" (104).
+
+  --> he agrees with Zuboff and Benjamin about the implicit politics
+  in technology, that technological affordances contain values. But
+  where does he differ?
+
+The internet is a product of a very specific history
+- started as a defense project, money to build up security
+- moved to an academic research project
+- made with open standards like HTML and HTTP
+
+What is the "commons"? 
+
+A network can only grow if it is open (which means that all companies
+trying to make money off of it are profiting from open/free
+resources).
+
+Values encoded into open source:
+- "Open-Evolution" - things are built on a minimal structure so that
+  they can grow in multiple directions. "Do not play god". "Keep the
+  core simple".
+  - "modularity" - not about just efficiency or transparency, but
+    "permits code to be modified; it permits one part to be
+    substituted for another" (111).
+  - "jurisdiciton" - decentralized; so change comes from the masses,
+    from the bottom up. No one person can control the development.
+- "Universal Standing" - it is open so that anyone can work on it,
+  improve it. Not like politics that's only open to the crazies and
+  the rich.
+  - free to entry
+  - the foundation of the internet as a commons
+
+How might Benjamin respond to these values? Would she say they are
+perpetuating "coded inequality"? In what ways? 
+
+** week 6, design
+Goals
+- discuss readings, continuing to map
+- re-design activity
+
+Agenda
+- introductions
+
+- review the readings
+  - /Design Justice/ introduction:
+  - "An Archive of Our Own" research study:
+  - "The Plight of AI Production Pipeline Workers" video:  
+  
+- freewrite/discussion(5/5/25) - 1 hr
+  - what questions or areas of interest do you have about these
+    frameworks, or about the readings in general?
+    - make a list of topics.
+    - go down the list.
+    
+BREAK
+
+- freewrite 7 min:
+  - thinking about design. 
+  - if your grandmother/father or great-grandmother/father (or some
+    elder friend, family member, or caregiver) could use the internet,
+    what do you think they most want to do on it? How would they want
+    to spend their time? Can you imagine and describe the ideal
+    interface for them (for web browsing, apps, etc.)?
+    - Vovo would want to look at paintints. She would want the user
+      interface to be incredible. Maybe like a flipbook of paintings,
+      she could paginate through them, in the order that they are in
+      the gallery/museum. She could zoom into detail.
+      - Then, she could see other paintings by that artist in the
+        museum, and in other museums. She could quickly navigate
+        between different paintings in different museums, but all on
+        the same interface. The UI would be the same regardless of the
+        particular group who holds the painting.
+	- Viewing art wouldn't be contained by individual private
+          entities, but by one crowd sourced one. 
+	- Kind of like a wikipedia.
+
+- share 20 minutes. 
+
+- re-design activity - 30 min
+  - intro groups of 3 or 4: first, discuss (10 min)
+    - choose a social media or related app that you regularly use.
+    - choose some values or principles from ideas we've discussed
+      today. (Design Justice, your grandmother's internet, etc).
+  - share with the class (20 minutes)
+
+
+Data Annotation tools/platforms:
+- CVAT : https://www.cvat.ai/
+- Supervisely : https://supervisely.com/
+- Hasty: https://app.hasty.ai/sign-in
+- Label Studio : https://labelstud.io
+
+*** readings
+**** Costanza-Chock, Sasha (2020). “Introduction: #TravelingWhileTrans, Design Justice, and Escape from the Matrix of Domination” in Design Justice: Community-Led Practices to Build the Worlds We Need. https://designjustice.mitpress.mit.edu/pub/ap8rgw5e/release/1
+The milimeter scanner is not meaning to look for non-conformity in
+gender; it's meant to look for terrorism. It just happens to encode
+this assumption into its UI.
+
+Small assumptions built into UI will scale up with AI: 
+- The same cisnormative, racist, and ableist approach that is used to
+  train the models of the millimeter wave scanners is now being used
+  to develop AI in nearly every domain. From my standpoint, I worry
+  that the current path of AI development will repro-duce systems that
+  erase those of us on the margins, whether intention-ally or not,
+  through the mundane and relentless repetition of reductive norms
+  structured by the matrix of domination. 
+
+Normativity built into UI is constructed from multiple assumptions:
+- "the particular sociotechnical configuration of gender normativity
+  (cis-normativity, or the assumption that all people have a gender
+  identity that is consistent with the sex they were assigned at
+  birth) that has been built into the scanner, through the combination
+  of user interface (UI) design, scanning technology, binary-gendered
+  body-shape data constructs, and risk detection algorithms, as well
+  as the socialization, training, and experi-ence of the TSA agents."
+  (2). 
+
+Draws from
+- intersectionality
+  - Kimberle Crenshaw, "Demarginalizing the Intersection of Race and
+    Sex", 1989.
+  - Krenshaw's definition in legal context. Black women are not
+    represented by Civil Rights law that protects black people, and by
+    law that protect womens' equality.
+  - "single axis framework"
+    - Used in lots of design, seeing only one dimension of
+      marginalization (sex, race, ability). Opposed to intersectional
+      framework.
+- matrix of domination
+  - due to intersectional analysis, we can see the existence of a
+    "matrix of domination" where race, class, and gender act together
+    to create different levels of oppression. Everyone has benefits
+    and harms across this matrix.
+  - Patricia Hill Collins, 1990, /Black Feminist Thought/.
+
+Design Justice "Principles":
+- good intentions are not enought to ensure that "design processes and
+  practices become tools for liberation", but also need principles.
+- "a framework of analysis of how design distributes benefits and
+  burdens between various groups of people. Design justice focuses
+  explicitly on the ways that design reproduces and/or challenges the
+  matrix of domination (white supremacy, heteropatriarchy, capitalism,
+  ableism, settler colonialism, and other forms of structural
+  inequity)."
+
+**** Fiesler, Casey, et al. “An Archive of Their Own: A Case Study of Feminist HCI and Values in Design.” Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, Association for Computing Machinery, 2016, pp. 2574–85. ACM Digital Library.
+A community-driven platform for sharing fanfiction.
+
+Open source, volunteer basis. 
+
+**** Berhan Taye, “The Plight of AI Production Pipeline Workers”, from Design Justice in AI conference, July 2024. Watch video from start until minute 36.
+- ways that workers are using the interface of these tools to resist.
+
+Her work categorizes harms from automated systems. She's looking at
+labor.
+
+This current project looks at "data workers". Who are they? What is
+datawork?
+- data work is getting the data prepared to train machine learning
+  systems: cleaning, labeling.
+- Hive, Scale AI are some examples of data work companies.
+- Alexandr Wang, CEO of Scale AI, the "youngest self-made billionare"
+  -- but he's not self-made.
+
+Clients that use Scale AI: Harvard Medical School, Department of
+Defense.
+
+Most data workers do not have contracts with the companies. They are
+the backbones of the company products, but they do not have a formal
+relationship.
+
+"The Resistance" minute 28
+- creating multiple accounts to get paid as much as possible.
+- set up paid VPNs to get better rates from other countries.
+- leasing accounts that have a good track record to make more money.
+- buying US registered accounts.
+- browser extentions to refresh pages to see new jobs.
+- messaging systems to organize / share information. 
+- video chat to encourage each other.
+
+Solutions?
+- legal protections for workers
+- unionization, association formation
+
+** week 7, archives
+
+Goals:
+- adjusting some aspects of our class discussion, to bring in
+  discussion posts, sharing with class
+- second half of class, will start with brainstorming topics for the
+  final paper project. Start with freewriting on our favorite
+  readings, and why.
+
+Introductions (10m)
+
+Discussion post Pair & Share (20-25)
+- groups of 3-4: what did you write about? (10)
+- choose one, turn into discussion question (5)
+- share with class (5-10)
+- write on the board
+
+Discuss (30)
+
+BREAK
+
+- introduce critical analysis assignment (10 m)
+
+- brainstorming final projects 50 m - 1 hr: 
+  - freewrite: 5 minutes
+    - What was the most interesting reading of the course so far? 
+      - what about these did you find interesting?
+  - share with the class, keywords (45 m)
+    - going around the room and sharing what you liked and why - 2
+      min maximum 
+    - the class helps to come up with 2 keywords for that reading
+
+(THERE WAS NO TIME)
+Digital Collections Interface individual activity (10m):
+- choose an interface: LHA, NYPL, NYC Municipal Archives
+- try to find the digital archive section, and browse through the
+  items. 
+  - what can you guess about the way that documents are organized?
+  - what does the archive prioritize?
+- Share (5-10m)
+
+(THERE WAS NO TIME)
+In groups, organized by archive (10m):
+- what ways can the online interface be designed that speaks to some
+  of the aspects from our discussion?
+  - community-driven or oriented collections
+    - folksonomies
+  - serendipitious discoveries (elevating more marginalized objects)
+- Discuss (15m)
+
+*** readings
+**** McKinney, Cait. 2015. Body, Sex, Interface: Reckoning with Images at the Lesbian Herstory Archives. Radical History Review 122: 115–28.
+About the work being done at a community, volunteer run archives.
+
+Asks a central question, very related to Hartman, which is: *how do we
+catalog things, make them visible and accessible, without also
+incorporating/subscribing them into a normalizing scheme*? How do we
+label things and allow them to maintain a certain kind of dynamicity?
+
+Much of the data in the archives cannot be fully
+categorized/catagloged and digitized, because (1) we never got that
+information from the donor, we take everything and anything,
+"undescribability" and lack of donor agreements, and (2) we don't have
+the resources to do all of that work.
+- folksonomies
+- "the ways that all kinds of sex practices and gendered ways of being
+  scramble the categorical logics of structured databases" (3).
+
+Designing for serendipitious experiences (the interface): 
+- What kind of interface would replicate some of the "uncategorizable"
+  aspects of the materials?
+- "Pulling a “what do you say about this?” image out of the photo
+  drawer evokes wonder, because the ways these photos do not make
+  sense are difficult to catalog and capture through mechanisms such
+  as the searchable database form" (10).
+
+Being visible vs being integrated/maintreamed:
+- There is a desire for access, which is good. But being seen also
+  suggests being included, and being included into what kind of
+  citizen:
+- "LGBT archives are worlding technologies that can be called on to
+  support homonational trends, in which the recognition of gay and
+  lesbian citizen-subjects as rightly historical is tied to broader
+  political agendas of gendered and racialized violence, exclusion,
+  and empire in the present. Photographic archives, in particular,
+  shift this politics into a regime of visibility that associates
+  being seen with being welcomed into the fold of liberalism" (8).
+
+**** Hartman, Saidiya. "Venus in Two Acts." Small Axe, vol. 12 no. 2,   2008, p. 1-14. Project MUSE muse.jhu.edu/article/241115.
+
+Her main question is how can we write history under these conditions
+of scarcity/absence and of language: 
+- “How does one revisit the scene of subjection without replicating
+  the grammar of violence?” (4).
+
+"The violence of the archive" - we only receive things in the violent
+terms of their subjection. 
+- "The archive of slavery rests upon a founding violence. This
+  violence determines, regulates and organizes the kinds of statements
+  that can be made about slavery and as well it creates subjects and
+  objects of power" (10).
+  - A condition also known as the "violence of the archive," she
+    describes the archive as a "death sentence," because it only
+    records the subject in the terms of their objectification, in "a
+    display of the violated body, an inventory of property" (2).
+- Hartman here looks at the problem of what to do with an absent
+  archive. Not only absence in the form of evidence, that the literal
+  records are missing, but also in the tools of expression, in
+  language that cannot approximate the reality of experience, and in
+  the discourse that dictates silence.
+
+She seeks to recuperate (without recovering) the lives of these
+subjects. To write about them in a way that does not do more damage,
+but draws attention to the ways that their lives have been delineated
+while inviting possibility for living. To create in the mode of
+"critical fabulation" (11).
+
+She examines the history of Venus, the unnamed slave woman who appears
+variously throughout the "official" record. From this history, Hartman
+concludes that there is no way forward with recovery. She turns to
+consider a series of paradoxical questions:
+- “how does one rewrite the chronicle of a death foretold and
+  anticipated, as a collective biography of dead subjects, as a
+  counter-history of the human, as the practice of freedom?” (3).
+- "how does one recuperate lives entangled with and impossible to
+  differentiate from the terrible utterances that condemned them to
+  death, the account books that identified them as units of value, the
+  invoices that claimed them as property, and the banal chronicles
+  that stripped them of human features?" (3)
+- “How can narrative embody life in words and at the same time respect
+  what we cannot Know?” (3).
+- “If it is no longer sufficient to expose the scandal, then how might
+  it be possible to generate a different set of descriptions from this
+  archive?" (7).
+
+The archivist of slavery comes up against the incommensurability
+between reality and the historical record, the archivist must endeavor
+to engage this incommensurability: "to expose and exploit the
+incommensurability between the experience of the enslaved and the
+fictions of history, by which I mean the requirements of narrative,
+the stuff of subjects and plots and ends" (10).
+- "This double gesture can be described as straining against the
+  limits of the archive to write a cultural history of the captive,
+  and, at the same time, enacting the impossibility of representing
+  the lives of the captives precisely through the process of
+  narration" (11).
+
+In the scarcity of material (not one autobiographical account of a
+female survives), most of what we have left are numbers. Can we then
+fill the void with stories? 
+- "Loss gives rise to longing, and in these circumstances, it would
+  not be far-fetched to consider stories as a form of compensation or
+  even as reparations, perhaps the only kind we will ever receive"
+  (4).
+ 
+**** Drabinski, Emily. “Queering the Catalog: Queer Theory and the Politics of Correction.” The Library Quarterly: Information, Community, Policy, vol. 83, no. 2, 2013, pp. 94–111
+
+What does queer theory give to cataloguing? It gives a perspective
+that nothing will ever be perfectly described. That engaging with
+materials is a dialogical process, that markup will always be complex
+and biased.
+
+"dialogic engagement" - a back and forth engagement with sources,
+rather than a one-way engagement.
+
+Narrative around Gay and Lesbian Studies vs Queer Theory.
+- G&L was about filling a gap, giving voice to an absence, and QT was
+  about outlining the queer subject.
+
+The location of where queer and trans books have been cataloged, as
+sexual deviance, trans next to homosexuality, suggesting certain kinds
+of relationships between them.
+
+The subject headings themselves containing bias.
+
+Queer theory assumes that all categorizing schemas are contingent to
+history and context. Nothing is universal.
+
+Queer is always in resistance. It needs a norm in order to define
+itself against. "Lesbian should be replaced by Dyke" (103).
+
+Solutions:
+- "Turning library access structures into pedagogical tools"
+- making tagging system / links visible
+- user tagging
+
+**** “How to become a pirate archivist,” by Anna’s Archive. 10/22/2017. https://annas-archive.org/blog/blog-how-to-become-a-pirate-archivist.html
+- they are pirates, not bound by law, but only by an imperative to
+  make all information accessible by scraping collections on the
+  internet and sharing them. 
+- they are lonely.
+- what are their strategies for the archival work?
+  - data scraping
+  - metadata gathering
+  - mirroring collections
+  - hosting the content
+  - seeding the content
+
+** week 8, futures
+Agenda
+- discuss readings on theme "futures"
+- break
+- final papers:
+  - finish sharing most interesting reading from the course, and why
+  - close reading practice 
+
+Introductions (10m)
+
+Review readings(15m)
+- what are Stone and Hamison's view of technology? Where do they agree
+  and where do they differ?
+
+Freewrite prompts for readings (5m):
+- Which approach toward technology do you find more compelling and
+  why? 
+
+Discuss (30m) 
+
+Finish keyword activity (15 min)
+
+BREAK
+
+Close reading activity (1 hour)
+
+Step 1: Initial Reactions (5 minutes)
+- Summarize the piece briefly: What is it about? Who is the audience?
+- Identify the perspective: What position or argument is the piece
+  making?
+- Describe your reaction: Did you find it convincing? Why or why
+  not?
+
+Step 2: Analyzing Persuasion (10 minutes)
+- Credibility: How does the author or creator make themselves seem
+  trustworthy? Do they rely on expertise, personal experience, or
+  official sources?
+- Use of Emotions: Does the piece try to make the audience feel a
+  certain way (e.g., fear, hope, outrage, empathy)? How?
+- Use of Facts and Reasoning: What kind of evidence or reasoning does
+  the piece use to support its argument? Does it include statistics,
+  expert opinions, personal stories, or logical explanations?
+- Language & Style: What words, images, or tone stick out to you and
+  why?
+
+Step 3: Small Group Discussion (20 minutes)
+- Share what you chose, and how you are approaching your analysis. 
+
+Step 4: Whole-Class Reflection (20 minutes)
+- does anyone want to share their example? 
+
+**** Sandy Stone. "Split Subjects, Not Atoms; or, How I Fell in Love with My Prosthesis." Configurations, vol. 2 no. 1, 1994, p. 173-190.
+About the ways that virtual technologies change our relationship to
+agency, and the potential possibilities and harms from this.
+
+This essay is the first chapter of her book, /The War of Desire and
+Technology at the Close of the Mechanical Age/, which is a revision of
+her dissertation, which was supervised by Donna Haraway.
+
+Professor at UT Austin, does film/music studies, background as a sound
+engineer before moving to academia. Was involved in some TERFy
+controversies in the 70s.
+
+Wrote "The Empire Strikes Back: A Posttranssexual Manifesto" which is
+credited with starting Trans Studies. Argument for trans people to
+come out rather than simply pass, which was super controversial for
+her time and even today. 
+
+The compression of sensory experience. Data compression, sense
+modality is compressed to be sent over the wires.
+
+- "The sex workers took an extremely complex, highly detailed set of
+  behaviors, translated them into a single sense modality, then
+  further boiled them down to a series of highly compressed tokens."
+
+People who are using new forms of technology -- the youth -- have a
+real opportunity to change social relations. If gamers cared about
+feminism, for example, they could make games about that. 
+
+**** Oliver Haimson, “Introduction” from Trans Technologies, 2025, p. 1-14 (just read this excerpt of the longer chapter).
+
+"Trans technologies"
+
+Technology vs Trans Technology:
+- "Most technology responds to fairly mundane problems like
+  these--problems that are rarely critically related to their
+  creators’ identities and life chances. With trans technology,
+  though, technological innovations are frequently created in direct
+  response to the oppressive conditions trans people face in the
+  social, legal, and medical spheres: transphobia, violence, antitrans
+  legislation, difficulty identifying supportive resources, and lack
+  of access to medical care." (5).
+
+Care and Ambivalence
+- tech creating structures of trans care
+- tech supporting ambivalent identitys: multiplicity rather than
+  fluidity. 
+
+** week 9, library week
+** week 10, labor & environment
+
+Agenda
+- intros
+- talk about final readings
+- practice analysis of example #2
+
+introductions (10):
+
+Review readings(15m)
+
+What is Nakamura's main argument? What is Ensmenger's?
+- readings center on the question of infrastructure that is hidden
+  from view. Computing resources, the cloud and the chip.
+  - How the ways these things are presented/marketed are deceiving
+    about how they are actually developed.
+- Nakamura: silicon chip manufacturers exploited navajo womens' labor
+  by taking "indigenous" qualities and putting them to work within
+  capitalistic framework.
+- Ensmenger: materiality has an environmental and labor cost, which is
+  hidden from view of the users: "information technology does not so
+  much eliminate as conceal the materiality of the so-called “new”
+  economy"
+
+- share what you wrote about to a group (10m)
+
+- make list of prompts on board (10m)
+
+Discuss (30m)
+
+Close reading activity (1 hour):
+
+“Surface reading” (5 minutes):
+- Summarize the piece briefly: What is it about? Who is the audience?
+- Identify the perspective: What position or argument is the piece
+  making?
+- Describe your reaction: Did you find it convincing? Why or why not?
+
+Deep reading (10m) :
+- Credibility: How does the author or creator make themselves seem
+  trustworthy? Do they rely on expertise, personal experience, or
+  official sources?
+- Use of Emotions: Does the piece try to make the audience feel a
+  certain way (e.g., fear, hope, outrage, empathy)? How?
+- Use of Facts and Reasoning: What kind of evidence or reasoning does
+  the piece use to support its argument? Does it include statistics,
+  expert opinions, personal stories, or logical explanations?
+- Language & Style: What words, images, or tone stick out to you, and
+  why?
+
+Small groups: Share what you chose and why. How you are thinking about
+analysis? 
+
+**** Lisa Nakamura. (2014). “Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture,” American Quarterly 66(4): 919–41.
+- "Haraway draws our attention to the irony that some must labor
+  invisibly for others of us to feel, if not actually /be/, free and
+  empowered through technology use: technoscience is, indeed, an
+  integrated circuit, one that both separates and connects laborers
+  and users, and while both genders benefit from cheap computers, it
+  is the flexible labor of women of color, either outsourced or
+  insourced, that made and continue to make this possible" (919).
+- navajo women were exploited labor, were presented by Fairchild as a
+  "labor of love", reproducing their culture in their work.
+- "promotional materials... reveal how electronics assembly work
+  became both gendered and identified with specific racialized
+  qualities" (924).
+
+Taking indigenous qualities and consigning them within an
+industrialized / capitalistic framework.
+- takes Navajo cultural skill of weaving and applies to to industrial
+  work, saying that it "also requires the same personal commitment to
+  perfection" (928).
+- "Again, the notion of an “inherently flexible” laborer, a worker
+  whose nature it is to be both adaptable and culturally suited, or
+  hardwired, to craft circuit designs onto either yarn or metal
+  appeals to a romantic notion of what Indians are and the role that
+  they play in US histories of technology" (929-930).
+  - appealing to Indian work as natural commodity.
+- this framing "posits indigenous design as informing circuit
+  design--a kind of colonialism in reverse--despite the lack of
+  involvement of indigenous people in the company's research and
+  development arm" (931).
+- this painstaking precision work was redefined as creative work
+  (935).
+- "Navajo women did not make circuits because their brains naturally
+  “thought” in patterns of right-angle colors and shapes. They did not
+  make them well because they had inherent Indian virtues such as
+  stoicism, pride in crafts- womanship, or an inherent and inborn
+  manual dexterity. And Fairchild did not employ Navajo women because
+  of these traits. These traits were identified after the company
+  learned about the tax incentives available to subsidize the project,
+  the lack of unions and other employment options in the area, and the
+  generous donation of heavy equipment given by the US government
+  gratis as part of an incentive to develop “light industry” as an
+  “occupational education” for Indians" (935).
+
+The "Platform" 
+- our analysis of digital focuses too much on the interface, when we
+  ought to focus on how digital is /procedural/.
+- infrastructure as "whatever" - "the material conditions that are
+  usually invisible to the user and are necessary for digital media
+  device creation" (936).
+  - cheap, female labor
+- "Looking inside digital culture means both looking back in time to
+  the roots of the computing industry and the specific material
+  production practices that positioned race and gender as commodities
+  in electronics factories. This labor is temporally hidden, within a
+  very early period of digital computing history, and hidden
+  spatially. We must look to locales and bodies not commonly
+  associated with these technologies, in out of the way places, to see
+  how race operates as a key aspect of digital platform production."
+  (937-8).
+- "On the spectrum of digital labor, factory work soldering chips for
+  iPhones, missiles, and servers is as close to the machine as one can
+  get, as close to the means of digital production— the computer— as
+  can be imagined. It is not creative labor, nor is it free. It is
+  fascinating that, during a pivotal moment in early computing
+  history, the industry’s foremost electron- ics company represented
+  it that way. This story of digital device manufacture on Indian land
+  shows us how the discourse of women’s indigenous cultural production
+  has been used to explain the key role that women of color play
+  within the integrated circuit of production" (938).
+ 
+**** Ensmenger, Nathan. (2018). “The Environmental History of Computing.” Technology and Culture 59 (4S): S7–33.
+
+About the ways that technological development and resource extraction
+works:
+- how it tends to develop off the backs of existing tech;
+- how it tends toward reading the environment (weather, longitude,
+  census) for the sake of mastery (imperialism).
+- how it seeks to "annihilate space and time" (railroad, telegraph).
+- "information technology does not so much eliminate as conceal the
+  materiality of the so-called “new” economy"
+
+"we experience only the positive benefits of information technology,
+in large part because the labor and geography associated with the
+construction, maintenance, and dismantling our digital devices has
+been rendered largely invisible." (s10)
+
+"when we look at the vast web of wires, cables, towers, generators,
+and other physical equipment that underlies the apparently virtual
+realm of Cyberspace—-the digital present does not seem quite so
+discontinuous with our industrial past" (s10).
+
+** week 12, fieldwork & writing day I
+Goals
+- share
+- start to come up with an outline 
+- share arguments
+
+Agenda
+- introductions:
+- share fieldword (1-1.5 hrs)
+- break
+- brainstorm argument 30-40m:
+  - you're doing a rhetorical analysis of two examples. The point of
+    the paper is going to be an argument about how each source makes
+    their argument.
+    - you're really trying to analyze the form, the strategies, of an
+      argument or a message.
+    - from here, you'll be able to create some kind of
+      argument/analysis of how that topic is being handled across your
+      two sources. 
+  - freewrite 15m:
+    - what is the main argument/message of each of my examples?
+    - what are some strategies they use to present that
+      argument/message?
+      - how does each author establish urgency/importance around the
+        topic?
+      - what are some interesting differences and/or similarities
+        between the two examples?
+    - taking the above two points into account, what is /your/
+      working thesis for your paper?
+  - share in groups, 10 min; share as class 10m
+- outlines 10m:
+  - how to write an outline?
+  - thesis, one bullet for each paragraph.
+    - for each paragraph, one intended bullet for the evidence. 
+- next week, detailed outlines due. Not just points you want to make,
+  but also evidence. 
+
+** week 13, writing day II
+
+Goals
+- show you rubric
+- introduce asynchronous activity
+- mini conferences
+  
+Agenda
+- Link to grading rubric 10 min
+- Activity (asynchronous)
+  - Focused Drafting: “Write Your Strongest Paragraph”
+    - Select the section of your outline that feels clearest or most
+      compelling to you.
+    - Then, use the outline as a guide to draft a full paragraph for
+      that section, focusing on:
+      - Expanding bullet points into complete sentences.
+      - Adding examples, quotes, or evidence from your book to support key points.
+      - Including some sentences that explain the quotation in your
+        own words, and its significance to your overall point.
+
+Mini-conferences sign up. Each conference will be 10 minutes maximum. 
+
+Homework: 5 full pages, double spaced.
+
+** week 14, writing day III
+Agenda:
+- mini-conferences
+- peer review
+
+Schedule:
+- intros (15)
+- review peer review instructions (15)
+- mini-conferences / peer review, 2 rounds (60)
+- BREAK (20)
+- work on papers / finish mini-conferences (40)
+- what was useful, what isn't useful?
+- next time, have full drafts and we will talk about intros &
+  conclusions.
+
+
+*** Peer review instructions:
+Peer Review: Argumentation & Analysis (25 minutes)
+
+First, read the paper entirely.
+
+Then, answer the questions about “Body Paragraphs”, and “Thesis”, and
+“Overall feedback,” in that order.
+
+Body paragraphs (10m):
+Focus argument: 
+Indicate 1-2 places in the paper where the argument could be better
+developed or connected to the thesis.
+
+Deepen analysis:
+Indicate 1-2 places in the paper where the examples can be analyzed
+more critically or in greater depth.
+Make a concrete suggestion for how the author might focus or expand
+their critique.
+
+Thesis (5m): 
+The thesis should present a clear and compelling argument about the
+chosen examples.
+The author should make a case for how to read these examples together.
+Make a suggestion for how the author might re-write their thesis for
+clarity and strength of argument (even if the thesis is already
+strong, re-write it in your own words).
+
+
+Overall feedback (10m):
+At the end of the paper, include a comment describing the paper’s
+strongest element (e.g., a particularly insightful argument, clear
+organization, or effective use of evidence, writing style).
+
+At the end of the paper, include a comment that identifies one area
+for improvement.
+
+
+
+** week 15, writing day IV
+Agenda:
+- peer review
+
+Schedule:
+- intros (15)
+- reverse outline (30 min)
+- review peer review instructions (15)
+  - introductions, conclusions
+  - handling evidence
+  - style
+- peer review, 1 round (30)
+- BREAK (20)
+- peer reivew, 1 round (30)
+- fieldwork? (20) 
+
+Common threads: 
+- balance between summary & critique
+- how to structure the paper
+- how to put the book into "conversation" 

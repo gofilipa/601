@@ -10,35 +10,43 @@ Agenda:
 
 Myself
 - Filipa Calado, call me Professor.
-- Background in Literature, Queer studies, Digital Studies
+- Background in Literature, Queer studies, Digital studies
 - Using technology to study queer literature (dissertation)
-- Now interested in language broadly, how meaning changes across
-  different forms of language, how these are affected by technology
-  (recently things like AI) and how to use tech to study language.
-- Teaching for 8 years across NYC universities, NYU, New School,
-  CUNY; classes on writing, critical thinking, data science, creative
-  coding. So a wide range.
-- Second time teaching course, still figuring it out, very excited. 
+  - Now interested in language broadly, how meaning changes across
+    different forms of language, how these are affected by technology
+    (recently things like AI) and how to use tech to study language.
+- During my PhD, taught for 8 years across NYC universities, NYU, New
+  School, CUNY; classes on writing, critical thinking, data science,
+  creative coding. So a wide range.d
+- Second year teaching course, still figuring it out, very excited. 
 
 The course
 - INFO 601:
-  - Introduction to graduate school & "information studies" broadly
-    - broad term, encompasses work by librarians, analysts, cultural
-      heritage curators, managers
-  - Exploring the question, what is information? How does form affect
-    meaning?
-    - Source, platform, speaker, audience, material substrate.
-    - Thinking critically about information production
-    - Different specializations and jobs available to info practitioners   
-  - Also, an introduction to graduate school, to thinking, reading,
-    and writing critically.
-    - how to insert yourself into an academic/professional
-      conversation.
-    - how to do a "close reading" -- look at the components of
-      something to analyze it in depth.
-  - Finally, we take a critical perspective that pays attention to
-    structures of power and how they affect all aspects of
-    information.
+  - This course has two purposes:
+    - Introduction to "information studies" as a field. 
+      - what is information studies? Broad term about the organization
+	of information, and the fields that study information.
+      - how is knowledge collected, organized, analyzed, preserved,
+        displayed?
+      - encompasses work by librarians, analysts, cultural heritage
+	curators, managers
+      - roots in Library Science, but now includes Museums, Archives,
+	Data Analysis, Design. 
+    - In this class, we will be examining various perspectives of how
+      technolgy affects information.
+      - How does form, the container, of information affect its
+        meaning?
+      - Source, platform, speaker, audience, material substrate.
+      - Thinking critically about information production
+    - Also, an introduction to graduate school, to thinking, reading,
+      and writing critically.
+      - how to read intensive and long texts, how to get what you need
+        from them.
+      - how to write critically and in depth about a topic.
+        - how to insert yourself into an academic/professional
+          conversation.
+        - critical analysis: how to do a "close reading" -- look at
+          the components of something to analyze it in depth.
 - Assignments:
   - readings every week
   - posting on discussion board every week
@@ -52,11 +60,8 @@ introductions.
 Around the room, say your name, program, and best thing you've watched
 lately.  
 
-- Professor Calado; play called "Kilele" about a massacre in Colombia.
-  All about how you deal with tragedy and death in the aftermath. Very
-  powerful. Makes me think about the power of narrative to move us in
-  positive ways, world-making ways, which other forms (news, social
-  media) cannot or does not.
+- Professor Calado; Jurassic Park. They make the same mistake every
+  time. I love it. 
 
 Syllabus Review
 - Go over:
@@ -71,17 +76,14 @@ Syllabus Review
   - Discussion posts on canvas, 1 time per week, 200 words max per
     post.
   - Fieldwork
-    - 2x/semester, reports due on May 6 on Canvas, and you will also
-      share them in class the week that you do them. 5 minutes max, 1
-      page report
+    - 2x/semester, reports due middle of November on Canvas, and you
+      will also share them in class the week that you do them. 5
+      minutes max, 1 page report
     - gets you to experience the field in practice, attend events like
       talks and lectures
     - can be virtual
     - ask me if you are not sure if something counts.
-  - AI activity
-    - due in 2 weeks, about 1000 words, or 3 pages (double spaced)
-    - review a court case
-  - Close Reading Paper
+  - Critical Analysis Paper
     - final project
     - highly scaffolded, will work in parts, proposal, drafts.
     - you pick a topic, discourse, like "immigration"
@@ -89,7 +91,7 @@ Syllabus Review
     - last month of the semseter will be focused on this assignment.
   - Course Schedule
     - weeks are broken up into "themes" in bold
-    - example: next week is AI, the follwing is being online
+    - example: next week is AI, the follwing is cyborgs
     - Also weeks that pertain to different programs in the dept, like
       design and archives
     - do not read ahead
@@ -105,10 +107,15 @@ How to read for grad school (40 min)
 - share & discuss (10-12 min)
 
 Close reading practice (45 - 60 min)
-- watch video of Mark Zuckerberg.
-- Talk about context: what is his main argument and who is he speaking
-  to? What are his overall goals? What is he responding to?
-- Watch again, thinking about his persuasive strategies in particular
+- watch video of Mark Zuckerberg 2 times.
+- first time:
+  - focus on surface level & context: what is his main argument and
+    who is he speaking to? What are his overall goals? What is he
+    responding to?
+- second time:
+  - think about his persuasive strategies in particular.
+  - what is he trying to elicit in the audience? What reactions,
+    reasoning, feelings?
 - Freewrite (10): what are the strategies that Zuckerberg uses to make his
   argument? Focus on one or two moments.
   - What does this strategy reveal about his goals, methods, or
@@ -116,7 +123,7 @@ Close reading practice (45 - 60 min)
 - Discuss (20)
 
 Wrap up
-- remember readings and discussion posts!
+- remember readings and discussion posts for 2 weeks from now.
 
 ** week 2, artificial intelligence
 
@@ -504,22 +511,7 @@ Terms:
   - How does this relate to topics we've discussed (or haven't yet
     discussed) from our readings? 
  
-
 ** week 5, governance
-Goals
-- discuss readings on "governance theme" - winnowing down our
-  conversations to more specific frame of how information environments
-  are governing and being governed by certain powers.
-  - all of our work prepping us for the next several weeks, where we
-    will dive into: design, archives, libraries
-- critical reading skills:
-  - map out some of the perspectives contained within the readings
-  - grasping arguments and terminology, to understand the views in a
-    more systematic way (so that we can continue to build)
-    - defining terms and main ideas from each of the readings.
-- start to brainstorm final projects toward the end of class.
-- next week, we will start talking about design, then archives. 
-
 Agenda
 - introductions:
   - name, favorite disney character
@@ -788,57 +780,60 @@ perpetuating "coded inequality"? In what ways?
 
 ** week 6, design
 Goals
-- we need to do something with the discussion posts. Email chain? 
 - discuss readings, continuing to map
-- design activity
-- discuss final projects
-
+- re-design activity
 
 Agenda
 - introductions
-  - favorite musical album currently on loop
 
-- discussion posts?
-  - email chain?
-  - padlet?
-  - Some kind of interface that would encourage more response to each
-    other.
-
-- discussion(10/5/25) - 1 hr
-  - what are the different frameworks for design?
-    - defining terms from the readings
-
-  - QUICKWRITE: what questions or areas of interest do you have about
-    these frameworks, or about the readings in general?
+- review the readings
+  - /Design Justice/ introduction:
+  - "An Archive of Our Own" research study:
+  - "The Plight of AI Production Pipeline Workers" video:  
+  
+- freewrite/discussion(5/5/25) - 1 hr
+  - what questions or areas of interest do you have about these
+    frameworks, or about the readings in general?
     - make a list of topics.
     - go down the list.
     
-- design activity - 30 min
-  - intro groups of 3 or 4: first, discuss (10 min)
-    - pick an interface from an app that you regularly use.
-    - pick a design framework that we discussed.
-    - do an analysis of ways that the interface engages with that
-      framework. Do you see the principles manifesting in design
-      decisions? How so?
-  - individual brainstorm: 5-10 minutes brainstorming ways you could
-    re-design the interface to speak more to one of your values
-  - 10 minute share with the group
-
 BREAK
 
-- design activity continued: 20 - 40 min
-  - 10 minutes prep your re-design
-  - 10 - 20 minutes share
+- freewrite 7 min:
+  - thinking about design. 
+  - if your grandmother/father or great-grandmother/father (or some
+    elder friend, family member, or caregiver) could use the internet,
+    what do you think they most want to do on it? How would they want
+    to spend their time? Can you imagine and describe the ideal
+    interface for them (for web browsing, apps, etc.)?
+    - Vovo would want to look at paintints. She would want the user
+      interface to be incredible. Maybe like a flipbook of paintings,
+      she could paginate through them, in the order that they are in
+      the gallery/museum. She could zoom into detail.
+      - Then, she could see other paintings by that artist in the
+        museum, and in other museums. She could quickly navigate
+        between different paintings in different museums, but all on
+        the same interface. The UI would be the same regardless of the
+        particular group who holds the painting.
+	- Viewing art wouldn't be contained by individual private
+          entities, but by one crowd sourced one. 
+	- Kind of like a wikipedia.
 
-- brainstorming final projects: 30 min
-  - freewrite: 10 minutes
-    - From the past month, what are some of the class conversations or
-      ideas from the reading that you found most compelling?
-      - what about these did you find interesting?
-      - then, identify 2 or 3 keywords or key phrases associated with
-        your interest.
-  - Share with a partner, 5 minutes
-  - Share as a class, making a list of keywords on the board.
+- share 20 minutes. 
+
+- re-design activity - 30 min
+  - intro groups of 3 or 4: first, discuss (10 min)
+    - choose a social media or related app that you regularly use.
+    - choose some values or principles from ideas we've discussed
+      today. (Design Justice, your grandmother's internet, etc).
+  - share with the class (20 minutes)
+
+
+Data Annotation tools/platforms:
+- CVAT : https://www.cvat.ai/
+- Supervisely : https://supervisely.com/
+- Hasty: https://app.hasty.ai/sign-in
+- Label Studio : https://labelstud.io
 
 *** readings
 **** Costanza-Chock, Sasha (2020). “Introduction: #TravelingWhileTrans, Design Justice, and Escape from the Matrix of Domination” in Design Justice: Community-Led Practices to Build the Worlds We Need. https://designjustice.mitpress.mit.edu/pub/ap8rgw5e/release/1
@@ -893,48 +888,55 @@ Design Justice "Principles":
   ableism, settler colonialism, and other forms of structural
   inequity)."
 
-**** Pincus, John. (2018). “Gender HCI, Feminist HCI, Post-Colonial Computing, Anti-Oppressive Design, and Design Justice” A Change is Coming (Medium) https://medium.com/a-change-is-coming/gender-hci-feminist-hci-and-post-colonial-computing-f955a4054c89 
+**** Fiesler, Casey, et al. “An Archive of Their Own: A Case Study of Feminist HCI and Values in Design.” Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, Association for Computing Machinery, 2016, pp. 2574–85. ACM Digital Library.
+A community-driven platform for sharing fanfiction.
 
-- Gender HCI
-- Feminist HCI
-- Post Colonial Computing
-- Intersectional HCI
-- Anti-Oppressive Design
-- Design Justice
-
-**** Kevin Roose, “Why a Conversation with Bing’s Chatbot Left me Deeply Unsettled.” New York Times. February, 2023.
-- stokes fear. Establishes credibility, then makes wild claims about
-  AI "runaway personalities"
-- he tells Bing about shadow self, and then Bing develops a shadow
-  self.
-- but then at the end of the article, says he knows that this
-  personality is a trick and not real, with "made up emotions".
-
-
-What about the design of this tech reinforces our propensity to impose
-meaning?
+Open source, volunteer basis. 
 
 **** Berhan Taye, “The Plight of AI Production Pipeline Workers”, from Design Justice in AI conference, July 2024. Watch video from start until minute 36.
-- ways that workers are using the interface of these tools to resist. 
+- ways that workers are using the interface of these tools to resist.
+
+Her work categorizes harms from automated systems. She's looking at
+labor.
+
+This current project looks at "data workers". Who are they? What is
+datawork?
+- data work is getting the data prepared to train machine learning
+  systems: cleaning, labeling.
+- Hive, Scale AI are some examples of data work companies.
+- Alexandr Wang, CEO of Scale AI, the "youngest self-made billionare"
+  -- but he's not self-made.
+
+Clients that use Scale AI: Harvard Medical School, Department of
+Defense.
+
+Most data workers do not have contracts with the companies. They are
+the backbones of the company products, but they do not have a formal
+relationship.
+
+"The Resistance" minute 28
+- creating multiple accounts to get paid as much as possible.
+- set up paid VPNs to get better rates from other countries.
+- leasing accounts that have a good track record to make more money.
+- buying US registered accounts.
+- browser extentions to refresh pages to see new jobs.
+- messaging systems to organize / share information. 
+- video chat to encourage each other.
+
+Solutions?
+- legal protections for workers
+- unionization, association formation
 
 ** week 7, archives
 
 Goals:
-- adjusting some aspects of our class discussion, to make it more
-  participatory and to bring in different perspectives:
-  - starting with discussion posts, sharing with class
-  - more intentional discussion around solutions rather than just
-    critique: we've spent a lot of time analyzing the structures of
-    things, which is necessary. But we also need to look forward, and
-    think about possibilities and solutions (lest we lapse into
-    cycnicism).
+- adjusting some aspects of our class discussion, to bring in
+  discussion posts, sharing with class
 - second half of class, will start with brainstorming topics for the
-  book review project. Start with freewriting on our favorite
+  final paper project. Start with freewriting on our favorite
   readings, and why.
 
 Introductions (10m)
-- best halloween costume, or what you wish you could have been (and
-  can still be).
 
 Discussion post Pair & Share (20-25)
 - groups of 3-4: what did you write about? (10)
@@ -944,10 +946,18 @@ Discussion post Pair & Share (20-25)
 
 Discuss (30)
 
-LHA presentation (10m)
-- tinyurl.com/y6ufs5hms
-- cataloguing practices
-- folksonomies
+BREAK
+
+- introduce critical analysis assignment (10 m)
+
+- brainstorming final projects 50 m - 1 hr: 
+  - freewrite: 5 minutes
+    - What was the most interesting reading of the course so far? 
+      - what about these did you find interesting?
+  - share with the class, keywords (45 m)
+    - going around the room and sharing what you liked and why - 2
+      min maximum 
+    - the class helps to come up with 2 keywords for that reading
 
 (THERE WAS NO TIME)
 Digital Collections Interface individual activity (10m):
@@ -956,10 +966,7 @@ Digital Collections Interface individual activity (10m):
   items. 
   - what can you guess about the way that documents are organized?
   - what does the archive prioritize?
-
-Share (5-10m)
-
-BREAK
+- Share (5-10m)
 
 (THERE WAS NO TIME)
 In groups, organized by archive (10m):
@@ -968,39 +975,16 @@ In groups, organized by archive (10m):
   - community-driven or oriented collections
     - folksonomies
   - serendipitious discoveries (elevating more marginalized objects)
-
-Discuss (15m)
-
-(THIS TOOK ONE HOUR FOR HALF THE CLASS)
-Freewrite (10m): favorite reading of the semester and why
-- what did you like so much? The topic being discussed, the approach
-  of the author? The writing itself?
-
-Share with the class, keywords (25m)
-- going around the room and sharing what you liked and why
-- the class helps to come up with 2 keywords for that reading
-
-
-
-*** critique vs solution
-- we've spent a lot of time tearing things down. Which is necessary.
-  You need to understand the territory if you're going to work well
-  within in. We need a "critical" perspective. But we also need
-  solutions. Now we are going to work toward that. 
-
-*** discussion posts
-- start by sharing your post with a friend, then with the class.
-- discussion from Nat about using AI tools for good. There must be
-  ways to use them toward equitable ends. Agreement by Youyuan.
-- wendy: how can we include diverse perpsectives when these are the
-  ones being shut out, underrepresented? For example, the "user
-  persona" - "A generalized representation of the ideal target
-  audience".
-  - what is the role of empathy in design (emily D, youyuan, youlu)
+- Discuss (15m)
 
 *** readings
 **** McKinney, Cait. 2015. Body, Sex, Interface: Reckoning with Images at the Lesbian Herstory Archives. Radical History Review 122: 115–28.
 About the work being done at a community, volunteer run archives.
+
+Asks a central question, very related to Hartman, which is: *how do we
+catalog things, make them visible and accessible, without also
+incorporating/subscribing them into a normalizing scheme*? How do we
+label things and allow them to maintain a certain kind of dynamicity?
 
 Much of the data in the archives cannot be fully
 categorized/catagloged and digitized, because (1) we never got that
@@ -1011,51 +995,54 @@ the resources to do all of that work.
 - "the ways that all kinds of sex practices and gendered ways of being
   scramble the categorical logics of structured databases" (3).
 
-What kind of interface would replicate some of the "uncategorizable"
-aspects of the materials?
+Designing for serendipitious experiences (the interface): 
+- What kind of interface would replicate some of the "uncategorizable"
+  aspects of the materials?
 - "Pulling a “what do you say about this?” image out of the photo
   drawer evokes wonder, because the ways these photos do not make
-  sense are dif cult to catalog and capture through mechanisms such as
-  the searchable data- base form" (10).
+  sense are difficult to catalog and capture through mechanisms such
+  as the searchable database form" (10).
 
-There is a desire for access, which is good. But being seen also
-suggests being included, and being included into what kind of citizen:
+Being visible vs being integrated/maintreamed:
+- There is a desire for access, which is good. But being seen also
+  suggests being included, and being included into what kind of
+  citizen:
 - "LGBT archives are worlding technologies that can be called on to
   support homonational trends, in which the recognition of gay and
   lesbian citizen-subjects as rightly historical is tied to broader
   political agendas of gendered and racialized violence, exclusion,
-  and empire in the present.23 Photographic archives, in particular,
+  and empire in the present. Photographic archives, in particular,
   shift this politics into a regime of visibility that associates
-  being seen with being welcomed into the fold of liberalism" (8). 
+  being seen with being welcomed into the fold of liberalism" (8).
 
 **** Hartman, Saidiya. "Venus in Two Acts." Small Axe, vol. 12 no. 2,   2008, p. 1-14. Project MUSE muse.jhu.edu/article/241115.
 
-Hartman here looks at the problem of what to do with an absent
-archive. Not only absence in the form of evidence, that the literal
-records are missing, but also in the tools of expression, in language
-that cannot approximate the reality of experience, and in the
-discourse that dictates silence. A condition also known as the
-"violence of the archive," she describes the archive as a "death
-sentence," because it only records the subject in the terms of their
-objectification, in "a display of the violated body, an inventory of
-property" (2).
+Her main question is how can we write history under these conditions
+of scarcity/absence and of language: 
+- “How does one revisit the scene of subjection without replicating
+  the grammar of violence?” (4).
+
+"The violence of the archive" - we only receive things in the violent
+terms of their subjection. 
+- "The archive of slavery rests upon a founding violence. This
+  violence determines, regulates and organizes the kinds of statements
+  that can be made about slavery and as well it creates subjects and
+  objects of power" (10).
+  - A condition also known as the "violence of the archive," she
+    describes the archive as a "death sentence," because it only
+    records the subject in the terms of their objectification, in "a
+    display of the violated body, an inventory of property" (2).
+- Hartman here looks at the problem of what to do with an absent
+  archive. Not only absence in the form of evidence, that the literal
+  records are missing, but also in the tools of expression, in
+  language that cannot approximate the reality of experience, and in
+  the discourse that dictates silence.
 
 She seeks to recuperate (without recovering) the lives of these
 subjects. To write about them in a way that does not do more damage,
 but draws attention to the ways that their lives have been delineated
 while inviting possibility for living. To create in the mode of
 "critical fabulation" (11).
-
-The violence of the archive: 
-- "The archive of slavery rests upon a founding violence. This
-  violence determines, regulates and organizes the kinds of statements
-  that can be made about slavery and as well it creates subjects and
-  objects of power" (10).
-
-Her main question is how can we write history under these conditions
-of scarcity/absence and of language: 
-- “How does one revisit the scene of subjection without replicating
-  the grammar of violence?” (4).
 
 She examines the history of Venus, the unnamed slave woman who appears
 variously throughout the "official" record. From this history, Hartman
@@ -1095,6 +1082,37 @@ fill the void with stories?
   even as reparations, perhaps the only kind we will ever receive"
   (4).
  
+**** Drabinski, Emily. “Queering the Catalog: Queer Theory and the Politics of Correction.” The Library Quarterly: Information, Community, Policy, vol. 83, no. 2, 2013, pp. 94–111
+
+What does queer theory give to cataloguing? It gives a perspective
+that nothing will ever be perfectly described. That engaging with
+materials is a dialogical process, that markup will always be complex
+and biased.
+
+"dialogic engagement" - a back and forth engagement with sources,
+rather than a one-way engagement.
+
+Narrative around Gay and Lesbian Studies vs Queer Theory.
+- G&L was about filling a gap, giving voice to an absence, and QT was
+  about outlining the queer subject.
+
+The location of where queer and trans books have been cataloged, as
+sexual deviance, trans next to homosexuality, suggesting certain kinds
+of relationships between them.
+
+The subject headings themselves containing bias.
+
+Queer theory assumes that all categorizing schemas are contingent to
+history and context. Nothing is universal.
+
+Queer is always in resistance. It needs a norm in order to define
+itself against. "Lesbian should be replaced by Dyke" (103).
+
+Solutions:
+- "Turning library access structures into pedagogical tools"
+- making tagging system / links visible
+- user tagging
+
 **** “How to become a pirate archivist,” by Anna’s Archive. 10/22/2017. https://annas-archive.org/blog/blog-how-to-become-a-pirate-archivist.html
 - they are pirates, not bound by law, but only by an imperative to
   make all information accessible by scraping collections on the
@@ -1107,186 +1125,157 @@ fill the void with stories?
   - hosting the content
   - seeding the content
 
-**** Hachette v. Internet Archive Update: Second Circuit Court of Appeals Rules Against IA. 9/5/2024 by Authors Alliance.  https://archive.us20.list-manage.com/track/click?u=38bd6154386f64fcd92204a25&id=936fb2bd59&e=86c38c2c35
-- Publishers say that IA violated copyright by scanning books and
-  lending them at the same rate as their print books.
-  - usually they create ebook licenses, but they didn't do this during
-    the pandemic.
-  - most of these books are works that are out of print, or hard to
-    find.
-  - publishers say that the practice hurts authors, but don't have the
-    financial data to back that up. 
-
-**** Kirschenbaum, “The .txtual Condition: Digital Humanities, Born-Digital Archives, and the Future Literary”, Digital Humanities Quarterly, 2013. 
-"Today, the conceit of a “primary record” can no longer be assumed to
-be coterminous with that of a “physical object.”"
-** week 8, ethics & tech forum
+** week 8, futures
 Agenda
-- finish sharing our freewrites and crowdsourcing keywords
-- discuss book, finish discussing readings
-- next week no readings no discussion posts
-- meeting in library
+- discuss readings on theme "futures"
+- break
+- final papers:
+  - finish sharing most interesting reading from the course, and why
+  - close reading practice 
 
 Introductions (10m)
 
-Finish keyword activity (30 min - 1 hr)
+Review readings(15m)
+- what are Stone and Hamison's view of technology? Where do they agree
+  and where do they differ?
+
+Freewrite prompts for readings (5m):
+- Which approach toward technology do you find more compelling and
+  why? 
+
+Discuss (30m) 
+
+Finish keyword activity (15 min)
 
 BREAK
 
-Discussion post Pair & Share (20-25)
-- groups of 3-4: what did you write about? (5)
-- choose one, turn into discussion question (5)
-- share with class (5-10)
-- write on the board
-- (if time, freewrite)
+Close reading activity (1 hour)
 
-Discuss (30)
+Step 1: Initial Reactions (5 minutes)
+- Summarize the piece briefly: What is it about? Who is the audience?
+- Identify the perspective: What position or argument is the piece
+  making?
+- Describe your reaction: Did you find it convincing? Why or why
+  not?
 
-**** “How to become a pirate archivist,” by Anna’s Archive. 10/22/2017. https://annas-archive.org/blog/blog-how-to-become-a-pirate-archivist.html
-- they are pirates, not bound by law, but only by an imperative to
-  make all information accessible by scraping collections on the
-  internet and sharing them. 
-- they are lonely.
-- what are their strategies for the archival work?
-  - data scraping
-  - metadata gathering
-  - mirroring collections
-  - hosting the content
-  - seeding the content
+Step 2: Analyzing Persuasion (10 minutes)
+- Credibility: How does the author or creator make themselves seem
+  trustworthy? Do they rely on expertise, personal experience, or
+  official sources?
+- Use of Emotions: Does the piece try to make the audience feel a
+  certain way (e.g., fear, hope, outrage, empathy)? How?
+- Use of Facts and Reasoning: What kind of evidence or reasoning does
+  the piece use to support its argument? Does it include statistics,
+  expert opinions, personal stories, or logical explanations?
+- Language & Style: What words, images, or tone stick out to you and
+  why?
 
-**** Hachette v. Internet Archive Update: Second Circuit Court of Appeals Rules Against IA. 9/5/2024 by Authors Alliance.  https://archive.us20.list-manage.com/track/click?u=38bd6154386f64fcd92204a25&id=936fb2bd59&e=86c38c2c35
-- Publishers say that IA violated copyright by scanning books and
-  lending them at the same rate as their print books.
-  - usually they create ebook licenses, but they didn't do this during
-    the pandemic.
-  - most of these books are works that are out of print, or hard to
-    find.
-  - publishers say that the practice hurts authors, but don't have the
-    financial data to back that up. 
+Step 3: Small Group Discussion (20 minutes)
+- Share what you chose, and how you are approaching your analysis. 
+
+Step 4: Whole-Class Reflection (20 minutes)
+- does anyone want to share their example? 
+
+**** Sandy Stone. "Split Subjects, Not Atoms; or, How I Fell in Love with My Prosthesis." Configurations, vol. 2 no. 1, 1994, p. 173-190.
+About the ways that virtual technologies change our relationship to
+agency, and the potential possibilities and harms from this.
+
+This essay is the first chapter of her book, /The War of Desire and
+Technology at the Close of the Mechanical Age/, which is a revision of
+her dissertation, which was supervised by Donna Haraway.
+
+Professor at UT Austin, does film/music studies, background as a sound
+engineer before moving to academia. Was involved in some TERFy
+controversies in the 70s.
+
+Wrote "The Empire Strikes Back: A Posttranssexual Manifesto" which is
+credited with starting Trans Studies. Argument for trans people to
+come out rather than simply pass, which was super controversial for
+her time and even today. 
+
+The compression of sensory experience. Data compression, sense
+modality is compressed to be sent over the wires.
+
+- "The sex workers took an extremely complex, highly detailed set of
+  behaviors, translated them into a single sense modality, then
+  further boiled them down to a series of highly compressed tokens."
+
+People who are using new forms of technology -- the youth -- have a
+real opportunity to change social relations. If gamers cared about
+feminism, for example, they could make games about that. 
+
+**** Oliver Haimson, “Introduction” from Trans Technologies, 2025, p. 1-14 (just read this excerpt of the longer chapter).
+
+"Trans technologies"
+
+Technology vs Trans Technology:
+- "Most technology responds to fairly mundane problems like
+  these--problems that are rarely critically related to their
+  creators’ identities and life chances. With trans technology,
+  though, technological innovations are frequently created in direct
+  response to the oppressive conditions trans people face in the
+  social, legal, and medical spheres: transphobia, violence, antitrans
+  legislation, difficulty identifying supportive resources, and lack
+  of access to medical care." (5).
+
+Care and Ambivalence
+- tech creating structures of trans care
+- tech supporting ambivalent identitys: multiplicity rather than
+  fluidity. 
 
 ** week 9, library week
-** week 10, infrastructure
+** week 10, labor & environment
 
 Agenda
 - intros
-- talk about E&T forum
-- fieldwork presentations
+- talk about final readings
+- practice analysis of example #2
 
 introductions (10):
-- who would you vote for? jk
-- best halloween costume you saw this year
 
-E&T forum (10 + 20 + 20)
-- those of you who attended:
-  - what was the most interesting thing you heard or thought you had
-    during the event?
-  - what was one question you still had at the end of it? One thing
-    you are curious about?
+Review readings(15m)
 
-- for those of you who did not attend, write on the following question
-  from last week's discussion:
-  - What ways could we keep social media free from political
-    influence?
-  - What ways could we maintain user privacy in social media?
-  - What would a social media that does not track user data (or sell
-    data to advertisers) look like? Would this be a viable business
-    model?
-
-
-Fieldwork presentations
-
-
-If time (10/10):
-- Share their book proposal with a partner.
-- Peer review:
-  - give feedback on their choices, which one seems better?
-  - any things they might consider, or worth emphasizing, from the
-    proposal? 
-
-** week 11, infrastructure & information management & research methods
-Agenda
-- syllabus shakeup
-  - combining the last three days into one! It's all good.
-  - focusing on Research Methods overall, but content of readings are
-    on infrastructure (Nakamura, Mattern) & information workforce
-    (Friedman)
-  - next week, no reading except your book.
-  - next week, no discussion post, but bring a brainstorm to class.
-    You will get credit just like you would for a discussion post. 
-- intros
-- discussion on readings
-- talk about papers
-
-Intros -
-- what?
-
-What is Nakamura's main argument? What is Friedmans? What is Matterns?
+What is Nakamura's main argument? What is Ensmenger's?
+- readings center on the question of infrastructure that is hidden
+  from view. Computing resources, the cloud and the chip.
+  - How the ways these things are presented/marketed are deceiving
+    about how they are actually developed.
 - Nakamura: silicon chip manufacturers exploited navajo womens' labor
   by taking "indigenous" qualities and putting them to work within
   capitalistic framework.
-- Mattern: When thinking about what a library does we need to
-  incorporate all kinds of users, even more privileged ones, while
-  also pushing back on the datafication of users by Big Tech. 
-- Friedman: Finds that men have implicit bias about women not being
-  able to work as long as men, while women do not have this bias.
+- Ensmenger: materiality has an environmental and labor cost, which is
+  hidden from view of the users: "information technology does not so
+  much eliminate as conceal the materiality of the so-called “new”
+  economy"
 
-Pair & Share (60): 
-- small groups 3-4, share what you wrote about: 10 min
-- pick 1 to share with the class, turn it into a discussion q: 5 min
-- share with the class: 10 min
-- discuss: 30-45 min
+- share what you wrote about to a group (10m)
 
-Nakamura vs Freidman on methodology. How are each pursuing different
-methods? In what ways is each method effective? 
+- make list of prompts on board (10m)
 
-Nakamura is making a moral argument here, but it's never quite
-explicit. She's saying that the use of Navajo women, and how that use
-was portrayed, was extractive without being sustaining. 
+Discuss (30m)
 
-BREAK
+Close reading activity (1 hour):
 
-Papers
-- my feedback focused on guiding you to make the best choice.
-  - most of the choices were already strong, the question is which one
-    do /you/ want to spend the next month working with? And which one
-    will be best for your studies / career? Provide a foundation.
+“Surface reading” (5 minutes):
+- Summarize the piece briefly: What is it about? Who is the audience?
+- Identify the perspective: What position or argument is the piece
+  making?
+- Describe your reaction: Did you find it convincing? Why or why not?
 
-How do you write a book review? (10m)
-https://writingcenter.unc.edu/tips-and-tools/book-reviews/
+Deep reading (10m) :
+- Credibility: How does the author or creator make themselves seem
+  trustworthy? Do they rely on expertise, personal experience, or
+  official sources?
+- Use of Emotions: Does the piece try to make the audience feel a
+  certain way (e.g., fear, hope, outrage, empathy)? How?
+- Use of Facts and Reasoning: What kind of evidence or reasoning does
+  the piece use to support its argument? Does it include statistics,
+  expert opinions, personal stories, or logical explanations?
+- Language & Style: What words, images, or tone stick out to you, and
+  why?
 
-Argument brainstorm, bring to class for next week.
-
-We will do the first one together, as a free-write. Then we will
-share in small groups.
-
-Argument & Evidence Brainstorm Freewrite (write 20/share partner
-20/ share class 10):
-
-- What is the thesis—-or main argument—-of the book? If the author
-  wanted you to get one idea from the book, what would it be? How does
-  it compare or contrast to other arguments in the same topic?
-
-- How does the author support their argument? What evidence do they
-  use to prove their point? Do you find that evidence convincing? Why
-  or why not? Does any of the author’s information (or conclusions)
-  conflict with other books you’ve read, courses you’ve taken or just
-  previous assumptions you had of the subject?
-
-Goodbye Lovers
-
-Culinary class wars
-
-One shots, Lookback
-
-Arcane
-
-Disclaimer
-
-*** readings 
-**** Friedmann, E., & Efrat-Treister, D. (2023). “Gender Bias in Stem Hiring: Implicit In-Group Gender Favoritism Among Men Managers.” Gender & Society, 37(1), 32-64. https://doi.org/10.1177/08912432221137910 
-Uses qualitative and quantitative methods to do analysis. Finds that
-men have implicit bias about women not being able to work as long as
-men. 
+Small groups: Share what you chose and why. How you are thinking about
+analysis? 
 
 **** Lisa Nakamura. (2014). “Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture,” American Quarterly 66(4): 919–41.
 - "Haraway draws our attention to the irony that some must labor
@@ -1331,13 +1320,13 @@ industrialized / capitalistic framework.
   gratis as part of an incentive to develop “light industry” as an
   “occupational education” for Indians" (935).
 
-"Platform" -> "whatever"
+The "Platform" 
+- our analysis of digital focuses too much on the interface, when we
+  ought to focus on how digital is /procedural/.
 - infrastructure as "whatever" - "the material conditions that are
   usually invisible to the user and are necessary for digital media
   device creation" (936).
   - cheap, female labor
-- our analysis of digital focuses too much on the interface, when we
-  ought to focus on how digital is /procedural/.
 - "Looking inside digital culture means both looking back in time to
   the roots of the computing industry and the specific material
   production practices that positioned race and gender as commodities
@@ -1357,98 +1346,75 @@ industrialized / capitalistic framework.
   shows us how the discourse of women’s indigenous cultural production
   has been used to explain the key role that women of color play
   within the integrated circuit of production" (938).
+ 
+**** Ensmenger, Nathan. (2018). “The Environmental History of Computing.” Technology and Culture 59 (4S): S7–33.
 
-**** Mattern, Shannon. (2014). “Libraries as Infrastructure,” Places https://placesjournal.org/article/library-as-infrastructure  
+About the ways that technological development and resource extraction
+works:
+- how it tends to develop off the backs of existing tech;
+- how it tends toward reading the environment (weather, longitude,
+  census) for the sake of mastery (imperialism).
+- how it seeks to "annihilate space and time" (railroad, telegraph).
+- "information technology does not so much eliminate as conceal the
+  materiality of the so-called “new” economy"
 
-"I propose that thinking about the library as a network of integrated,
-mutually reinforcing, evolving infrastructures — in particular,
-architectural, technological, social, epistemological and ethical
-infrastructures — can help us better identify what roles we want our
-libraries to serve, and what we can reasonably expect of them. What
-ideas, values and social responsibilities can we scaffold within the
-library’s material systems — its walls and wires, shelves and
-servers?"
+"we experience only the positive benefits of information technology,
+in large part because the labor and geography associated with the
+construction, maintenance, and dismantling our digital devices has
+been rendered largely invisible." (s10)
 
-The idea of library as a platform has problems: it's monetizable, and
-shallow. 
-- "it smacks of Silicon Valley entrepreneurial epistemology, which
-  prioritizes “monetizable” “knowledge solutions"
-- "it evokes: a flat, two-dimensional stage on which resources are
-  laid out for users to do stuff with. The platform doesn’t have any
-  implied depth, so we’re not inclined to look underneath or behind
-  it, or to question its structure"
+"when we look at the vast web of wires, cables, towers, generators,
+and other physical equipment that underlies the apparently virtual
+realm of Cyberspace—-the digital present does not seem quite so
+discontinuous with our industrial past" (s10).
 
-But a library is more of an infrastructure than a surface:
-- "we need to understand how our libraries function as, and as part
-  of, infrastructural ecologies — as sites where spatial,
-  technological, intellectual and social infrastructures shape and
-  inform one another. And we must consider how those infrastructures
-  can embody the epistemological, political, economic and cultural
-  values that we want to define our communities."
-
-"the infrastructural ecology — the larger network of public services
-and knowledge institutions of which each library is a part."
-
-Makes a potential contentious claim saying that libraries need to
-adopt "entrepreneurial models" - to not only help the disenfranchised,
-but also the enfranchised, to attract educated and privileged folks,
-to bring their talents to the library. Media production studios, maker
-spaces, hacker labs.
-
-But we are not going to compete with Google or Amazon. We are going to
-maintain privacy, not extract from our users. Libraries as a pushback
-against Google and Amazon, because they fail to be as "efficient" and
-"productive" as these spaces. How can we maintain this ethos while
-also including "entreprenurial" programming and spaces?
-
-We need a better capacity for understanding how services are
-distributed. 
-
-** week 12, writing day I
+** week 12, fieldwork & writing day I
 Goals
-- look at existing book reviews
-  - outline the "anatomy" of a book review
-- start to come up with an outline for the book review
+- share
+- start to come up with an outline 
 - share arguments
 
 Agenda
-- introductions: favorite outdoor space in NYC
-- book review comparison (20/20/20):
-  - compare Iantorno & Boccio's reviews of /Race After Technology/
-  - prompts for reading: 20. 
-    - how do each of the authors begin their review?
-    - how do each of the authors structure their review?
-  - prompts for groups: 20. 
-    - what is each author's main argument or claim about the book?
-    - how does each author establish urgency/importance around the
-      topic?
-    - what are some interesting differences and/or similarities
-      between the two reviews?
-  - discuss as a class: 20.
-- start to work on outlines for book reviews. I'll be outside if
-  people want to meet until 5pm.
+- introductions:
+- share fieldword (1-1.5 hrs)
+- break
+- brainstorm argument 30-40m:
+  - you're doing a rhetorical analysis of two examples. The point of
+    the paper is going to be an argument about how each source makes
+    their argument.
+    - you're really trying to analyze the form, the strategies, of an
+      argument or a message.
+    - from here, you'll be able to create some kind of
+      argument/analysis of how that topic is being handled across your
+      two sources. 
+  - freewrite 15m:
+    - what is the main argument/message of each of my examples?
+    - what are some strategies they use to present that
+      argument/message?
+      - how does each author establish urgency/importance around the
+        topic?
+      - what are some interesting differences and/or similarities
+        between the two examples?
+    - taking the above two points into account, what is /your/
+      working thesis for your paper?
+  - share in groups, 10 min; share as class 10m
+- outlines 10m:
+  - how to write an outline?
+  - thesis, one bullet for each paragraph.
+    - for each paragraph, one intended bullet for the evidence. 
 - next week, detailed outlines due. Not just points you want to make,
   but also evidence. 
-
-[[https://search.ebscohost.com/login.aspx?direct=true&db=mlf&AN=EIS149632764&site=eds-live&scope=site&authtype=sso&custid=s8440772][Iantorno]], Mathew. 2021. “Race After Technology: Abolitionist Tools for
-the New Jim Code.” The Journal of Popular Culture 54 (1): 220–22.
-doi:10.1111/jpcu.12984.
-
-[[https://search.ebscohost.com/login.aspx?direct=true&db=mlf&AN=EIS156586660&site=eds-live&scope=site&authtype=sso&custid=s8440772][Boccio]], Rachel. “Race After Technology: Abolitionist Tools for the New
-Jim Code by Ruha Benjamin (Review).” Configurations: A Journal of
-Literature, Science, and Technology 30, no. 2 (2022): 236–38.
-doi:10.1353/con.2022.0013.
 
 ** week 13, writing day II
 
 Goals
-- show you rubric, discuss argument
+- show you rubric
+- introduce asynchronous activity
 - mini conferences
-- some presentations
-
+  
 Agenda
 - Link to grading rubric 10 min
-- Activity (synchronous)"
+- Activity (asynchronous)
   - Focused Drafting: “Write Your Strongest Paragraph”
     - Select the section of your outline that feels clearest or most
       compelling to you.
@@ -1461,13 +1427,12 @@ Agenda
 
 Mini-conferences sign up. Each conference will be 10 minutes maximum. 
 
-Homework: 6 full pages, double spaced.
+Homework: 5 full pages, double spaced.
 
 ** week 14, writing day III
 Agenda:
 - mini-conferences
 - peer review
-- fieldworld presentations
 
 Schedule:
 - intros (15)
@@ -1475,14 +1440,52 @@ Schedule:
 - mini-conferences / peer review, 2 rounds (60)
 - BREAK (20)
 - work on papers / finish mini-conferences (40)
-- fieldwork? (20)
+- what was useful, what isn't useful?
 - next time, have full drafts and we will talk about intros &
-  conclusions. 
+  conclusions.
+
+
+*** Peer review instructions:
+Peer Review: Argumentation & Analysis (25 minutes)
+
+First, read the paper entirely.
+
+Then, answer the questions about “Body Paragraphs”, and “Thesis”, and
+“Overall feedback,” in that order.
+
+Body paragraphs (10m):
+Focus argument: 
+Indicate 1-2 places in the paper where the argument could be better
+developed or connected to the thesis.
+
+Deepen analysis:
+Indicate 1-2 places in the paper where the examples can be analyzed
+more critically or in greater depth.
+Make a concrete suggestion for how the author might focus or expand
+their critique.
+
+Thesis (5m): 
+The thesis should present a clear and compelling argument about the
+chosen examples.
+The author should make a case for how to read these examples together.
+Make a suggestion for how the author might re-write their thesis for
+clarity and strength of argument (even if the thesis is already
+strong, re-write it in your own words).
+
+
+Overall feedback (10m):
+At the end of the paper, include a comment describing the paper’s
+strongest element (e.g., a particularly insightful argument, clear
+organization, or effective use of evidence, writing style).
+
+At the end of the paper, include a comment that identifies one area
+for improvement.
+
+
 
 ** week 15, writing day IV
 Agenda:
 - peer review
-- fieldworld presentations
 
 Schedule:
 - intros (15)
