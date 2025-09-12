@@ -125,7 +125,7 @@ Close reading practice (45 - 60 min)
 Wrap up
 - remember readings and discussion posts for 2 weeks from now.
 
-** week 2, artificial intelligence
+** week 2, artificial intelligence I
 
 Agenda
 - topic today: artificial intelligence
@@ -133,24 +133,32 @@ Agenda
 - some talking about the readings
 - break
 - talking about AI, maybe going into depth about how it works
-- some prep for next week's AI activity
+
+*** discussion posts
+Aracely: "how do we address prejudices while also leaving room for
+reclamation? How do we program AI models to be able to discern harmful
+language from reappropriation?"
+
+Maria: the persistent tension between the fight for worker protections
+and workers’ dependence on these jobs for livelihood.
+
 
 *** introductions 10 min
-Name, program, one thing you want to learn how to do. 
+Name, program, one thing you want to learn how to do.
 
-*** freewrite 10 min
-- What idea or detail from the reading was most interesting to you?
-  What do you find so compelling about it? Why is it important?
+*** mapping the readings 30m
+What is the main argument for each reading? 
 
-*** share in groups of 2 or 3 people 10 minutes
-Each person shares what they wrote.
-
-Then, as a group, you decide one point to share with the class.
+*** discussion post share 10 min
+Each person summarizes what they wrote about, and why they find it interesting.
 
 *** reframe your chosen point as a question 5 minutes
-But, before you share, try to re-write your point as a question. You
-want to write a question that is open-ended (not a yes/no question),
-and that would inspire different kinds of responses.
+Then, as a group, you decide one point to share with the class.
+
+But, before you share with the class, re-write your point as a
+discussion question. You want to write a question that is open-ended
+(not a yes/no question), and that would inspire different kinds of
+responses.
 
 For example, if your interest is something like, "the difficulty of
 removing bias and discriminatory views from the data used to train AI
@@ -170,11 +178,10 @@ googledoc.
 Then, I (filipa) choose a question to start the conversation. We can
 take a minute or so to think about responding before discussion.
 
-*** discussion 45 min
-
 *** break 15 min
 
-*** continue discussion 30 min
+*** discussion 45 min
+
 *** how does chatgpt work? 20 min
 **** How does ChatGPT work?
 How does it know what to respond when someone asks it a question?
@@ -224,24 +231,14 @@ Cosine similarity and Euclidean distance.
 
 Read more in the Word2Vec Paper.
 
-*** introduce AI activity
-Legal opinion
-
-Choosing a case, reading about that case online, look at the actual
-case documents.
-
-Summarizing that case, its arguments on each side.
-
-Offering your opinion, who has the stronger argument? 
-
+**** List of Dirty Naughty Obscene words
+- used by Common Crawl to filter out webpages
+- Check out the FineWeb dataset:
+  https://huggingface.co/datasets/HuggingFaceFW/fineweb
+   
 *** readings
 
-**** Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021,
-March). On the Dangers of Stochastic Parrots: Can Language Models Be
-Too Big?. In Proceedings of the 2021 ACM conference on fairness,
-accountability, and transparency (pp. 610-623).
-https://doi.org/10.1145/3442188.3445922
-
+**** Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency (pp. 610-623). https://doi.org/10.1145/3442188.3445922
 - who?
   - Bender, comp linguist scholar at UWash
   - Gebru, former Google AI Ethics researcher, now helps to lead DAIR
@@ -251,19 +248,29 @@ https://doi.org/10.1145/3442188.3445922
     2022).
 - What is the main argument?
   - Ethical implications of one aspect about LLMs: SIZE
-    - environmental effects
-    - socialeconomic effects - marginalized people
-    - bias and discrimination - data
-    - human interpretation of text as meaningful leads to
+    - 1. environmental effects
+    - 2. socio-economic effects -> more likely to affect marginalized
+      people
+      - "increasing the environmental and financial costs of these
+        models doubly punishes marginalized com- munities that are
+        least likely to benefit from the progress achieved by large
+        LMs and most likely to be harmed by negative environ- mental
+        consequences of its resource consumption" (610).
+    - 3. bias and discrimination -> date
+      - "overrepresent hegemonic viewpoints and encode biases"
+    - 4. human interpretation of text as meaningful leads to
       misinformation/misinterpretation
 - Environmental costs
   - those most likely to pay the price of environmental degradation
     are in the global south, and are those who are least likely to
-    benefit from the tools being developed. 
+    benefit from the tools being developed.
+  - "most language technology is built to serve the needs of those who
+    already have the most privilege in society." (613).
 - "Unfathomable training data"
   - "size doesn't gaurantee diversity"
     - we assume large size means more representation, but that's not
-      the case.
+      the case. "Internet data overrepresenting younger users and
+      those from developed countries."
     - statistical methods amplify what is most frequent. They suppress
       outliers.
     - we get something that perpetuates a majority view: users who are
@@ -282,75 +289,65 @@ https://doi.org/10.1145/3442188.3445922
         supported from the outset.
 - "communicative intent"
   - to communicate, we need to guess the intention of the speaker.
-  - humans see meaning in everything, we have to impose meaning. 
-
-**** Barcott, Bruce. AI Lawsuits Worth Watching: A Curated Guide. Techpolicity.press. July 2024. https://www.techpolicy.press/ai-lawsuits-worth-watching-a-curated-guide/
-
-NYT vs OpenAI/Microsoft
-- issue of "fair use" -- OpenAI/Microsoft says that the data is
-  sufficiently transformed that it fulfills fair use clause.
-- AI models are like students who learn by reading. Reading a book
-  isn't in violation of copyright, is it?
-
-Rayner vs NY state Dept of Corrections
-- ruled that protecting company trade secrets was more important that
-  assuring fairness and accountability. 
+  - humans see meaning in everything, we have to impose meaning.
+- solutions:
+  - moving slowly, working with carefully curated datasets
+  - "pre-mortems"
+  - "value-sensitive design"
 
 **** Perrigo, Billy. “Exclusive: The $2 Per Hour Workers Who Made ChatGPT Safer.” TIME. 18 Jan. 2023, https://time.com/6247678/openai-chatgpt-kenya-workers/.
 OpenAI hiring firm in Kenya to label datasets of violence, abuse for a
 dollar and pennies per hour. Once people found out they stopped.
 
-
-**** Joe Rogan interviewing Sam Altman, OpenAI CEO, October 2023: https://www.youtube.com/watch?v=MTJZpO3bTpg 
-- story of technological development is "the story of abundance"
-- costs will fall, abundance will go up. It will transform peoples'
-  lives for the better.
-- we will have some kind of universal income, where everyone will have
-  a stake in the technology. 
+How are they doing it now? That's a good question to ask. 
+**** Berhan Taye, “The Plight of AI Production Pipeline Workers”, from Design Justice in AI conference, July 2024. Watch video from start until minute 36: https://www.youtube.com/watch?v=BBA_PZb2gdM
+- research into AI harms, "datawork", that goes on under the scenes. 
+- research methodolody:
+  - interviews, focus groups.
+- "datawork":
+  - cleaning, augmenting, labelling.
+  - explains what datawork entails.
+- Research Findings:
+  - clients are wide ranging, from DoD to photo editing apps for influencers
+  - worker hierarchy to encourage workers to compete and even sabotage
+    each other.
+- Resistances:
+  - multiple accounts on a single platform.
+  - set up paid VPNs to get a better rate.
+  - leasing, renting, selling well-rated accounts.
+  - buying US-registered accounts.
+  - browser extensions to keep reloading page. 
+  - using messaging apps to keep connected with others, video calls to
+    motivate each other.
+- Solutions:
+  - legal protections for platform workers
+  - unionization
+- Alternatives:
+  - "resistance and sabotage"
+  - cooperatives & worker-owned data shops.
 
 ** week 3, artificial intelligence, continued
 Agenda
-- discuss AI activity
-- continue discussions from last week's readings
-- start to talk about final project, going to move up some of the work
-  on that project, brainstorming things
-- weekly posts -- more "close reading", less abstract discussion. Best
-  way to do that is to focus on one particular detail or passage from
-  the reading. Start small, go into depth on that one thing.
+- today, talk about the readings and the film.
 
 Introductions, 10 min
-- What was your dream job as a kid?
 
-Freewrite 15 minutes:
-- what was the most interesting quote, section, or detail from the
-  legislation that you read?
-  - You might choose a specific argument, explanation, or
-    justification from the case. Make sure you can identify a
-    particular page number or web page where you find the
-    quote/section/detail.
-- why did this stand out to you? Why is it significant in the context
-  of the larger argument? 
+Readings main ideas, 20m
 
-Discuss AI Activity in Groups, 30 min
+Share small groups, 30m
 - split up into groups of 3-4
-- 20-25min: share about the case you did with your group, and what you
-  think is the most interesting section of the case.
-  
+- 20-25min: share what you wrote about with your group
 - 5-10 min: together, come up with one example to share with the
   class.
 
 Share out, 30 - 45 min
 - write down the examples on the board
+- start discussion
 
 BREAK - 20 minutes
 
 Freewrite, 10 min
-- having looked closely into some of these arguments, how does your
-  perspective on the legality of AI change?
-- Is there anything different that you you would do now as a result of
-  your research?
-- what about our conversations in last class lead you to have a
-  different perspective on these cases? 
+- based on a prompt form the discussion.
 
 Discuss freewrite, 30-45 min
 
@@ -359,7 +356,78 @@ discussion board posts, at least as a way of starting and grounding
 conversation. 
 
 The readings for next week: Haraway is the hardest. Read her like a
-hawk. 
+hawk.
+
+**** Karen Hao, /The Empire of AI/, 2025.
+- reads like an expose. There's drama. It's sort of breathless.
+- presents AI companies enacting a modern day empire.
+- emphasizes the psychology of the leader, Sam Altman.
+- emphasizes the concentration of power.
+- some good directions at the end of the book.
+  
+**** 2025 OSTP OSTP proposal, march 13, 2025
+- Office of Science and Technology Policy proposal
+- proposals to help OSTP develop "AI Action Plan ... that ensure[s]
+  that American-led AI built on democratic principles continues to
+  prevail over CCP-build autocratic, authoritarian AI".
+- "democratic AI"
+  - "a free market promoting free and fair competition.
+  - "freedom for developers and users to work with our tools"
+  - "preventing government use... to amass power and control their
+    citizens"
+- Positioning against China to create urgency for proposals. 
+  - Deepseek is a threat because "simultaneously state-subsidized,
+    state-controlled, and fully available... cost[ing] users privacy
+    and security."
+- point #3: "Copyright: Promoting the Freedom to Learn"
+  - need to use copyrighted material to compete with China, a "matter
+    of national security."
+  - contradiction between China's "unfettered access" vs OpenAI's
+    "fair use":
+    - "Applying the fair use doctrine to AI is not only a matter of
+      American competitiveness-—it’s a matter of national security.
+      The rapid advances seen with the PRC’s DeepSeek, among other
+      recent developments, show that America’s lead on frontier AI is
+      far from guaranteed. Given concerted state support for critical
+      industries and infrastructure projects, there’s little doubt
+      that the PRC’s AI developers will enjoy unfettered access to
+      data—including copyrighted data—that will improve their models.
+      If the PRC’s developers have unfettered access to data and
+      American companies are left without fair use access, the race
+      for AI is effectively over. America loses, as does the success
+      of democratic AI. Ultimately, access to more data from the
+      widest possible range of sources will ensure more access to more
+      powerful innovations that deliver even more knowledge" (10-11).
+      
+**** The Matrix (1999)
+- what happens?
+  - humankind trying to fight against AI rulers. Humankind created AI
+    and it got smarter. Now traps humans in order to use them as an
+    energy source.
+  - what is the matrix?
+    - the simulation they use in order to keep humans ignorant about
+      the reality, that their bodies are used as energy sources.
+      - the idea of humans being used as an energy source is a
+        compelling one for our time, even in the real world.
+    - mother; table of numbers
+- what is the message of the film?
+  - Love overcomes all.
+  - Does the love story take over the story about revolution? After
+    the guy betrays his team, it becomes a man vs man. About one man
+    trying to screw over another one. Then it becomes about love
+    overcoming that. 
+- how does it apply to today?
+  - the idea that we are living our lives in ignorance of the actual
+    material conditions of our technology, this is true.
+  - that humans are being used as a kind of source, for extraction.
+    What exactly is being extracted? 
+
+**** Joe Rogan interviewing Sam Altman, OpenAI CEO, October 2023: https://www.youtube.com/watch?v=MTJZpO3bTpg 
+- story of technological development is "the story of abundance"
+- costs will fall, abundance will go up. It will transform peoples'
+  lives for the better.
+- we will have some kind of universal income, where everyone will have
+  a stake in the technology. 
 
 ** week 4, being, online
 apple vision pro commercial
@@ -370,21 +438,18 @@ mci TV add 1997: https://www.youtube.com/watch?v=ioVMoeCbrig
 - introductions
 - discuss readings
 - personalized ads activity
-- next week we will start working on the final projects in class,
-  doing some brainstorming about areas of interest
-
-*** introductions 10:
+  
+*** introductions 10m:
 - best place to eat in the city
   - fishcheeks - thai 
   - patsy's pizza
   - lower line (near BK museum)
 
-*** main argument for each reading?
-
+*** review Haraway reading 10m
 
 *** think/pair/share: 30-40 minutes
-- what was one part of the reading that challenged or confused you: 2 minutes
-- what was one part of the reading that compelled you or made you
+- what was one part of haraway that challenged or confused you: 2 minutes
+- what was one part of haraway that compelled you or made you
   think about something differently: 2 minutes
 - groups of 3 or 4: share, choose one of each to share with the class:
   5-10 minutes
@@ -392,14 +457,31 @@ mci TV add 1997: https://www.youtube.com/watch?v=ioVMoeCbrig
 
 *** discuss as a class: 30-45 minutes
 
-*** IF TIME:
-What do Haraway and Woolley have in common and where do they differ?
+*** BREAK
+
+*** review Nakamura reading 10m
+
+*** discussion questions from last class 1h
+- freewrite (10m)
+- discuss (30-45m)
+
+*** final project development 5m
+- what formats do you want to take for your final project?
+  - the default is a paper, but want to give other options.
+    - podcast episode
+    - video essay
+    - in-person presentation
+    - illustrated zine/essay
+  - the rubric will be the same for all of them.
+    - thesis/argument (answering the research question)
+    - evidence to back up claims
+    - analysis to shore up evidence
+    - well-organized and thought-out
+- I want to ask you to think about it. And we can pick back up the
+  conversation next week. 
 
 *** Readings:
-
-**** Donna Haraway, “A Cyborg Manifesto: Science, Technology, and
-Socialist-Feminism in the Late Twentieth Century,” from Simians,
-Cyborgs, and Women: The Reinvention of Nature. 1989. pp. 149-181.
+**** Donna Haraway, “A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century,” from Simians, Cyborgs, and Women: The Reinvention of Nature. 1989. pp. 149-181.
 - What does the *cyborg figure* enable Haraway to do? What does it
   allow her to signify or represent?
   - a mix of ideas, theories, even those taken from oppressive
@@ -438,55 +520,78 @@ Cyborgs, and Women: The Reinvention of Nature. 1989. pp. 149-181.
     - saying things that are not expected,
     - perverting something meant to be sacred. 
 
-**** Wooley, Samuel. /Manufacturing Consensus/. 2023.
-"Anonymity and Automation"
-- Privacy on the internet can hide interests/intentions behind those
-  posting.
 
-What human qualities are these bots playing from or harnessing?
-- emotions, confusion, apathy, anger -> discontent
-- bandwagon effect
-- intimacy/trust in one to one connections
+**** Lisa Nakamura. (2014). “Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture,” American Quarterly 66(4): 919–41.
+- "Haraway draws our attention to the irony that some must labor
+  invisibly for others of us to feel, if not actually /be/, free and
+  empowered through technology use: technoscience is, indeed, an
+  integrated circuit, one that both separates and connects laborers
+  and users, and while both genders benefit from cheap computers, it
+  is the flexible labor of women of color, either outsourced or
+  insourced, that made and continue to make this possible" (919).
+- navajo women were exploited labor, were presented by Fairchild as a
+  "labor of love", reproducing their culture in their work.
+- "promotional materials... reveal how electronics assembly work
+  became both gendered and identified with specific racialized
+  qualities" (924).
 
-Emotions are the goal
-- generating apathy or anger
-- also confustion, so that people don't do anything.
-- "To produce massive amounts of noise, confusion, and polarization in
-  order to obscure the facts of particular events and the motivations
-  of those who put out biased narrtives" (7).
-- "trolling" - use of hate and harassment to intimidate and silence
-- taking up people's time and attention
+Taking indigenous qualities and consigning them within an
+industrialized / capitalistic framework.
+- takes Navajo cultural skill of weaving and applies to to industrial
+  work, saying that it "also requires the same personal commitment to
+  perfection" (928).
+- "Again, the notion of an “inherently flexible” laborer, a worker
+  whose nature it is to be both adaptable and culturally suited, or
+  hardwired, to craft circuit designs onto either yarn or metal
+  appeals to a romantic notion of what Indians are and the role that
+  they play in US histories of technology" (929-930).
+  - appealing to Indian work as natural commodity.
+- this framing "posits indigenous design as informing circuit
+  design--a kind of colonialism in reverse--despite the lack of
+  involvement of indigenous people in the company's research and
+  development arm" (931).
+- this painstaking precision work was redefined as creative work
+  (935).
+- "Navajo women did not make circuits because their brains naturally
+  “thought” in patterns of right-angle colors and shapes. They did not
+  make them well because they had inherent Indian virtues such as
+  stoicism, pride in crafts- womanship, or an inherent and inborn
+  manual dexterity. And Fairchild did not employ Navajo women because
+  of these traits. These traits were identified after the company
+  learned about the tax incentives available to subsidize the project,
+  the lack of unions and other employment options in the area, and the
+  generous donation of heavy equipment given by the US government
+  gratis as part of an incentive to develop “light industry” as an
+  “occupational education” for Indians" (935).
 
-"Bandwagon effect"
-- people will jump on the bandwagon if they see a big following.
-- big followings give an idea/post legitimacy
-- create "shared discontent" - anger, apathy, polarization, that
-  everything is terrible and we should just give up trying to change
-  it. 
+The "Platform" 
+- our analysis of digital focuses too much on the interface, when we
+  ought to focus on how digital is /procedural/.
+- infrastructure as "whatever" - "the material conditions that are
+  usually invisible to the user and are necessary for digital media
+  device creation" (936).
+  - cheap, female labor
+- "Looking inside digital culture means both looking back in time to
+  the roots of the computing industry and the specific material
+  production practices that positioned race and gender as commodities
+  in electronics factories. This labor is temporally hidden, within a
+  very early period of digital computing history, and hidden
+  spatially. We must look to locales and bodies not commonly
+  associated with these technologies, in out of the way places, to see
+  how race operates as a key aspect of digital platform production."
+  (937-8).
+- "On the spectrum of digital labor, factory work soldering chips for
+  iPhones, missiles, and servers is as close to the machine as one can
+  get, as close to the means of digital production— the computer— as
+  can be imagined. It is not creative labor, nor is it free. It is
+  fascinating that, during a pivotal moment in early computing
+  history, the industry’s foremost electron- ics company represented
+  it that way. This story of digital device manufacture on Indian land
+  shows us how the discourse of women’s indigenous cultural production
+  has been used to explain the key role that women of color play
+  within the integrated circuit of production" (938).
+ 
 
-Historicizing propaganda
-- used to be a good thing, a way of feeding information to what was
-  considered an uneducated populace.
-- came from the top
-- now is democratized, created from the people.
-  - power is shifting.
-
-Fact checking does not work in the same way. There is too much
-misinformation out there, and it confers legitimacy.
-
-Terms:
-- nanoinfluencers / automated political influencers (the scariest)
-- algorithms
-- sock puppets
-- native ads
-- disinformation vs misinformation (depends on intention)
-- information laundering
-- state sponsored trolling
-
-
-*** BREAK
-
-*** continue discussion
 *** IF TIME: Activity on Online Ads (20/30):
 - visit two or more of the following:
   - https://myadcenter.google.com/
@@ -1277,76 +1382,7 @@ Deep reading (10m) :
 Small groups: Share what you chose and why. How you are thinking about
 analysis? 
 
-**** Lisa Nakamura. (2014). “Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture,” American Quarterly 66(4): 919–41.
-- "Haraway draws our attention to the irony that some must labor
-  invisibly for others of us to feel, if not actually /be/, free and
-  empowered through technology use: technoscience is, indeed, an
-  integrated circuit, one that both separates and connects laborers
-  and users, and while both genders benefit from cheap computers, it
-  is the flexible labor of women of color, either outsourced or
-  insourced, that made and continue to make this possible" (919).
-- navajo women were exploited labor, were presented by Fairchild as a
-  "labor of love", reproducing their culture in their work.
-- "promotional materials... reveal how electronics assembly work
-  became both gendered and identified with specific racialized
-  qualities" (924).
 
-Taking indigenous qualities and consigning them within an
-industrialized / capitalistic framework.
-- takes Navajo cultural skill of weaving and applies to to industrial
-  work, saying that it "also requires the same personal commitment to
-  perfection" (928).
-- "Again, the notion of an “inherently flexible” laborer, a worker
-  whose nature it is to be both adaptable and culturally suited, or
-  hardwired, to craft circuit designs onto either yarn or metal
-  appeals to a romantic notion of what Indians are and the role that
-  they play in US histories of technology" (929-930).
-  - appealing to Indian work as natural commodity.
-- this framing "posits indigenous design as informing circuit
-  design--a kind of colonialism in reverse--despite the lack of
-  involvement of indigenous people in the company's research and
-  development arm" (931).
-- this painstaking precision work was redefined as creative work
-  (935).
-- "Navajo women did not make circuits because their brains naturally
-  “thought” in patterns of right-angle colors and shapes. They did not
-  make them well because they had inherent Indian virtues such as
-  stoicism, pride in crafts- womanship, or an inherent and inborn
-  manual dexterity. And Fairchild did not employ Navajo women because
-  of these traits. These traits were identified after the company
-  learned about the tax incentives available to subsidize the project,
-  the lack of unions and other employment options in the area, and the
-  generous donation of heavy equipment given by the US government
-  gratis as part of an incentive to develop “light industry” as an
-  “occupational education” for Indians" (935).
-
-The "Platform" 
-- our analysis of digital focuses too much on the interface, when we
-  ought to focus on how digital is /procedural/.
-- infrastructure as "whatever" - "the material conditions that are
-  usually invisible to the user and are necessary for digital media
-  device creation" (936).
-  - cheap, female labor
-- "Looking inside digital culture means both looking back in time to
-  the roots of the computing industry and the specific material
-  production practices that positioned race and gender as commodities
-  in electronics factories. This labor is temporally hidden, within a
-  very early period of digital computing history, and hidden
-  spatially. We must look to locales and bodies not commonly
-  associated with these technologies, in out of the way places, to see
-  how race operates as a key aspect of digital platform production."
-  (937-8).
-- "On the spectrum of digital labor, factory work soldering chips for
-  iPhones, missiles, and servers is as close to the machine as one can
-  get, as close to the means of digital production— the computer— as
-  can be imagined. It is not creative labor, nor is it free. It is
-  fascinating that, during a pivotal moment in early computing
-  history, the industry’s foremost electron- ics company represented
-  it that way. This story of digital device manufacture on Indian land
-  shows us how the discourse of women’s indigenous cultural production
-  has been used to explain the key role that women of color play
-  within the integrated circuit of production" (938).
- 
 **** Ensmenger, Nathan. (2018). “The Environmental History of Computing.” Technology and Culture 59 (4S): S7–33.
 
 About the ways that technological development and resource extraction
