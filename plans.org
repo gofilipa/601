@@ -429,7 +429,7 @@ hawk.
 - we will have some kind of universal income, where everyone will have
   a stake in the technology. 
 
-** week 4, being, online
+** week 4, cyborgs
 apple vision pro commercial
 https://www.youtube.com/watch?v=TX9qSaGXFyg
 mci TV add 1997: https://www.youtube.com/watch?v=ioVMoeCbrig
@@ -445,12 +445,10 @@ mci TV add 1997: https://www.youtube.com/watch?v=ioVMoeCbrig
   - patsy's pizza
   - lower line (near BK museum)
 
-*** review Haraway reading 10m
+*** review Haraway & Nakamura reading 10m
 
 *** think/pair/share: 30-40 minutes
-- what was one part of haraway that challenged or confused you: 2 minutes
-- what was one part of haraway that compelled you or made you
-  think about something differently: 2 minutes
+- what was one part of haraway that challenged you: 2 minutes
 - groups of 3 or 4: share, choose one of each to share with the class:
   5-10 minutes
 - share with the class: write down on the board: 15 minutes
@@ -458,8 +456,6 @@ mci TV add 1997: https://www.youtube.com/watch?v=ioVMoeCbrig
 *** discuss as a class: 30-45 minutes
 
 *** BREAK
-
-*** review Nakamura reading 10m
 
 *** discussion questions from last class 1h
 - freewrite (10m)
@@ -507,10 +503,12 @@ mci TV add 1997: https://www.youtube.com/watch?v=ioVMoeCbrig
   - how power structures and paradigms are shifting over time, a
     problem but also an opportunity. 
   - new models for control in the networked age:
+    - hiegyne -> stress
     - eugenics -> population control
     - race -> economic development
   - women are now in the "integrated circuit", in the "homework
     economy," poverty has been feminized.
+    - womens' labor as the labor for this age of contorl
 - Language: a "problem of coding"
   - we do not want universal translation.
     - we are already cyborgs, the question is will we harness our
@@ -522,6 +520,9 @@ mci TV add 1997: https://www.youtube.com/watch?v=ioVMoeCbrig
 
 
 **** Lisa Nakamura. (2014). “Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture,” American Quarterly 66(4): 919–41.
+Taking up Haraway's call, to form "effective oppositional strategies".
+By looking at Navajo womens' labor, what kind of resistance can we
+find? 
 - "Haraway draws our attention to the irony that some must labor
   invisibly for others of us to feel, if not actually /be/, free and
   empowered through technology use: technoscience is, indeed, an
@@ -545,7 +546,7 @@ industrialized / capitalistic framework.
   hardwired, to craft circuit designs onto either yarn or metal
   appeals to a romantic notion of what Indians are and the role that
   they play in US histories of technology" (929-930).
-  - appealing to Indian work as natural commodity.
+  - appealing to "Indian" work as natural commodity.
 - this framing "posits indigenous design as informing circuit
   design--a kind of colonialism in reverse--despite the lack of
   involvement of indigenous people in the company's research and
@@ -555,7 +556,7 @@ industrialized / capitalistic framework.
 - "Navajo women did not make circuits because their brains naturally
   “thought” in patterns of right-angle colors and shapes. They did not
   make them well because they had inherent Indian virtues such as
-  stoicism, pride in crafts- womanship, or an inherent and inborn
+  stoicism, pride in crafts-womanship, or an inherent and inborn
   manual dexterity. And Fairchild did not employ Navajo women because
   of these traits. These traits were identified after the company
   learned about the tax incentives available to subsidize the project,
@@ -585,8 +586,8 @@ The "Platform"
   get, as close to the means of digital production— the computer— as
   can be imagined. It is not creative labor, nor is it free. It is
   fascinating that, during a pivotal moment in early computing
-  history, the industry’s foremost electron- ics company represented
-  it that way. This story of digital device manufacture on Indian land
+  history, the industry’s foremost electronics company represented it
+  that way. This story of digital device manufacture on Indian land
   shows us how the discourse of women’s indigenous cultural production
   has been used to explain the key role that women of color play
   within the integrated circuit of production" (938).
