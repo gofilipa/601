@@ -617,33 +617,47 @@ The "Platform"
   - How does this relate to topics we've discussed (or haven't yet
     discussed) from our readings? 
  
-** week 5, governance
+** week 5, codes
 Agenda
 - introductions:
   - name, favorite disney character
+- review the cyborg:
+  - cyborg is a "myth" figure, an "ironic" one (unexpected, humorous)
+    to suggest new ways around the problem of identity politics in the
+    1980s.
+  - it both describes the current moment,
+    - where more and more is being technologized, where humans are
+      integrating more and more with machines,
+    - a moment in which humans are being oppressed by "informatics of
+      domination"
+  - and it describes a possibility in the fusion of man and machine
+    - it is a way of resistance, of fighting back.
+    - we never were whole, we never were of the garden of eden, we can
+      embrace the hybridity of our natures.
+    - we can create new kinds of coalition
+  - one method is through writing,
+    - through resisting being "easily read", so to speak.
+    - the one code that translates everything perfectly.
+  - moving forward:
+    - thinking about the cyborg as a figure that can help us think
+      through some of the readings for today,
+      - about technology in social contexts, social systems. 
 - Review: what is the main argument for each reading? 
 - Freewrite 5 min:
-  - what was one part of the reading that was confusing or you didn't
-    quite understand OR
-  - something you found interesting
+  - what is the most interesting aspect of their arguments? 
 - Small groups: share and discuss for 10 minutes, pick one to share out
 - Big group share: 15 min
 - If time: start discussion, 15-30 minutes
-  - define some key terms from each of these authors
-    - surveillance capitalism
-    - new jim code
-    - big other
-    - open evolution
-    - universal standing
 - BREAK
 - continue discussion, going down the list of questions, 30 min
 - or write on this prompt:
-  - "Code" (New Jim Code, Open Code Socieites) means something
+  - "Code" (New Jim Code, Open Code Societies) means something
     different for Benjamin than it does for Lessig. What are these
-    differences?
+    differences, and what are the implications for how we think about
+    the way that "codes" function in social contexts?
     - Do Benjamin and Lessig's ideas talk to each other? How might
       their ideas engage? Could you draw from both of them to talk to
-      the theme of "governance" for this class? 
+      the theme of "codes" for this class? 
   - "Hacking"
     - "Technologies are constituted by unique affordances, but the
       development and expression of those affordances are shaped by
@@ -655,27 +669,14 @@ Agenda
       - what are some possibilities for hacking the big data system?
 	- open source: giving, contributing to our communities. What
           Lessig says about "giving away what one makes, with no
-          guarantee of compensation" (Lessig 107).
-  
-- brainstorming final projects: 30 min
-  - freewrite: 10 minutes
-    - From the past month, what are some of the class conversations or
-      ideas from the reading that you found most compelling?
-      - what about these did you find interesting?
-      - then, identify 2 or 3 keywords or key phrases associated with your interest.
-  - Share with a partner, 5 minutes
-  - Share as a class, making a list of keywords on the board.
+          guarantee of compensation" (Lessig 107)
 
 *** readings
-**** Ruha Benjamin - Introduction, from Race After Technology: Abolitionist
-Tools for the New Jim Code
-
-Talks about how new technologies perpetuate historical prejudices
-about blackness.
-
-Current society perpetuates racism by transforming it into ever new
-tools, in this case, data gathering and surveillance, machine
-learning.
+**** Ruha Benjamin - Introduction, from Race After Technology: Abolitionist Tools for the New Jim Code
+Main argument: new technologies perpetuate discrimination,
+transforming it into new forms. Current society perpetuates anti-black
+discrimination by transforming it into data gathering and
+surveillance, machine learning.
 
 "The New Jim Code" - "the employment of new technologies that reflect
 and reproduce existing inequalities but that are promoted and
@@ -687,12 +688,22 @@ systems of a previous era" (3).
 - the term "code" here means something specific.
   - It means information, markup, about a person.
   - "Codes are both reflective and predictive". They indicate the way
-    that a person will be treated.
+    that a person will be treated in a certain way.
   - Code means something different for Benjamin than it does for
-    Lessig. 
+    Lessig.
 
-The values that drive tool production -- objectivity, profitability --
-are inherently racist:
+Our current tools perpetuate old biases:
+- This is meant as an extension of New Jim Crow, which argues that
+  current society perpetuates racism by criminalizing it, war on
+  drugs, mass incarceration. It diverts racist action into new forms.
+  The newest form of this diversion is technology.
+- “These tech advances are sold as morally superior because they
+  purport to rise above human bias, even though they could not exist
+  without data produced through histories of exclusion and
+  discrimination” (5).
+
+This discrimination is perpetuated because the values that drive tool
+production -- objectivity, profitability -- are inherently racist:
 - “Far from coming upon a sinister story of racist programmers
   scheming in the dark corners of the web, we will find that the
   desire for objectivity, efficiency, profitability, and progress
@@ -708,26 +719,6 @@ are inherently racist:
   more scientifically rooted out. Yet, rather than challenging or
   overcoming the cycles of inequity, technical fixes too often
   reinforce and even deepen the status quo” (3).
-- “The animating force of the New Jim Code is that tech designers
-  encode judgments into technical systems but claim that the racist
-  results of their designs are entirely exterior to the encoding
-  process” (6).
-
-  → are tools good or bad in themselves? I have believed in the past
-  that tools can be used in good or bad ways. That it was about
-  agency, activity, discovery, performance. But it seems that tools
-  themselves contain biases. What is the role of human agency in using
-  biased tools?
-
-Our current tools perpetuate old biases:
-- This is meant as an extension of New Jim Crow, which argues that
-  current society perpetuates racism by criminalizing it, war on
-  drugs, mass incarceration. It diverts racist action into new forms.
-  The newest form of this diversion is technology.
-- “These tech advances are sold as morally superior because they
-  purport to rise above human bias, even though they could not exist
-  without data produced through histories of exclusion and
-  discrimination” (5).
 
 Race is a technology, a tool: 
 - “This field guide explores not only how emerging technologies hide,
@@ -740,7 +731,7 @@ Race is a technology, a tool:
   of tool – one designed to stratify and sanctify social injustice as
   part of the architecture of everyday life” (9).
 
-Being marked, named:
+Being marked, named, is a way of discriminating:
 - "the presumed blandness of White American culture is a crucial part
   of our national narrative."
 - “Invisibility, with regard to Whiteness, offers immunity. To be
@@ -761,44 +752,55 @@ Being marked, named:
   → Wendy Chun’s image of the window. The screen goes both ways. You
   are already being seen when you use technology.
 
-**** Zuboff, S. (2015). Big other: Surveillance Capitalism and the
-Prospects of an Information Civilization. Journal of Information
-Technology, 30(1), 75-89. https://doi.org/10.1057/jit.2015.5
-
+**** Zuboff, S. (2015). Big other: Surveillance Capitalism and the Prospects of an Information Civilization. Journal of Information Technology, 30(1), 75-89. https://doi.org/10.1057/jit.2015.5
 This is a perspective from 2015, how does this compare to Ruha
 Benjamin writing about race in 2021? (Benjamin would say that
 rather than a break with the past, we are doing more of the same). 
 
-What about the terminology here, what does it give us that others
-don't?
+Argument: Takes 4 concepts identified by google exec and shows how
+they together contribute to this new "logic of accumulation" called
+"surveillance capitalism," which represents a departure from market
+capitalism and erodes democratic norms.
 
-- "big data"
-  - "is above all the foundational component in a deeply intentional
-    and highly consequential new logic of accumulation that I call
-    surveillance capitalism" (75).
-    - "new logic of accumulation" -- would Benjamin agree that this
-      logic is new? 
+- A google exec identifies "four uses" of computation, which Zuboff
+  shows they create a new kind of capitalism that's called
+  "surveillance capitalism"
+  1. 'data extraction and analysis'
+     - rather than raising wages with profits, the employee is more
+       distanced from the employer.
+     - The assets are "surveillance assets", they are taken from users
+       often without their knowledge
+       -> isn't this is like the plundering of natural resources,
+       whereas now we are plundering human attention?
+  2. ‘new contractual forms due to better monitoring’
+     - they are actually creating new rules around privacy. Going
+       around and extracting data until they are stopped. How they got
+       "Street View". (And how ChatGPT was created, too).
+       - "New possibilities of subjugation are produced as this
+         innovative institutional logic thrives on unexpected and
+         illegible mechanisms of extraction and control that exile
+         persons from their own behavior" (85).
+  3. ‘personalization and customization'
+    - asymmetries in knowledge: they know much more about you than you
+      know about them.
+  4. - 'continuous experiments'
+    - reality is now commoditized as behavior (85). 
 
+Key Terms
 - "surveillance capitalism"
-  - "unexpected and often illegible *mechanisms* of extraction,
+  - "unexpected and often illegible mechanisms of extraction,
     commodification, and control that effectively exile persons from
     their own behavior while producing new markets of behavioral
     prediction and modification."
   - from "market capitalism" to "surveillance capitalism"
-
-- "big other"
-  - "a ubiquitous networked institutional *regime* that records,
-    modiﬁes, and commodiﬁes everyday experience from toasters to
-    bodies, communication to thought, all with a view to establishing
-    new pathways to monetization and proﬁt. Big Other is the sovereign
-    power of a near future that annihilates the freedom achieved by
-    the rule qof law." (81)
-
-- "informate"
+- "informate" - page 76
   - the ability of a machine to produce information while carrying out
     instructions. It turns normal activities into an "electronic
     text".
-
+  - situates the "logic of accumulation" within this development.
+    - --> in a way, she is saying this didn't exist before, that
+      things weren't tracked in such a way. While this may be true for
+      the white collar workplace, is it true for everyone?
 - "logic of accumulation"
   - which underlies technological tools like Google search. There's an
     old desire to incorporate more and more machines to "enable more
@@ -810,36 +812,27 @@ don't?
     taken-for-granted context of any business model. Its assumptions
     are largely tacit, and its power to shape the ﬁeld of
     possibilities is therefore largely invisible" (77).
-
   -> "logic of accumulation" is one of those things that contribute to
   notions of "objectivity" and "efficiency" which we so value in our
   tools, and which, according to Benjamin, perpetuate racism.
+- "big data"
+  - "is above all the foundational component in a deeply intentional
+    and highly consequential new logic of accumulation that I call
+    surveillance capitalism" (75).
+    - "new logic of accumulation" -- would Benjamin agree that this
+      logic is new? 
+- "big other"
+  - "a ubiquitous networked institutional /regime/ that records,
+    modiﬁes, and commodiﬁes everyday experience from toasters to
+    bodies, communication to thought, all with a view to establishing
+    new pathways to monetization and proﬁt. Big Other is the sovereign
+    power of a near future that annihilates the freedom achieved by
+    the rule of law." (81)
 
-- A google exec identifies "four uses" of computation, which Zuboff
-  shows they create a new kind of capitalism that's called
-  "surveillance capitalism"
-  - 'data (quantity over quality) extraction (one way relationship)
-    and analysis'
-    - rather than raising wages with profits, the employee is more
-      distanced from the employer.
-    - The assets are "surveillance assets", they are taken from users
-      often without their knowledge
-      -> isn't this is like the plundering of natural resources,
-      whereas now we are plundering human attention?
-  - ‘new contractual forms due to better monitoring’
-    - they are actually creating new rules around privacy. Going
-      around and extracting data until they are stopped. How they got
-      "Street View". (And how ChatGPT was created, too).
-      - "New possibilities of subjugation are produced as this
-        innovative institutional logic thrives on unexpected and
-        illegible mechanisms of extraction and control that exile
-        persons from their own behavior" (85).
-  - ‘personalization and customization'
-  - 'continuous experiments'
-
-**** Lessig, Lawrence. (1999). “Open code and open societies: values of
-internet governance,” Chicago-Kent Law Review 74, 101–116.
+**** Lessig, Lawrence. (1999). “Open code and open societies: values of internet governance,” Chicago-Kent Law Review 74, 101–116.
 https://cyber.harvard.edu/works/lessig/final.P
+Certain values from OS philosophy can also apply to democratic
+systems, open evolution and universal standing. 
 
 - How do we read this today?
   - All you need to connect to a URL is an IP address. That's all.
@@ -942,7 +935,7 @@ Data Annotation tools/platforms:
 - Label Studio : https://labelstud.io
 
 *** readings
-**** Costanza-Chock, Sasha (2020). “Introduction: #TravelingWhileTrans, Design Justice, and Escape from the Matrix of Domination” in Design Justice: Community-Led Practices to Build the Worlds We Need. https://designjustice.mitpress.mit.edu/pub/ap8rgw5e/release/1
+**** Costanza-Chock, Sasha (2020). “Introduction" and "Chapter 1" in Design Justice: Community-Led Practices to Build the Worlds We Need. https://designjustice.mitpress.mit.edu/pub/ap8rgw5e/release/1
 The milimeter scanner is not meaning to look for non-conformity in
 gender; it's meant to look for terrorism. It just happens to encode
 this assumption into its UI.
@@ -994,44 +987,13 @@ Design Justice "Principles":
   ableism, settler colonialism, and other forms of structural
   inequity)."
 
+**** McPherson, Tara: "U.S. Operating Systems at Mid-Century The Intertwining of Race and UNIX." 2012. 
 **** Fiesler, Casey, et al. “An Archive of Their Own: A Case Study of Feminist HCI and Values in Design.” Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, Association for Computing Machinery, 2016, pp. 2574–85. ACM Digital Library.
 A community-driven platform for sharing fanfiction.
 
 Open source, volunteer basis. 
 
-**** Berhan Taye, “The Plight of AI Production Pipeline Workers”, from Design Justice in AI conference, July 2024. Watch video from start until minute 36.
-- ways that workers are using the interface of these tools to resist.
 
-Her work categorizes harms from automated systems. She's looking at
-labor.
-
-This current project looks at "data workers". Who are they? What is
-datawork?
-- data work is getting the data prepared to train machine learning
-  systems: cleaning, labeling.
-- Hive, Scale AI are some examples of data work companies.
-- Alexandr Wang, CEO of Scale AI, the "youngest self-made billionare"
-  -- but he's not self-made.
-
-Clients that use Scale AI: Harvard Medical School, Department of
-Defense.
-
-Most data workers do not have contracts with the companies. They are
-the backbones of the company products, but they do not have a formal
-relationship.
-
-"The Resistance" minute 28
-- creating multiple accounts to get paid as much as possible.
-- set up paid VPNs to get better rates from other countries.
-- leasing accounts that have a good track record to make more money.
-- buying US registered accounts.
-- browser extentions to refresh pages to see new jobs.
-- messaging systems to organize / share information. 
-- video chat to encourage each other.
-
-Solutions?
-- legal protections for workers
-- unionization, association formation
 
 ** week 7, archives
 
