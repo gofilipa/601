@@ -885,48 +885,33 @@ Goals
 Agenda
 - introductions
 
-- review the readings
-  - /Design Justice/ introduction:
-  - "An Archive of Our Own" research study:
-  - "The Plight of AI Production Pipeline Workers" video:  
+- review the readings (15m)
+  - /Design Justice/ introduction
+  - McPherson, Tara: "U.S. Operating Systems at Mid-Century The
+    Intertwining of Race and UNIX."
+  - "An Archive of Our Own" research study
   
-- freewrite/discussion(5/5/25) - 1 hr
-  - what questions or areas of interest do you have about these
-    frameworks, or about the readings in general?
-    - make a list of topics.
-    - go down the list.
+- pair and share (10/40) - (50 m)
+
+- freewrite/share (10/20)
+  - examine the UNIX philosophy and the Design Justice Principles side
+    by side. 
+    - What are the benefits of each of the two approaches to design?
+    - Is there any way they can work together?
     
 BREAK
 
-- freewrite 7 min:
-  - thinking about design. 
-  - if your grandmother/father or great-grandmother/father (or some
-    elder friend, family member, or caregiver) could use the internet,
-    what do you think they most want to do on it? How would they want
-    to spend their time? Can you imagine and describe the ideal
-    interface for them (for web browsing, apps, etc.)?
-    - Vovo would want to look at paintints. She would want the user
-      interface to be incredible. Maybe like a flipbook of paintings,
-      she could paginate through them, in the order that they are in
-      the gallery/museum. She could zoom into detail.
-      - Then, she could see other paintings by that artist in the
-        museum, and in other museums. She could quickly navigate
-        between different paintings in different museums, but all on
-        the same interface. The UI would be the same regardless of the
-        particular group who holds the painting.
-	- Viewing art wouldn't be contained by individual private
-          entities, but by one crowd sourced one. 
-	- Kind of like a wikipedia.
-
-- share 20 minutes. 
-
-- re-design activity - 30 min
+- social media app activity - 30 min
   - intro groups of 3 or 4: first, discuss (10 min)
     - choose a social media or related app that you regularly use.
-    - choose some values or principles from ideas we've discussed
-      today. (Design Justice, your grandmother's internet, etc).
+      - following Costanza-Chock and Fiesler et al, think about how
+        you might re-design the app to attend more to the needs of users.
+      - first, identify the needs of the users.
+      - then, identify some features or design elements to address
+        those needs. 
   - share with the class (20 minutes)
 
+- share 20 minutes. 
 
 Data Annotation tools/platforms:
 - CVAT : https://www.cvat.ai/
@@ -935,21 +920,21 @@ Data Annotation tools/platforms:
 - Label Studio : https://labelstud.io
 
 *** readings
-**** Costanza-Chock, Sasha (2020). “Introduction" and "Chapter 1" in Design Justice: Community-Led Practices to Build the Worlds We Need. https://designjustice.mitpress.mit.edu/pub/ap8rgw5e/release/1
+**** Costanza-Chock, Sasha (2020). “Introduction" in Design Justice: Community-Led Practices to Build the Worlds We Need. https://designjustice.mitpress.mit.edu/pub/ap8rgw5e/release/1
 The milimeter scanner is not meaning to look for non-conformity in
 gender; it's meant to look for terrorism. It just happens to encode
 this assumption into its UI.
 
-Small assumptions built into UI will scale up with AI: 
+*Small assumptions* built into UI will scale up with AI:
 - The same cisnormative, racist, and ableist approach that is used to
   train the models of the millimeter wave scanners is now being used
   to develop AI in nearly every domain. From my standpoint, I worry
-  that the current path of AI development will repro-duce systems that
-  erase those of us on the margins, whether intention-ally or not,
+  that the current path of AI development will reproduce systems that
+  erase those of us on the margins, whether intentionally or not,
   through the mundane and relentless repetition of reductive norms
-  structured by the matrix of domination. 
+  structured by the matrix of domination.
 
-Normativity built into UI is constructed from multiple assumptions:
+*Normativity* built into UI is constructed from multiple assumptions:
 - "the particular sociotechnical configuration of gender normativity
   (cis-normativity, or the assumption that all people have a gender
   identity that is consistent with the sex they were assigned at
@@ -978,7 +963,7 @@ Draws from
   - Patricia Hill Collins, 1990, /Black Feminist Thought/.
 
 Design Justice "Principles":
-- good intentions are not enought to ensure that "design processes and
+- good intentions are not enough to ensure that "design processes and
   practices become tools for liberation", but also need principles.
 - "a framework of analysis of how design distributes benefits and
   burdens between various groups of people. Design justice focuses
@@ -987,13 +972,55 @@ Design Justice "Principles":
   ableism, settler colonialism, and other forms of structural
   inequity)."
 
-**** McPherson, Tara: "U.S. Operating Systems at Mid-Century The Intertwining of Race and UNIX." 2012. 
+**** McPherson, Tara: "U.S. Operating Systems at Mid-Century The Intertwining of Race and UNIX." 2012.
+Unix code, which is modular, is apparent in the social structures of
+60s and 70s.
+
+Why is the modular being critiqued?
+- it separates elements within a system, cordones them off from one
+  another, so they can operate against each other without knowing the
+  details of the others' processes.
+  - this allows you to build massive systems through an additive
+    logic, just keep adding, just keep scaling up. Great for
+    capitalism. Easily managed.
+- enables a "rhetoric of colorblindness" -- we can claim that parts of
+  an element (race) shouldn't and doesn't matter. 
+
+Our tools aren’t neutral, and we philosophically and socially
+compartmentalize in a way that’s also evident in technology and
+coding.
+
+This article is not just an argument about race, but about the
+university as an institution, that modularizes.
+- English department methodology, "New Criticism", it' "fields" aiming
+  for "coverage", including hiring POC faculty to fill the gaps. 
+
+"Lenticular logics" - an image that contains many images, but only can
+be seen one at a time at various angles.
+- "serves to secure our understandings of race in very narrow
+  registers, fixating on sameness or difference while
+  forestalling connection and interrelation." (25).
+- "We might understand UNIX as the way in which the emerging logics of
+  the lenticular and of the covert racism of colorblindness get ported
+  into our computational systems" (25). 
 **** Fiesler, Casey, et al. “An Archive of Their Own: A Case Study of Feminist HCI and Values in Design.” Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, Association for Computing Machinery, 2016, pp. 2574–85. ACM Digital Library.
 A community-driven platform for sharing fanfiction.
 
-Open source, volunteer basis. 
+Open source, volunteer basis.
 
+Folksonomy tagging system.
+- "merpeople" meta tag is invisible to users, but allows all merfolk
+  to be shown when searching something more specific (2575).
 
+Built from values:
+- "Everything we add has to be accessible; otherwise it's not added."
+  - Contrast to UNIX philosophy.
+
+There is necessary complexity to help account for multiple needs:
+- multiple pseudonyms
+- anonymous posts
+- orphaned posts/comments
+- no spoiler disclaimer
 
 ** week 7, archives
 
